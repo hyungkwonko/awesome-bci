@@ -776,7 +776,7 @@ footer {
 }
 
 .footer-nav h3, 
-.footer-resources h3,
+.footer-docs h3,
 .footer-contact h3 {
     margin-bottom: 1.25rem;
     font-size: 1.2rem;
@@ -786,7 +786,7 @@ footer {
 }
 
 .footer-nav h3:after, 
-.footer-resources h3:after,
+.footer-docs h3:after,
 .footer-contact h3:after {
     content: '';
     position: absolute;
@@ -798,7 +798,7 @@ footer {
 }
 
 .footer-nav ul,
-.footer-resources ul,
+.footer-docs ul,
 .footer-contact ul {
     display: flex;
     flex-direction: column;
@@ -806,7 +806,7 @@ footer {
 }
 
 .footer-nav a, 
-.footer-resources a,
+.footer-docs a,
 .footer-contact a {
     color: #bdbdbd;
     transition: var(--transition);
@@ -816,7 +816,7 @@ footer {
 }
 
 .footer-nav a:hover, 
-.footer-resources a:hover,
+.footer-docs a:hover,
 .footer-contact a:hover {
     color: var(--primary-light);
     transform: translateX(3px);
@@ -898,7 +898,7 @@ footer {
         gap: 2rem;
     }
     
-    .footer-info, .footer-nav, .footer-resources, .footer-contact {
+    .footer-info, .footer-nav, .footer-docs, .footer-contact {
         padding: 0 1rem;
     }
 }
