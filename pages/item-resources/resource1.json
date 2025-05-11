@@ -1,0 +1,31 @@
+{
+  "title": "OpenBCI Toolkit",
+  "author": "OpenBCI Community",
+  "year": 2023,
+  "description": "An open-source toolkit for BCI development, including hardware schematics, firmware, and software for signal processing and visualization.",
+  "long_description": "The OpenBCI Toolkit is a comprehensive collection of open-source tools designed for brain-computer interface development. It includes detailed hardware schematics for EEG acquisition devices, firmware to operate these devices, and software applications for signal processing, visualization, and analysis. The toolkit supports various use cases from research and education to DIY projects and commercial applications. Key features include real-time signal processing capabilities, compatibility with multiple programming languages (Python, MATLAB, JavaScript), extensive documentation, and a large community of contributors providing support and extensions.",
+  "type": "tools",
+  "url": "https://example.com/openbci-toolkit",
+  "github": "https://github.com/example/openbci-toolkit",
+  "programming_languages": [
+    "Python",
+    "C++",
+    "JavaScript",
+    "MATLAB"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Android"
+  ],
+  "license": "MIT License",
+  "tags": [
+    "hardware",
+    "software",
+    "signal processing",
+    "visualization",
+    "open-source"
+  ],
+  "added_date": "2023-09-08"
+}

@@ -1,0 +1,133 @@
+<!-- pages/resources.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resources - Awesome BCI</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <a href="../index.html" class="logo">
+        <i class="fas fa-brain"></i> Awesome BCI
+      </a>
+      <ul class="nav-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="papers.html">Papers</a></li>
+        <li><a href="datasets.html">Datasets</a></li>
+        <li><a href="resources.html" class="active">Resources</a></li>
+        <li><a href="https://github.com/yourusername/awesome-bci" target="_blank"><i class="fab fa-github"></i>
+            GitHub</a></li>
+      </ul>
+      <div class="menu-toggle">
+        <i class="fas fa-bars"></i>
+      </div>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <div class="container">
+      <h1>BCI Resources</h1>
+      <p>Tools, videos, and articles to help you in your BCI research</p>
+    </div>
+  </header>
+
+  <section class="content-section">
+    <div class="container">
+      <div class="tabs">
+        <button class="tab-btn active" data-target="tools">Tools</button>
+        <button class="tab-btn" data-target="media">Videos & Articles</button>
+      </div>
+
+      <div class="controls">
+        <div class="search-box">
+          <input type="text" id="search-resources" placeholder="Search resources...">
+          <i class="fas fa-search"></i>
+        </div>
+      </div>
+
+      <!-- Tools Tab -->
+      <div id="tools" class="tab-content active">
+        <div class="list-container">
+          <ul id="tools-list" class="resource-list">
+            <!-- Tools will be loaded here -->
+          </ul>
+        </div>
+        <div id="loading-tools" class="loading">
+          <div class="spinner"></div>
+          <p>Loading tools...</p>
+        </div>
+        <div id="no-tools-results" class="no-results hidden">
+          <i class="fas fa-search"></i>
+          <p>No tools found matching your search criteria.</p>
+        </div>
+      </div>
+
+      <!-- Videos & Articles Tab -->
+      <div id="media" class="tab-content">
+        <div class="list-container">
+          <ul id="media-list" class="resource-list">
+            <!-- Videos and articles will be loaded here -->
+          </ul>
+        </div>
+        <div id="loading-media" class="loading">
+          <div class="spinner"></div>
+          <p>Loading videos & articles...</p>
+        </div>
+        <div id="no-media-results" class="no-results hidden">
+          <i class="fas fa-search"></i>
+          <p>No videos or articles found matching your search criteria.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-logo">
+          <i class="fas fa-brain"></i> Awesome BCI
+          <p>A curated collection of Brain-Computer Interface resources</p>
+        </div>
+        <div class="footer-links">
+          <h3>Pages</h3>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="papers.html">Papers</a></li>
+            <li><a href="datasets.html">Datasets</a></li>
+            <li><a href="resources.html">Resources</a></li>
+          </ul>
+        </div>
+        <div class="footer-social">
+          <h3>Connect</h3>
+          <div class="social-icons">
+            <a href="https://twitter.com/hyungkwonko" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://linkedin.com/in/hyungkwonko" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/hyungkwonko/awesome-brain-computer-interface" target="_blank"><i
+                class="fab fa-github"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; <span id="current-year"></span> Awesome BCI. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/script.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      loadResources();
+    });
+  </script>
+</body>
+
+</html>

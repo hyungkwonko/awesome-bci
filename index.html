@@ -1,0 +1,123 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome BCI - Brain-Computer Interface Resources</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <a href="index.html" class="logo">
+        <i class="fas fa-brain"></i> Awesome BCI
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="pages/papers.html">Papers</a></li>
+        <li><a href="pages/datasets.html">Datasets</a></li>
+        <li><a href="pages/resources.html">Resources</a></li>
+        <li><a href="https://github.com/yourusername/awesome-bci" target="_blank"><i class="fab fa-github"></i>
+            GitHub</a></li>
+      </ul>
+      <div class="menu-toggle">
+        <i class="fas fa-bars"></i>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="container">
+      <h1>Awesome BCI</h1>
+      <p>A curated collection of Brain-Computer Interface papers, datasets, and resources</p>
+      <div class="hero-buttons">
+        <a href="pages/papers.html" class="btn btn-primary">Explore Papers</a>
+        <a href="pages/datasets.html" class="btn btn-secondary">Browse Datasets</a>
+      </div>
+    </div>
+    <div class="hero-image animated">
+      <div class="brain-waves">
+        <svg viewBox="0 0 600 200" width="100%" height="100%">
+          <path class="wave wave1" d="M0,100 C150,180 350,0 600,100" fill="none" stroke="var(--primary-color)"
+            stroke-width="2"></path>
+          <path class="wave wave2" d="M0,100 C200,20 400,180 600,100" fill="none" stroke="var(--secondary-color)"
+            stroke-width="2"></path>
+          <path class="wave wave3" d="M0,100 C250,180 350,20 600,100" fill="none" stroke="var(--accent-color)"
+            stroke-width="2"></path>
+        </svg>
+      </div>
+    </div>
+  </header>
+
+  <section class="overview">
+    <div class="container">
+      <div class="stats">
+        <div class="stat-item">
+          <span id="papers-count">0</span>
+          <p>Papers</p>
+        </div>
+        <div class="stat-item">
+          <span id="datasets-count">0</span>
+          <p>Datasets</p>
+        </div>
+        <div class="stat-item">
+          <span id="resources-count">0</span>
+          <p>Resources</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="contribute">
+    <div class="container">
+      <h2>Contribute to Awesome BCI</h2>
+      <p>Help grow this collection by adding new papers, datasets, and resources.</p>
+      <a href="https://github.com/hyungkwonko/awesome-brain-computer-interface/blob/main/CONTRIBUTING.md"
+        class="btn btn-primary" target="_blank">Learn
+        How to Contribute</a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-logo">
+          <i class="fas fa-brain"></i> Awesome BCI
+          <p>A curated collection of Brain-Computer Interface resources</p>
+        </div>
+        <div class="footer-links">
+          <h3>Pages</h3>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="pages/papers.html">Papers</a></li>
+            <li><a href="pages/datasets.html">Datasets</a></li>
+            <li><a href="pages/resources.html">Resources</a></li>
+          </ul>
+        </div>
+        <div class="footer-social">
+          <h3>Connect</h3>
+          <div class="social-icons">
+            <a href="https://twitter.com/hyungkwonko" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://linkedin.com/in/hyungkwonko" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/hyungkwonko/awesome-brain-computer-interface" target="_blank"><i
+                class="fab fa-github"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; <span id="current-year"></span> Awesome BCI. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>

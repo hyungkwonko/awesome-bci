@@ -1,0 +1,39 @@
+{
+  "title": "Introduction to Brain-Computer Interfaces",
+  "author": "Neurotech EDU",
+  "year": 2023,
+  "description": "Comprehensive video series covering the fundamentals of BCI technology, from signal acquisition to machine learning models for decoding brain signals.",
+  "long_description": "This educational video series provides a comprehensive introduction to brain-computer interface technology, suitable for beginners and intermediate learners. The series consists of 12 episodes, each approximately 20-30 minutes long, covering topics from basic neurophysiology and signal acquisition techniques to advanced machine learning algorithms for decoding neural signals. The content includes practical demonstrations, interviews with leading researchers, and case studies of successful BCI applications. All videos include detailed annotations, transcripts, and supplementary reading materials for deeper exploration of each topic.",
+  "type": "media",
+  "subtype": "video series",
+  "url": "https://example.com/bci-intro-video",
+  "duration": "5 hours total",
+  "episodes": 12,
+  "topics": [
+    "Introduction to neuroscience basics",
+    "EEG signal acquisition",
+    "Signal preprocessing techniques",
+    "Feature extraction methods",
+    "Classification algorithms",
+    "Transfer learning in BCI",
+    "Online vs. offline BCI systems",
+    "BCI applications for communication",
+    "BCI applications for control",
+    "Neurofeedback systems",
+    "Ethical considerations",
+    "Future directions in BCI research"
+  ],
+  "audience": [
+    "Students",
+    "Researchers",
+    "Hobbyists",
+    "Industry professionals"
+  ],
+  "tags": [
+    "educational",
+    "tutorial",
+    "video",
+    "fundamentals"
+  ],
+  "added_date": "2023-05-15"
+}

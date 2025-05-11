@@ -1,0 +1,21 @@
+{
+  "title": "OpenBCI P300 Speller Dataset",
+  "authors": [
+    "Park, H.",
+    "Kim, J."
+  ],
+  "year": 2022,
+  "description": "Dataset containing EEG signals recorded during P300 speller experiments. Includes data from 20 subjects with varying levels of BCI experience.",
+  "full_description": "This dataset contains EEG recordings from 20 healthy volunteers participating in P300 speller BCI experiments. The P300 speller presents a 6×6 matrix of characters, with rows and columns flashing randomly. Subjects were asked to focus on specific characters while the rows and columns flashed, causing P300 responses when the target character's row or column was illuminated. Data was collected using an OpenBCI Ultracortex Mark IV headset with 16 channels positioned according to the international 10-20 system. The dataset includes both training and test sessions for each subject, along with performance metrics and questionnaires assessing user experience.",
+  "data_format": "CSV and raw OpenBCI format",
+  "size": "1.7 GB",
+  "number_of_subjects": 20,
+  "number_of_channels": 16,
+  "sampling_rate": 250,
+  "url": "https://example.com/dataset2",
+  "download": "https://example.com/download/dataset2",
+  "paper": "https://example.com/paper/dataset2",
+  "citation": "Park H., Kim J. (2022). OpenBCI P300 Speller Dataset: A comprehensive collection for P300-based BCI development. Data in Brief, 42, 108149.",
+  "license": "MIT License",
+  "added_date": "2022-11-14"
+}

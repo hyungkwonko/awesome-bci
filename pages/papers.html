@@ -1,0 +1,134 @@
+<!-- pages/papers.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Papers - Awesome BCI</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <a href="../index.html" class="logo">
+        <i class="fas fa-brain"></i> Awesome BCI
+      </a>
+      <ul class="nav-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="papers.html" class="active">Papers</a></li>
+        <li><a href="datasets.html">Datasets</a></li>
+        <li><a href="resources.html">Resources</a></li>
+        <li><a href="https://github.com/yourusername/awesome-bci" target="_blank"><i class="fab fa-github"></i>
+            GitHub</a></li>
+      </ul>
+      <div class="menu-toggle">
+        <i class="fas fa-bars"></i>
+      </div>
+    </div>
+  </nav>
+
+  <header class="page-header">
+    <div class="container">
+      <h1>BCI Research Papers</h1>
+      <p>A comprehensive collection of research papers in the field of Brain-Computer Interfaces</p>
+    </div>
+  </header>
+
+  <section class="content-section">
+    <div class="container">
+      <div class="controls">
+        <div class="search-box">
+          <input type="text" id="search-papers" placeholder="Search papers...">
+          <i class="fas fa-search"></i>
+        </div>
+        <div class="sort-options">
+          <label for="sort-papers">Sort by:</label>
+          <select id="sort-papers">
+            <option value="year-desc">Year (Newest First)</option>
+            <option value="year-asc">Year (Oldest First)</option>
+            <option value="title-asc">Title (A-Z)</option>
+            <option value="title-desc">Title (Z-A)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="table-container">
+        <table id="papers-table" class="data-table papers-table">
+          <thead>
+            <tr>
+              <th>Title</th>
+              <th>Authors</th>
+              <th>Year</th>
+              <th>Publication</th>
+              <th>Links</th>
+            </tr>
+          </thead>
+          <tbody id="papers-list">
+            <!-- Papers will be loaded here -->
+          </tbody>
+        </table>
+      </div>
+
+      <div id="papers-pagination" class="pagination">
+        <!-- Pagination will be generated here -->
+      </div>
+
+      <div id="loading" class="loading">
+        <div class="spinner"></div>
+        <p>Loading papers...</p>
+      </div>
+
+      <div id="no-results" class="no-results hidden">
+        <i class="fas fa-search"></i>
+        <p>No papers found matching your search criteria.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-logo">
+          <i class="fas fa-brain"></i> Awesome BCI
+          <p>A curated collection of Brain-Computer Interface resources</p>
+        </div>
+        <div class="footer-links">
+          <h3>Pages</h3>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="papers.html">Papers</a></li>
+            <li><a href="datasets.html">Datasets</a></li>
+            <li><a href="resources.html">Resources</a></li>
+          </ul>
+        </div>
+        <div class="footer-social">
+          <h3>Connect</h3>
+          <div class="social-icons">
+            <a href="https://twitter.com/hyungkwonko" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://linkedin.com/in/hyungkwonko" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/hyungkwonko/awesome-brain-computer-interface" target="_blank"><i
+                class="fab fa-github"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; <span id="current-year"></span> Awesome BCI. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/script.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      loadPapers();
+    });
+  </script>
+</body>
+
+</html>

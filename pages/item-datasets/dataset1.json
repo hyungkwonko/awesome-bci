@@ -1,0 +1,22 @@
+{
+  "title": "EEG Motor Movement/Imagery Dataset",
+  "authors": [
+    "Goldberger, A.",
+    "Amaral, L.",
+    "Glass, L."
+  ],
+  "year": 2023,
+  "description": "A large dataset of EEG recordings from subjects performing motor movement and motor imagery tasks. Includes data from 109 subjects performing 14 different motor tasks.",
+  "full_description": "This dataset consists of EEG recordings from 109 volunteers, each performing 14 experimental runs: two baseline runs (one with eyes open, one with eyes closed), and four runs of each of the following tasks: opening and closing left or right fist as specified by a cue on screen; imagining opening and closing left or right fist as specified by a cue on screen; and opening and closing both fists or both feet as specified by a cue on screen. Subjects were fitted with an EEG cap with 64 electrodes positioned according to the international 10-20 system, with a sampling rate of 160 Hz.",
+  "data_format": "EDF (European Data Format)",
+  "size": "2.3 GB",
+  "number_of_subjects": 109,
+  "number_of_channels": 64,
+  "sampling_rate": 160,
+  "url": "https://example.com/dataset1",
+  "download": "https://example.com/download/dataset1",
+  "paper": "https://example.com/paper/dataset1",
+  "citation": "Goldberger A., Amaral L., Glass L., et al. (2023). EEG Motor Movement/Imagery Dataset. Example Journal of Neuroscience Data, 15(2), 123-145.",
+  "license": "CC BY-NC-SA 4.0",
+  "added_date": "2023-04-30"
+}
