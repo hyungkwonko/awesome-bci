@@ -332,7 +332,7 @@ function renderPapersTable(papers, container) {
         
         row.innerHTML = `
             <td>
-                <strong>${paper.title}</strong>
+                <span class="paper-title">${paper.title}</span>
             </td>
             <td>${paper.authors.join(', ')}</td>
             <td>${paper.year}</td>
@@ -469,7 +469,7 @@ function renderDatasetsTable(datasets, container) {
         
         row.innerHTML = `
             <td>
-                <strong>${dataset.title}</strong>
+                <span class="dataset-title">${dataset.title}</span>
             </td>
             <td>${dataset.authors.join(', ')}</td>
             <td>${dataset.year}</td>
@@ -480,7 +480,7 @@ function renderDatasetsTable(datasets, container) {
                 ${dataset.paper ? `<a href="${dataset.paper}" target="_blank" class="link-btn" title="Paper"><i class="fas fa-file-alt"></i></a>` : ''}
             </td>
         `;
-        
+
         container.appendChild(row);
     });
 }
