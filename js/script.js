@@ -1,4 +1,209 @@
 // js/script.js
+document.addEventListener('DOMContentLoaded', function() {
+    // Set current year in footer
+    document.getElementById('current-year').textContent = new Date().getFullYear();
+
+    // Mobile menu toggle
+    const menuToggle = document.querySelector('.menu-toggle');
+    const navLinks = document.querySelector('.nav-links');
+
+    if (menuToggle && navLinks) {
+        menuToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    }
+
+    // Tab functionality for resources page
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const tabContents = document.querySelectorAll('.tab-content');
+
+    if (tabBtns.length && tabContents.length) {
+        tabBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const target = btn.dataset.target;
+                
+                // Remove active class from all buttons and contents
+                tabBtns.forEach(b => b.classList.remove('active'));
+                tabContents.forEach(c => c.classList.remove('active'));
+                
+                // Add active class to current button and content
+                btn.classList.add('active');
+                document.getElementById(target).classList.add('active');
+            });
+        });
+    }
+
+    // Execute page-specific functions based on current page
+    const currentPath = window.location.pathname;
+    
+    if (currentPath.endsWith('index.html') || currentPath.endsWith('/')) {
+        // Initialize particles.js if it exists
+        if (typeof particlesJS !== 'undefined' && document.getElementById('hero-particles')) {
+            particlesJS("hero-particles", {
+                "particles": {
+                    "number": {
+                        "value": 80,
+                        "density": {
+                            "enable": true,
+                            "value_area": 800
+                        }
+                    },
+                    "color": {
+                        "value": "#6200ea"
+                    },
+                    "shape": {
+                        "type": "circle",
+                        "stroke": {
+                            "width": 0,
+                            "color": "#000000"
+                        },
+                        "polygon": {
+                            "nb_sides": 5
+                        }
+                    },
+                    "opacity": {
+                        "value": 0.5,
+                        "random": false,
+                        "anim": {
+                            "enable": false,
+                            "speed": 1,
+                            "opacity_min": 0.1,
+                            "sync": false
+                        }
+                    },
+                    "size": {
+                        "value": 3,
+                        "random": true,
+                        "anim": {
+                            "enable": false,
+                            "speed": 40,
+                            "size_min": 0.1,
+                            "sync": false
+                        }
+                    },
+                    "line_linked": {
+                        "enable": true,
+                        "distance": 150,
+                        "color": "#9d46ff",
+                        "opacity": 0.4,
+                        "width": 1
+                    },
+                    "move": {
+                        "enable": true,
+                        "speed": 2,
+                        "direction": "none",
+                        "random": false,
+                        "straight": false,
+                        "out_mode": "out",
+                        "bounce": false,
+                        "attract": {
+                            "enable": false,
+                            "rotateX": 600,
+                            "rotateY": 1200
+                        }
+                    }
+                },
+                "interactivity": {
+                    "detect_on": "canvas",
+                    "events": {
+                        "onhover": {
+                            "enable": true,
+                            "mode": "grab"
+                        },
+                        "onclick": {
+                            "enable": true,
+                            "mode": "push"
+                        },
+                        "resize": true
+                    },
+                    "modes": {
+                        "grab": {
+                            "distance": 140,
+                            "line_linked": {
+                                "opacity": 1
+                            }
+                        },
+                        "bubble": {
+                            "distance": 400,
+                            "size": 40,
+                            "duration": 2,
+                            "opacity": 8,
+                            "speed": 3
+                        },
+                        "repulse": {
+                            "distance": 200,
+                            "duration": 0.4
+                        },
+                        "push": {
+                            "particles_nb": 4
+                        },
+                        "remove": {
+                            "particles_nb": 2
+                        }
+                    }
+                },
+                "retina_detect": true
+            });
+        }
+        
+        loadRecentItems();
+        updateStats();
+    } else if (currentPath.includes('papers.html')) {
+        loadPapers();
+    } else if (currentPath.includes('datasets.html')) {
+        loadDatasets();
+    } else if (currentPath.includes('resources.html')) {
+        loadResources();
+    }
+    
+    // Counter animation for stats
+    const counters = document.querySelectorAll('.counter');
+    
+    function animateCounter() {
+        counters.forEach(counter => {
+            const target = parseInt(counter.textContent, 10);
+            const count = parseInt(counter.getAttribute('data-count') || 0, 10);
+            const speed = 50; // animation speed
+            const inc = target / speed;
+            
+            if (count < target) {
+                counter.setAttribute('data-count', Math.ceil(count + inc));
+                counter.textContent = Math.ceil(count + inc);
+                setTimeout(animateCounter, 20);
+            } else {
+                counter.textContent = target;
+            }
+        });
+    }
+
+    // Start counter animation when elements are in view
+    if ('IntersectionObserver' in window) {
+        const observerOptions = {
+            threshold: 0.5
+        };
+        
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    animateCounter();
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+        
+        const statsSection = document.querySelector('.stats');
+        if (statsSection) {
+            observer.observe(statsSection);
+        }
+    } else {
+        // Fallback for browsers that don't support IntersectionObserver
+        const statsSection = document.querySelector('.stats');
+        if (statsSection) {
+            animateCounter();
+        }
+    }
+});
+
 // Render pagination
 function renderPagination(container, currentPage, totalPages, onPageChange) {
     if (!container) return;
@@ -81,49 +286,7 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
         }
     });
     container.appendChild(nextBtn);
-}// DOM Elements
-document.addEventListener('DOMContentLoaded', function() {
-    // Set current year in footer
-    document.getElementById('current-year').textContent = new Date().getFullYear();
-
-    // Mobile menu toggle
-    const menuToggle = document.querySelector('.menu-toggle');
-    const navLinks = document.querySelector('.nav-links');
-
-    if (menuToggle && navLinks) {
-        menuToggle.addEventListener('click', () => {
-            navLinks.classList.toggle('active');
-        });
-    }
-
-    // Tab functionality for resources page
-    const tabBtns = document.querySelectorAll('.tab-btn');
-    const tabContents = document.querySelectorAll('.tab-content');
-
-    if (tabBtns.length && tabContents.length) {
-        tabBtns.forEach(btn => {
-            btn.addEventListener('click', () => {
-                const target = btn.dataset.target;
-                
-                // Remove active class from all buttons and contents
-                tabBtns.forEach(b => b.classList.remove('active'));
-                tabContents.forEach(c => c.classList.remove('active'));
-                
-                // Add active class to current button and content
-                btn.classList.add('active');
-                document.getElementById(target).classList.add('active');
-            });
-        });
-    }
-
-    // Execute page-specific functions based on current page
-    const currentPath = window.location.pathname;
-    
-    if (currentPath.endsWith('index.html') || currentPath.endsWith('/')) {
-        loadRecentItems();
-        updateStats();
-    }
-});
+}
 
 // Load the most recent items for the homepage
 async function loadRecentItems() {
@@ -339,7 +502,6 @@ function renderPapersTable(papers, container) {
             <td>${paper.publication}</td>
             <td class="links">
                 ${paper.doi ? `<a href="https://doi.org/${paper.doi}" target="_blank" class="link-btn" title="DOI"><i class="fas fa-external-link-alt"></i></a>` : ''}
-                ${paper.pdf ? `<a href="${paper.pdf}" target="_blank" class="link-btn" title="PDF"><i class="fas fa-file-pdf"></i></a>` : ''}
                 ${paper.code ? `<a href="${paper.code}" target="_blank" class="link-btn" title="Code"><i class="fas fa-code"></i></a>` : ''}
             </td>
         `;
@@ -480,7 +642,7 @@ function renderDatasetsTable(datasets, container) {
                 ${dataset.paper ? `<a href="${dataset.paper}" target="_blank" class="link-btn" title="Paper"><i class="fas fa-file-alt"></i></a>` : ''}
             </td>
         `;
-
+        
         container.appendChild(row);
     });
 }
@@ -638,32 +800,3 @@ async function fetchJSON(path, category = null) {
     return [];
   }
 }
-
-// Infinite scroll implementation for papers and datasets
-window.addEventListener('scroll', function() {
-    const scrollPosition = window.innerHeight + window.scrollY;
-    const bodyHeight = document.body.offsetHeight;
-    
-    // Implement infinite scroll only when we're near the bottom
-    if (scrollPosition >= bodyHeight - 500) {
-        // Check which page we're on
-        const currentPath = window.location.pathname;
-        
-        if (currentPath.includes('papers.html')) {
-            // Load more papers
-            // This is where you would implement the actual logic to load more papers
-            console.log('Loading more papers...');
-        } else if (currentPath.includes('datasets.html')) {
-            // Load more datasets
-            // This is where you would implement the actual logic to load more datasets
-            console.log('Loading more datasets...');
-        } else if (currentPath.includes('resources.html')) {
-            // Load more resources based on active tab
-            const activeTab = document.querySelector('.tab-btn.active');
-            if (activeTab) {
-                const target = activeTab.dataset.target;
-                console.log('Loading more resources for', target);
-            }
-        }
-    }
-});
