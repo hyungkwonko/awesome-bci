@@ -1032,8 +1032,9 @@ footer {
     
     .hero-buttons {
         flex-direction: column;
-        width: 100%;
-        gap: 1rem;
+        width: 70%;
+        gap: 1.5rem;
+        margin: 0 auto;
     }
     
     .stat-card {
@@ -1116,7 +1117,7 @@ footer {
     }
 
     .hero h1 {
-        font-size: 2rem;
+        font-size: 2.8rem;
     }
     
     .page-header h1 {
@@ -1132,4 +1133,117 @@ footer {
         height: 28px;
         font-size: 0.75rem;
     }
+}
+
+/* Mobile Table Enhancements */
+@media (max-width: 768px) {
+  /* Hide non-essential columns on mobile */
+  .data-table.papers-table th:not(:first-child):not(:last-child),
+  .data-table.papers-table td:not(:first-child):not(:last-child),
+  .data-table.datasets-table th:not(:first-child):not(:last-child),
+  .data-table.datasets-table td:not(:first-child):not(:last-child) {
+    display: none;
+  }
+  
+  /* Make the title column take full width */
+  .data-table.papers-table th:first-child,
+  .data-table.papers-table td:first-child,
+  .data-table.datasets-table th:first-child,
+  .data-table.datasets-table td:first-child {
+    width: 75%;
+    padding-right: 0;
+  }
+  
+  /* Style the links column */
+  .data-table.papers-table th:last-child,
+  .data-table.papers-table td:last-child,
+  .data-table.datasets-table th:last-child,
+  .data-table.datasets-table td:last-child {
+    width: 25%;
+    text-align: center;
+  }
+  
+  /* Add expandable row for details */
+  .data-table tr.expandable-row {
+    display: none;
+    background-color: var(--bg-gray);
+  }
+  
+  .data-table tr.expandable-row.active {
+    display: table-row;
+  }
+  
+  .data-table tr.expandable-row td {
+    padding: 1rem;
+    border-top: none;
+  }
+  
+  .data-table tr.expandable-row .paper-details,
+  .data-table tr.expandable-row .dataset-details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .data-table tr.expandable-row .paper-detail-item,
+  .data-table tr.expandable-row .dataset-detail-item {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .data-table tr.expandable-row .paper-detail-label,
+  .data-table tr.expandable-row .dataset-detail-label {
+    font-weight: 600;
+    color: var(--text-medium);
+    font-size: 0.85rem;
+  }
+  
+  .data-table tr.expandable-row .paper-detail-value,
+  .data-table tr.expandable-row .dataset-detail-value {
+    font-size: 0.95rem;
+  }
+  
+  /* Style for link buttons in expandable row */
+  .data-table tr.expandable-row .link-buttons {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.75rem;
+  }
+  
+  /* Make paper/dataset titles look clickable */
+  .data-table .paper-title,
+  .data-table .dataset-title {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: var(--transition);
+  }
+  
+  .data-table .paper-title:hover,
+  .data-table .dataset-title:hover {
+    color: var(--primary-color);
+  }
+  
+  .data-table .paper-title:after,
+  .data-table .dataset-title:after {
+    content: '\f078';
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    margin-left: 0.5rem;
+    font-size: 0.8rem;
+    color: var(--text-medium);
+    transition: var(--transition);
+  }
+  
+  .data-table .paper-title.active:after,
+  .data-table .dataset-title.active:after {
+    transform: rotate(180deg);
+    color: var(--primary-color);
+  }
+
+  /* hide all but the first link in the last cell */
+  .data-table.papers-table td:last-child > a:not(:first-child),
+  .data-table.datasets-table td:last-child > a:not(:first-child) {
+    display: none;
+  }
 }
