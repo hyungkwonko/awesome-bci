@@ -1,0 +1,27 @@
+{
+  "title": "Single-trial dynamics of motor cortex and their applications to brain-machine interfaces",
+  "authors": [
+    "Jonathan C. Kao",
+    "Paul Nuyujukian",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2015,
+  "publication": "Nature Communications",
+  "abstract": "In online experiments with monkeys the authors demonstrate, for the first time, that incorporating neural dynamics substantially improves brain–machine interface performance. This result is consistent with a framework hypothesizing that motor cortex is a dynamical machine that generates movement.",
+  "keywords": [
+    "single",
+    "trial",
+    "dynamics",
+    "motor",
+    "cortex"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/ncomms8759.pdf",
+  "code": "",
+  "bibtex": "@article{jonathanckao2015,\n  title={Single-trial dynamics of motor cortex and their applications to brain-machine interfaces},\n  author={Jonathan C. Kao and Paul Nuyujukian and Krishna V. Shenoy},\n  journal={Nature Communications},\n  volume={6},\n  pages={1-12},\n  year={2015},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2015-07-29",
+  "volume": "6",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/ncomms8759"
+}

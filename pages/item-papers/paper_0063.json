@@ -1,0 +1,27 @@
+{
+  "title": "Decoding motor plans using a closed-loop ultrasonic brain–machine interface",
+  "authors": [
+    "Whitney S. Griggs",
+    "Sumner L. Norman",
+    "Richard A. Andersen"
+  ],
+  "year": 2023,
+  "publication": "Nature Neuroscience",
+  "abstract": "Griggs, Norman et al. demonstrate a closed-loop ultrasound-based brain–machine interface (BMI) in rhesus macaques. The ultrasound BMI is capable of controlling eight independent movement directions and is stable across months without retraining.",
+  "keywords": [
+    "decoding",
+    "motor",
+    "plans",
+    "using",
+    "closed"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-023-01500-7.pdf",
+  "code": "",
+  "bibtex": "@article{whitneysgriggs2023,\n  title={Decoding motor plans using a closed-loop ultrasonic brain–machine interface},\n  author={Whitney S. Griggs and Sumner L. Norman and Richard A. Andersen},\n  journal={Nature Neuroscience},\n  volume={27},\n  pages={196-207},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-11-30",
+  "volume": "27",
+  "pages": "196-207",
+  "url": "https://www.nature.com/articles/s41593-023-01500-7"
+}

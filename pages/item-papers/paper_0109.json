@@ -1,0 +1,27 @@
+{
+  "title": "Noninvasive Electroencephalogram Based Control of a Robotic Arm for Reach and Grasp Tasks",
+  "authors": [
+    "Jianjun Meng",
+    "Shuying Zhang",
+    "Bin He"
+  ],
+  "year": 2016,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "noninvasive",
+    "electroencephalogram",
+    "based",
+    "control",
+    "robotic"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep38565.pdf",
+  "code": "",
+  "bibtex": "@article{jianjunmeng2016,\n  title={Noninvasive Electroencephalogram Based Control of a Robotic Arm for Reach and Grasp Tasks},\n  author={Jianjun Meng and Shuying Zhang and Bin He},\n  journal={Scientific Reports},\n  volume={6},\n  pages={1-15},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-12-14",
+  "volume": "6",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/srep38565"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Exploring representations of human grasping in neural, muscle and kinematic signals",
+  "authors": [
+    "Andreea I. Sburlea",
+    "Gernot R. Müller-Putz"
+  ],
+  "year": 2018,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "exploring",
+    "representations",
+    "human",
+    "grasping",
+    "neural"
+  ],
+  "doi": "10.1038/s41598-018-35018-x",
+  "pdf": "https://www.nature.com/articles/s41598-018-35018-x.pdf",
+  "code": "",
+  "bibtex": "@article{andreeaisburlea2018,\n  title={Exploring representations of human grasping in neural, muscle and kinematic signals},\n  author={Andreea I. Sburlea and Gernot R. Müller-Putz},\n  journal={Scientific Reports},\n  volume={8},\n  pages={1-14},\n  doi={10.1038/s41598-018-35018-x},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-11-12",
+  "volume": "8",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41598-018-35018-x"
+}

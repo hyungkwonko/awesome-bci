@@ -1,0 +1,27 @@
+{
+  "title": "Motor cortical activity changes during neuroprosthetic-controlled object interaction",
+  "authors": [
+    "John E. Downey",
+    "Lucas Brane",
+    "Jennifer L. Collinger"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "motor",
+    "cortical",
+    "activity",
+    "changes",
+    "during"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-017-17222-3.pdf",
+  "code": "",
+  "bibtex": "@article{johnedowney2017,\n  title={Motor cortical activity changes during neuroprosthetic-controlled object interaction},\n  author={John E. Downey and Lucas Brane and Jennifer L. Collinger},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-10},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-12-05",
+  "volume": "7",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41598-017-17222-3"
+}

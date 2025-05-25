@@ -1,0 +1,27 @@
+{
+  "title": "Chrono-EEG dynamics influencing hand gesture decoding: a 10-hour study",
+  "authors": [
+    "Johanna Egger",
+    "Kyriaki Kostoglou",
+    "Gernot R. Müller-Putz"
+  ],
+  "year": 2024,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "chrono",
+    "dynamics",
+    "influencing",
+    "hand",
+    "gesture"
+  ],
+  "doi": "10.1038/s41598-024-70609-x",
+  "pdf": "https://www.nature.com/articles/s41598-024-70609-x.pdf",
+  "code": "",
+  "bibtex": "@article{johannaegger2024,\n  title={Chrono-EEG dynamics influencing hand gesture decoding: a 10-hour study},\n  author={Johanna Egger and Kyriaki Kostoglou and Gernot R. Müller-Putz},\n  journal={Scientific Reports},\n  volume={14},\n  pages={1-15},\n  doi={10.1038/s41598-024-70609-x},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-08-30",
+  "volume": "14",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41598-024-70609-x"
+}

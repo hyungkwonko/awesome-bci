@@ -1,0 +1,27 @@
+{
+  "title": "Walking naturally after spinal cord injury using a brain–spine interface",
+  "authors": [
+    "Henri Lorach",
+    "Andrea Galvez",
+    "Grégoire Courtine"
+  ],
+  "year": 2023,
+  "publication": "Nature",
+  "abstract": "A reliable digital bridge restored communication between the brain and spinal cord and enabled natural walking in a participant with spinal cord injury.",
+  "keywords": [
+    "walking",
+    "naturally",
+    "after",
+    "spinal",
+    "cord"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41586-023-06094-5.pdf",
+  "code": "",
+  "bibtex": "@article{henrilorach2023,\n  title={Walking naturally after spinal cord injury using a brain–spine interface},\n  author={Henri Lorach and Andrea Galvez and Grégoire Courtine},\n  journal={Nature},\n  volume={618},\n  pages={126-133},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-05-24",
+  "volume": "618",
+  "pages": "126-133",
+  "url": "https://www.nature.com/articles/s41586-023-06094-5"
+}

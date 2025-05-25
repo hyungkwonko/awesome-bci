@@ -1,0 +1,26 @@
+{
+  "title": "Preparatory activity and the expansive null-space",
+  "authors": [
+    "Mark M. Churchland",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2024,
+  "publication": "Nature Reviews Neuroscience",
+  "abstract": "How does motor-cortex activity well before movement not drive motor outputs? In this Review, Churchland and Shenoy detail how searching for answers transitioned the understanding of neural activity during movement from single-neuron tuning towards population-level factors and revealed an essential computational role of output-null factors.",
+  "keywords": [
+    "preparatory",
+    "activity",
+    "expansive",
+    "null",
+    "space"
+  ],
+  "doi": "10.1038/s41583-024-00796-z",
+  "pdf": "https://www.nature.com/articles/s41583-024-00796-z.pdf",
+  "code": "",
+  "bibtex": "@article{markmchurchland2024,\n  title={Preparatory activity and the expansive null-space},\n  author={Mark M. Churchland and Krishna V. Shenoy},\n  journal={Nature Reviews Neuroscience},\n  volume={25},\n  pages={213-236},\n  doi={10.1038/s41583-024-00796-z},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-03-05",
+  "volume": "25",
+  "pages": "213-236",
+  "url": "https://www.nature.com/articles/s41583-024-00796-z"
+}

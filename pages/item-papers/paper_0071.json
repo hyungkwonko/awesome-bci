@@ -1,0 +1,27 @@
+{
+  "title": "A click-based electrocorticographic brain-computer interface enables long-term high-performance switch scan spelling",
+  "authors": [
+    "Daniel N. Candrea",
+    "Samyak Shah",
+    "Nathan E. Crone"
+  ],
+  "year": 2024,
+  "publication": "Communications Medicine",
+  "abstract": "Candrea et al. develop a brain-computer interface click detection algorithm using electrocorticographic signals. Using this click detector, a clinical trial participant with amyotrophic lateral sclerosis was able to control a switch-scanning spelling application and achieve high rates of spelling without model retraining.",
+  "keywords": [
+    "click",
+    "based",
+    "electrocorticographic",
+    "brain",
+    "computer"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s43856-024-00635-3.pdf",
+  "code": "",
+  "bibtex": "@article{danielncandrea2024,\n  title={A click-based electrocorticographic brain-computer interface enables long-term high-performance switch scan spelling},\n  author={Daniel N. Candrea and Samyak Shah and Nathan E. Crone},\n  journal={Communications Medicine},\n  volume={4},\n  pages={1-14},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-10-22",
+  "volume": "4",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s43856-024-00635-3"
+}

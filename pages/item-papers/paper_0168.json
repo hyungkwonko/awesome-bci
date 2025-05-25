@@ -1,0 +1,27 @@
+{
+  "title": "Rapid control and feedback rates enhance neuroprosthetic control",
+  "authors": [
+    "Maryam M. Shanechi",
+    "Amy L. Orsborn",
+    "Jose M. Carmena"
+  ],
+  "year": 2017,
+  "publication": "Nature Communications",
+  "abstract": "Brain machine interfaces (BMI) enable sensorimotor control of movement yet the parameters that may affect these pathways are not known. Here the authors show systematically that increasing the rate of control from brain as well as feedback rates to the subject results in better performance on a BMI task in monkeys.",
+  "keywords": [
+    "rapid",
+    "control",
+    "feedback",
+    "rates",
+    "enhance"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/ncomms13825.pdf",
+  "code": "",
+  "bibtex": "@article{maryammshanechi2017,\n  title={Rapid control and feedback rates enhance neuroprosthetic control},\n  author={Maryam M. Shanechi and Amy L. Orsborn and Jose M. Carmena},\n  journal={Nature Communications},\n  volume={8},\n  pages={1-10},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-01-06",
+  "volume": "8",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/ncomms13825"
+}

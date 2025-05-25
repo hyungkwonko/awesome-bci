@@ -1,0 +1,27 @@
+{
+  "title": "Real-time estimation and biofeedback of single-neuron firing rates using local field potentials",
+  "authors": [
+    "Thomas M. Hall",
+    "Kianoush Nazarpour",
+    "Andrew Jackson"
+  ],
+  "year": 2014,
+  "publication": "Nature Communications",
+  "abstract": "The use of local field potential (LFP) brain signals may allow development of more efficient and robust neural prosthetic devices. Here, Hall et al. develop a method for estimation and biofeedback control of single-neuron firing rates using signals extracted from multiple low-frequency LFPs.",
+  "keywords": [
+    "real",
+    "time",
+    "estimation",
+    "biofeedback",
+    "single"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/ncomms6462.pdf",
+  "code": "",
+  "bibtex": "@article{thomasmhall2014,\n  title={Real-time estimation and biofeedback of single-neuron firing rates using local field potentials},\n  author={Thomas M. Hall and Kianoush Nazarpour and Andrew Jackson},\n  journal={Nature Communications},\n  volume={5},\n  pages={1-12},\n  year={2014},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2014-11-14",
+  "volume": "5",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/ncomms6462"
+}

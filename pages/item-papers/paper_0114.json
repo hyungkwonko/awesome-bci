@@ -1,0 +1,27 @@
+{
+  "title": "High-density Surface and Intramuscular EMG Data from the Tibialis Anterior During Dynamic Contractions",
+  "authors": [
+    "J. Cortney Bradford",
+    "Andrew Tweedell",
+    "Logan Leahy"
+  ],
+  "year": 2023,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "high",
+    "density",
+    "surface",
+    "intramuscular",
+    "data"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-023-02114-1.pdf",
+  "code": "",
+  "bibtex": "@article{jcortneybradford2023,\n  title={High-density Surface and Intramuscular EMG Data from the Tibialis Anterior During Dynamic Contractions},\n  author={J. Cortney Bradford and Andrew Tweedell and Logan Leahy},\n  journal={Scientific Data},\n  volume={10},\n  pages={1-11},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-07-06",
+  "volume": "10",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/s41597-023-02114-1"
+}

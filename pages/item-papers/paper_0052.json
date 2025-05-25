@@ -1,0 +1,27 @@
+{
+  "title": "Making brain–machine interfaces robust to future neural variability",
+  "authors": [
+    "David Sussillo",
+    "Sergey D. Stavisky",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2016,
+  "publication": "Nature Communications",
+  "abstract": "Brain-machine interfaces (BMI) depend on algorithms to decode neural signals, but these decoders cope poorly with signal variability. Here, authors report a BMI decoder which circumvents these problems by using a large and perturbed training dataset to improve performance with variable neural signals.",
+  "keywords": [
+    "making",
+    "brain",
+    "machine",
+    "interfaces",
+    "robust"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/ncomms13749.pdf",
+  "code": "",
+  "bibtex": "@article{davidsussillo2016,\n  title={Making brain–machine interfaces robust to future neural variability},\n  author={David Sussillo and Sergey D. Stavisky and Krishna V. Shenoy},\n  journal={Nature Communications},\n  volume={7},\n  pages={1-13},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-12-13",
+  "volume": "7",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/ncomms13749"
+}

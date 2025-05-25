@@ -1,0 +1,26 @@
+{
+  "title": "Neural interfaces for the brain and spinal cord—restoring motor function",
+  "authors": [
+    "Andrew Jackson",
+    "Jonas B. Zimmermann"
+  ],
+  "year": 2012,
+  "publication": "Nature Reviews Neurology",
+  "abstract": "Owing to recent advances in brain–machine interfaces and electrical stimulation of the spinal cord, restoration motor function in patients with spinal cord injury (SCI) has become a reality. Jackson and Zimmerman review the mechanisms underlying closed-loop interfaces—in which electrical stimulation is driven by neural output—as prostheses, and propose that such devices enhance neural plasticity, thereby providing long-term therapeutic benefits to patients with SCI.",
+  "keywords": [
+    "neural",
+    "interfaces",
+    "brain",
+    "spinal",
+    "cord"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nrneurol.2012.219.pdf",
+  "code": "",
+  "bibtex": "@article{andrewjackson2012,\n  title={Neural interfaces for the brain and spinal cord—restoring motor function},\n  author={Andrew Jackson and Jonas B. Zimmermann},\n  journal={Nature Reviews Neurology},\n  volume={8},\n  pages={690-699},\n  year={2012},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2012-11-13",
+  "volume": "8",
+  "pages": "690-699",
+  "url": "https://www.nature.com/articles/nrneurol.2012.219"
+}

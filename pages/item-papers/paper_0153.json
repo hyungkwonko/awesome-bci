@@ -1,0 +1,27 @@
+{
+  "title": "Real-time decoding of question-and-answer speech dialogue using human cortical activity",
+  "authors": [
+    "David A. Moses",
+    "Matthew K. Leonard",
+    "Edward F. Chang"
+  ],
+  "year": 2019,
+  "publication": "Nature Communications",
+  "abstract": "Speech neuroprosthetic devices should be capable of restoring a patient’s ability to participate in interactive dialogue. Here, the authors demonstrate that the context of a verbal exchange can be used to enhance neural decoder performance in real time.",
+  "keywords": [
+    "real",
+    "time",
+    "decoding",
+    "question",
+    "answer"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-019-10994-4.pdf",
+  "code": "",
+  "bibtex": "@article{davidamoses2019,\n  title={Real-time decoding of question-and-answer speech dialogue using human cortical activity},\n  author={David A. Moses and Matthew K. Leonard and Edward F. Chang},\n  journal={Nature Communications},\n  volume={10},\n  pages={1-14},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-07-30",
+  "volume": "10",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41467-019-10994-4"
+}

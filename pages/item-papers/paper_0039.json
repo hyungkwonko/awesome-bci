@@ -1,0 +1,27 @@
+{
+  "title": "Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements",
+  "authors": [
+    "Sergey D. Stavisky",
+    "Jonathan C. Kao",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2018,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "brain",
+    "machine",
+    "interface",
+    "cursor",
+    "position"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-018-34711-1.pdf",
+  "code": "",
+  "bibtex": "@article{sergeydstavisky2018,\n  title={Brain-machine interface cursor position only weakly affects monkey and human motor cortical activity in the absence of arm movements},\n  author={Sergey D. Stavisky and Jonathan C. Kao and Krishna V. Shenoy},\n  journal={Scientific Reports},\n  volume={8},\n  pages={1-19},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-11-05",
+  "volume": "8",
+  "pages": "1-19",
+  "url": "https://www.nature.com/articles/s41598-018-34711-1"
+}

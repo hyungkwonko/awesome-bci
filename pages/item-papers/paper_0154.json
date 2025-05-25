@@ -1,0 +1,27 @@
+{
+  "title": "Speech synthesis from neural decoding of spoken sentences",
+  "authors": [
+    "Gopala K. Anumanchipalli",
+    "Josh Chartier",
+    "Edward F. Chang"
+  ],
+  "year": 2019,
+  "publication": "Nature",
+  "abstract": "A neural decoder uses kinematic and sound representations encoded in human cortical activity to synthesize audible sentences, which are readily identified and transcribed by listeners.",
+  "keywords": [
+    "speech",
+    "synthesis",
+    "from",
+    "neural",
+    "decoding"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41586-019-1119-1.pdf",
+  "code": "",
+  "bibtex": "@article{gopalakanumanchipalli2019,\n  title={Speech synthesis from neural decoding of spoken sentences},\n  author={Gopala K. Anumanchipalli and Josh Chartier and Edward F. Chang},\n  journal={Nature},\n  volume={568},\n  pages={493-498},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-04-24",
+  "volume": "568",
+  "pages": "493-498",
+  "url": "https://www.nature.com/articles/s41586-019-1119-1"
+}

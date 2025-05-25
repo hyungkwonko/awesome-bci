@@ -1,0 +1,27 @@
+{
+  "title": "Medial preoptic circuit induces hunting-like actions to target objects and prey",
+  "authors": [
+    "Sae-Geun Park",
+    "Yong-Cheol Jeong",
+    "Daesoo Kim"
+  ],
+  "year": 2018,
+  "publication": "Nature Neuroscience",
+  "abstract": "This study finds the key neurons that respond to 3D objects in the medial preoptic area (MPA). Their photostimulation induces hunting-like behaviors towards toys and prey, showing how the brain organizes behaviors to acquire useful resources.",
+  "keywords": [
+    "medial",
+    "preoptic",
+    "circuit",
+    "induces",
+    "hunting"
+  ],
+  "doi": "10.1038/s41593-018-0072-x",
+  "pdf": "https://www.nature.com/articles/s41593-018-0072-x.pdf",
+  "code": "",
+  "bibtex": "@article{sae-geunpark2018,\n  title={Medial preoptic circuit induces hunting-like actions to target objects and prey},\n  author={Sae-Geun Park and Yong-Cheol Jeong and Daesoo Kim},\n  journal={Nature Neuroscience},\n  volume={21},\n  pages={364-372},\n  doi={10.1038/s41593-018-0072-x},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-01-29",
+  "volume": "21",
+  "pages": "364-372",
+  "url": "https://www.nature.com/articles/s41593-018-0072-x"
+}

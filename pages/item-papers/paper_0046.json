@@ -1,0 +1,27 @@
+{
+  "title": "Human motor cortex relies on sparse and action-specific activation during laughing, smiling and speech production",
+  "authors": [
+    "Markus Kern",
+    "Sina Bert",
+    "Tonio Ball"
+  ],
+  "year": 2019,
+  "publication": "Communications Biology",
+  "abstract": "Markus Kern et al. use subdural recordings to understand how the human motor cortex is engaged during orofacial motor behavior such as speech production, laughing, and smiling. They find the motor cortex makes use of sparse and action-specific activation during these behaviors, which are organized in distinct but overlapping subareas.",
+  "keywords": [
+    "human",
+    "motor",
+    "cortex",
+    "relies",
+    "sparse"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-019-0360-3.pdf",
+  "code": "",
+  "bibtex": "@article{markuskern2019,\n  title={Human motor cortex relies on sparse and action-specific activation during laughing, smiling and speech production},\n  author={Markus Kern and Sina Bert and Tonio Ball},\n  journal={Communications Biology},\n  volume={2},\n  pages={1-14},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-03-26",
+  "volume": "2",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s42003-019-0360-3"
+}

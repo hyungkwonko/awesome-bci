@@ -1,0 +1,27 @@
+{
+  "title": "An empirical comparison of neural networks and machine learning algorithms for EEG gait decoding",
+  "authors": [
+    "Sho Nakagome",
+    "Trieu Phat Luu",
+    "Jose L. Contreras-Vidal"
+  ],
+  "year": 2020,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "empirical",
+    "comparison",
+    "neural",
+    "networks",
+    "machine"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-020-60932-4.pdf",
+  "code": "",
+  "bibtex": "@article{shonakagome2020,\n  title={An empirical comparison of neural networks and machine learning algorithms for EEG gait decoding},\n  author={Sho Nakagome and Trieu Phat Luu and Jose L. Contreras-Vidal},\n  journal={Scientific Reports},\n  volume={10},\n  pages={1-17},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-03-09",
+  "volume": "10",
+  "pages": "1-17",
+  "url": "https://www.nature.com/articles/s41598-020-60932-4"
+}

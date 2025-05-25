@@ -1,0 +1,27 @@
+{
+  "title": "A continuous pursuit dataset for online deep learning-based EEG brain-computer interface",
+  "authors": [
+    "Dylan Forenzo",
+    "Hao Zhu",
+    "Bin He"
+  ],
+  "year": 2024,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "continuous",
+    "pursuit",
+    "dataset",
+    "online",
+    "deep"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-024-04090-6.pdf",
+  "code": "",
+  "bibtex": "@article{dylanforenzo2024,\n  title={A continuous pursuit dataset for online deep learning-based EEG brain-computer interface},\n  author={Dylan Forenzo and Hao Zhu and Bin He},\n  journal={Scientific Data},\n  volume={11},\n  pages={1-9},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-11-20",
+  "volume": "11",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s41597-024-04090-6"
+}

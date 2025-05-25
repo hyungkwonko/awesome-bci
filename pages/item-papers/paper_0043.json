@@ -1,0 +1,27 @@
+{
+  "title": "An Implantable Peripheral Nerve Recording and Stimulation System for Experiments on Freely Moving Animal Subjects",
+  "authors": [
+    "Byunghun Lee",
+    "Mukhesh K. Koripalli",
+    "Maysam Ghovanloo"
+  ],
+  "year": 2018,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "implantable",
+    "peripheral",
+    "nerve",
+    "recording",
+    "stimulation"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-018-24465-1.pdf",
+  "code": "",
+  "bibtex": "@article{byunghunlee2018,\n  title={An Implantable Peripheral Nerve Recording and Stimulation System for Experiments on Freely Moving Animal Subjects},\n  author={Byunghun Lee and Mukhesh K. Koripalli and Maysam Ghovanloo},\n  journal={Scientific Reports},\n  volume={8},\n  pages={1-12},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-04-17",
+  "volume": "8",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-018-24465-1"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Decoding and perturbing decision states in real time",
+  "authors": [
+    "Diogo Peixoto",
+    "Jessica R. Verhein",
+    "William T. Newsome"
+  ],
+  "year": 2021,
+  "publication": "Nature",
+  "abstract": "In macaque motor cortex, moment-to-moment fluctuations in neurally derived decision variables are tightly linked to decision state and predict behavioural choices with better accuracy than condition-averaged decision variables or the visual stimulus alone, and can be used to distinguish between different models of decision making.",
+  "keywords": [
+    "decoding",
+    "perturbing",
+    "decision",
+    "states",
+    "real"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41586-020-03181-9.pdf",
+  "code": "",
+  "bibtex": "@article{diogopeixoto2021,\n  title={Decoding and perturbing decision states in real time},\n  author={Diogo Peixoto and Jessica R. Verhein and William T. Newsome},\n  journal={Nature},\n  volume={591},\n  pages={604-609},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-01-20",
+  "volume": "591",
+  "pages": "604-609",
+  "url": "https://www.nature.com/articles/s41586-020-03181-9"
+}

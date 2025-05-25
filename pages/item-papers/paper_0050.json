@@ -1,0 +1,27 @@
+{
+  "title": "A proof-of-principle study of multi-site real-time functional imaging at 3T and 7T: Implementation and validation",
+  "authors": [
+    "Sebastian Baecke",
+    "Ralf Lützkendorf",
+    "Johannes Bernarding"
+  ],
+  "year": 2015,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "proof",
+    "principle",
+    "study",
+    "multi",
+    "site"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep08413.pdf",
+  "code": "",
+  "bibtex": "@article{sebastianbaecke2015,\n  title={A proof-of-principle study of multi-site real-time functional imaging at 3T and 7T: Implementation and validation},\n  author={Sebastian Baecke and Ralf Lützkendorf and Johannes Bernarding},\n  journal={Scientific Reports},\n  volume={5},\n  pages={1-8},\n  year={2015},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2015-02-12",
+  "volume": "5",
+  "pages": "1-8",
+  "url": "https://www.nature.com/articles/srep08413"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Multi-frequency steady-state visual evoked potential dataset",
+  "authors": [
+    "Jing Mu",
+    "Shuo Liu",
+    "David B. Grayden"
+  ],
+  "year": 2024,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "multi",
+    "frequency",
+    "steady",
+    "state",
+    "visual"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-023-02841-5.pdf",
+  "code": "",
+  "bibtex": "@article{jingmu2024,\n  title={Multi-frequency steady-state visual evoked potential dataset},\n  author={Jing Mu and Shuo Liu and David B. Grayden},\n  journal={Scientific Data},\n  volume={11},\n  pages={1-15},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-01-04",
+  "volume": "11",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41597-023-02841-5"
+}

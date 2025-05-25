@@ -1,0 +1,26 @@
+{
+  "title": "Restoring sensorimotor function through intracortical interfaces: progress and looming challenges",
+  "authors": [
+    "Sliman J. Bensmaia",
+    "Lee E. Miller"
+  ],
+  "year": 2014,
+  "publication": "Nature Reviews Neuroscience",
+  "abstract": "Intracortical brain–machine interfaces with sensorimotor cortices are one approach by which a person can exert voluntary control over a prosthetic limb or paralysed muscles. In this Review, Bensmaia and Miller review recent achievements and remaining challenges in the development of intracortical brain–machine interfaces.",
+  "keywords": [
+    "restoring",
+    "sensorimotor",
+    "function",
+    "through",
+    "intracortical"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nrn3724.pdf",
+  "code": "",
+  "bibtex": "@article{slimanjbensmaia2014,\n  title={Restoring sensorimotor function through intracortical interfaces: progress and looming challenges},\n  author={Sliman J. Bensmaia and Lee E. Miller},\n  journal={Nature Reviews Neuroscience},\n  volume={15},\n  pages={313-325},\n  year={2014},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2014-04-17",
+  "volume": "15",
+  "pages": "313-325",
+  "url": "https://www.nature.com/articles/nrn3724"
+}

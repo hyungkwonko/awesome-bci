@@ -1,0 +1,27 @@
+{
+  "title": "A mobile brain-body imaging dataset recorded during treadmill walking with a brain-computer interface",
+  "authors": [
+    "Yongtian He",
+    "Trieu Phat Luu",
+    "Jose L. Contreras-Vidal"
+  ],
+  "year": 2018,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "mobile",
+    "brain",
+    "body",
+    "imaging",
+    "dataset"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/sdata201874.pdf",
+  "code": "",
+  "bibtex": "@article{yongtianhe2018,\n  title={A mobile brain-body imaging dataset recorded during treadmill walking with a brain-computer interface},\n  author={Yongtian He and Trieu Phat Luu and Jose L. Contreras-Vidal},\n  journal={Scientific Data},\n  volume={5},\n  pages={1-10},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-04-24",
+  "volume": "5",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/sdata201874"
+}

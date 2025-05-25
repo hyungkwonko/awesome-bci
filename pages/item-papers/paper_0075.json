@@ -1,0 +1,27 @@
+{
+  "title": "Restoring cortical control of functional movement in a human with quadriplegia",
+  "authors": [
+    "Chad E. Bouton",
+    "Ammar Shaikhouni",
+    "Ali R. Rezai"
+  ],
+  "year": 2016,
+  "publication": "Nature",
+  "abstract": "Signals recorded from motor cortex—through an intracortical implant—can be linked in real-time to activation of forearm muscles to restore movement in a paralysed human.",
+  "keywords": [
+    "restoring",
+    "cortical",
+    "control",
+    "functional",
+    "movement"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nature17435.pdf",
+  "code": "",
+  "bibtex": "@article{chadebouton2016,\n  title={Restoring cortical control of functional movement in a human with quadriplegia},\n  author={Chad E. Bouton and Ammar Shaikhouni and Ali R. Rezai},\n  journal={Nature},\n  volume={533},\n  pages={247-250},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-04-13",
+  "volume": "533",
+  "pages": "247-250",
+  "url": "https://www.nature.com/articles/nature17435"
+}

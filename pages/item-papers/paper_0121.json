@@ -1,0 +1,27 @@
+{
+  "title": "Stabilizing brain-computer interfaces through alignment of latent dynamics",
+  "authors": [
+    "Brianna M. Karpowicz",
+    "Yahia H. Ali",
+    "Chethan Pandarinath"
+  ],
+  "year": 2025,
+  "publication": "Nature Communications",
+  "abstract": "Current intracortical brain-computer interfaces are subject to recording interface instabilities that degrade decoding performance. Here, the authors present a platform for Nonlinear Manifold Alignment with Dynamics (NoMAD), which stabilizes decoding using models of dynamics for at least 3 months.",
+  "keywords": [
+    "stabilizing",
+    "brain",
+    "computer",
+    "interfaces",
+    "through"
+  ],
+  "doi": "10.1038/s41467-025-59652-y",
+  "pdf": "https://www.nature.com/articles/s41467-025-59652-y.pdf",
+  "code": "",
+  "bibtex": "@article{briannamkarpowicz2025,\n  title={Stabilizing brain-computer interfaces through alignment of latent dynamics},\n  author={Brianna M. Karpowicz and Yahia H. Ali and Chethan Pandarinath},\n  journal={Nature Communications},\n  volume={16},\n  pages={1-17},\n  doi={10.1038/s41467-025-59652-y},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-05-19",
+  "volume": "16",
+  "pages": "1-17",
+  "url": "https://www.nature.com/articles/s41467-025-59652-y"
+}

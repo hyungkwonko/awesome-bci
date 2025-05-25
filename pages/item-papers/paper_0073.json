@@ -1,0 +1,27 @@
+{
+  "title": "Meeting brain–computer interface user performance expectations using a deep neural network decoding framework",
+  "authors": [
+    "Michael A. Schwemmer",
+    "Nicholas D. Skomrock",
+    "David A. Friedenberg"
+  ],
+  "year": 2018,
+  "publication": "Nature Medicine",
+  "abstract": "Intracortical activity data recorded over 2 years in a tetraplegic patient is used to develop an artificial intelligence algorithm that achieves fast, accurate, and stable movement decoding to reenable real-time control of the paralyzed forearm.",
+  "keywords": [
+    "meeting",
+    "brain",
+    "computer",
+    "interface",
+    "user"
+  ],
+  "doi": "10.1038/s41591-018-0171-y",
+  "pdf": "https://www.nature.com/articles/s41591-018-0171-y.pdf",
+  "code": "",
+  "bibtex": "@article{michaelaschwemmer2018,\n  title={Meeting brain–computer interface user performance expectations using a deep neural network decoding framework},\n  author={Michael A. Schwemmer and Nicholas D. Skomrock and David A. Friedenberg},\n  journal={Nature Medicine},\n  volume={24},\n  pages={1669-1676},\n  doi={10.1038/s41591-018-0171-y},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-09-24",
+  "volume": "24",
+  "pages": "1669-1676",
+  "url": "https://www.nature.com/articles/s41591-018-0171-y"
+}

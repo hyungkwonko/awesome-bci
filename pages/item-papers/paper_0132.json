@@ -1,0 +1,27 @@
+{
+  "title": "Representation of internal speech by single neurons in human supramarginal gyrus",
+  "authors": [
+    "Sarah K. Wandelt",
+    "David A. Bjånes",
+    "Richard A. Andersen"
+  ],
+  "year": 2024,
+  "publication": "Nature Human Behaviour",
+  "abstract": "Wandelt et al. describe a brain–machine interface that captures intracortical neural activity during internal speech (words said within the mind with no associated movement or audio output) and translates those cortical signals into real-time text.",
+  "keywords": [
+    "representation",
+    "internal",
+    "speech",
+    "single",
+    "neurons"
+  ],
+  "doi": "10.1038/s41562-024-01867-y",
+  "pdf": "https://www.nature.com/articles/s41562-024-01867-y.pdf",
+  "code": "",
+  "bibtex": "@article{sarahkwandelt2024,\n  title={Representation of internal speech by single neurons in human supramarginal gyrus},\n  author={Sarah K. Wandelt and David A. Bjånes and Richard A. Andersen},\n  journal={Nature Human Behaviour},\n  volume={8},\n  pages={1136-1149},\n  doi={10.1038/s41562-024-01867-y},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-05-13",
+  "volume": "8",
+  "pages": "1136-1149",
+  "url": "https://www.nature.com/articles/s41562-024-01867-y"
+}

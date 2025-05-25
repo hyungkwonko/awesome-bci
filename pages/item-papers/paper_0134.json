@@ -1,0 +1,26 @@
+{
+  "title": "A high-performance speech neuroprosthesis",
+  "authors": [
+    "Francis R. Willett",
+    "Erin M. Kunz",
+    "Jaimie M. Henderson"
+  ],
+  "year": 2023,
+  "publication": "Nature",
+  "abstract": "A speech-to-text brain–computer interface that records spiking activity from intracortical microelectrode arrays enabled an individual who cannot speak intelligibly to achieve 9.1 and 23.8% word error rates on a 50- and 125,000-word vocabulary, respectively.",
+  "keywords": [
+    "high",
+    "performance",
+    "speech",
+    "neuroprosthesis"
+  ],
+  "doi": "10.1038/s41586-023-06377-x",
+  "pdf": "https://www.nature.com/articles/s41586-023-06377-x.pdf",
+  "code": "",
+  "bibtex": "@article{francisrwillett2023,\n  title={A high-performance speech neuroprosthesis},\n  author={Francis R. Willett and Erin M. Kunz and Jaimie M. Henderson},\n  journal={Nature},\n  volume={620},\n  pages={1031-1036},\n  doi={10.1038/s41586-023-06377-x},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-08-23",
+  "volume": "620",
+  "pages": "1031-1036",
+  "url": "https://www.nature.com/articles/s41586-023-06377-x"
+}

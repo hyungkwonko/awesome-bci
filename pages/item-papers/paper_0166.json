@@ -1,0 +1,27 @@
+{
+  "title": "A wireless millimetre-scale implantable neural stimulator with ultrasonically powered bidirectional communication",
+  "authors": [
+    "David K. Piech",
+    "Benjamin C. Johnson",
+    "Rikky Muller"
+  ],
+  "year": 2020,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "A wireless and battery-free 1.7-mm3 neural stimulator implanted onto the sciatic nerve of rats allows for repeatable stimulation across a range of physiological responses.",
+  "keywords": [
+    "wireless",
+    "millimetre",
+    "scale",
+    "implantable",
+    "neural"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41551-020-0518-9.pdf",
+  "code": "",
+  "bibtex": "@article{davidkpiech2020,\n  title={A wireless millimetre-scale implantable neural stimulator with ultrasonically powered bidirectional communication},\n  author={David K. Piech and Benjamin C. Johnson and Rikky Muller},\n  journal={Nature Biomedical Engineering},\n  volume={4},\n  pages={207-222},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-02-19",
+  "volume": "4",
+  "pages": "207-222",
+  "url": "https://www.nature.com/articles/s41551-020-0518-9"
+}

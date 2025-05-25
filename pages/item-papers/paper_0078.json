@@ -1,0 +1,27 @@
+{
+  "title": "Materials and technologies for soft implantable neuroprostheses",
+  "authors": [
+    "Stéphanie P. Lacour",
+    "Grégoire Courtine",
+    "Jochen Guck"
+  ],
+  "year": 2016,
+  "publication": "Nature Reviews Materials",
+  "abstract": "Implantable neuroprostheses communicate with the nervous system to provide diagnosis or therapy to the injured body. In this review, we discuss materials-based approaches to overcome the physical and mechanical mismatch at the tissue–implant interface and to design long-term neurointegrated prostheses.",
+  "keywords": [
+    "materials",
+    "technologies",
+    "soft",
+    "implantable",
+    "neuroprostheses"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/natrevmats201663.pdf",
+  "code": "",
+  "bibtex": "@article{stéphanieplacour2016,\n  title={Materials and technologies for soft implantable neuroprostheses},\n  author={Stéphanie P. Lacour and Grégoire Courtine and Jochen Guck},\n  journal={Nature Reviews Materials},\n  volume={1},\n  pages={1-14},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-09-27",
+  "volume": "1",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/natrevmats201663"
+}

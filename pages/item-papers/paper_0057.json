@@ -1,0 +1,27 @@
+{
+  "title": "Changes in cortical network connectivity with long-term brain-machine interface exposure after chronic amputation",
+  "authors": [
+    "Karthikeyan Balasubramanian",
+    "Mukta Vaidya",
+    "Nicholas G. Hatsopoulos"
+  ],
+  "year": 2017,
+  "publication": "Nature Communications",
+  "abstract": "Previous studies have shown short-term plasticity in single neurons or local field potentials during brain-machine interface (BMI) training. Here the authors report long-term changes in functional connectivity of motor cortex neuronal ensemble activity as chronically amputated monkeys learn to operate a BMI.",
+  "keywords": [
+    "changes",
+    "cortical",
+    "network",
+    "connectivity",
+    "with"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-017-01909-2.pdf",
+  "code": "",
+  "bibtex": "@article{karthikeyanbalasubramanian2017,\n  title={Changes in cortical network connectivity with long-term brain-machine interface exposure after chronic amputation},\n  author={Karthikeyan Balasubramanian and Mukta Vaidya and Nicholas G. Hatsopoulos},\n  journal={Nature Communications},\n  volume={8},\n  pages={1-10},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-11-27",
+  "volume": "8",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41467-017-01909-2"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Neural reactivations during sleep determine network credit assignment",
+  "authors": [
+    "Tanuj Gulati",
+    "Ling Guo",
+    "Karunesh Ganguly"
+  ],
+  "year": 2017,
+  "publication": "Nature Neuroscience",
+  "abstract": "A fundamental goal of learning is to establish neural patterns that cause desired behaviors. This paper demonstrates that sleep-dependent processing is required for credit assignment and the establishment of task-related activity reflecting the causal neuron-behavior relationship. Decoupling of spiking to sleep slow oscillations using optogenetics methods disrupted this process.",
+  "keywords": [
+    "neural",
+    "reactivations",
+    "during",
+    "sleep",
+    "determine"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nn.4601.pdf",
+  "code": "",
+  "bibtex": "@article{tanujgulati2017,\n  title={Neural reactivations during sleep determine network credit assignment},\n  author={Tanuj Gulati and Ling Guo and Karunesh Ganguly},\n  journal={Nature Neuroscience},\n  volume={20},\n  pages={1277-1284},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-07-10",
+  "volume": "20",
+  "pages": "1277-1284",
+  "url": "https://www.nature.com/articles/nn.4601"
+}

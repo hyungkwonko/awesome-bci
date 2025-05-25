@@ -1,0 +1,27 @@
+{
+  "title": "A streaming brain-to-voice neuroprosthesis to restore naturalistic communication",
+  "authors": [
+    "Kaylo T. Littlejohn",
+    "Cheol Jun Cho",
+    "Gopala K. Anumanchipalli"
+  ],
+  "year": 2025,
+  "publication": "Nature Neuroscience",
+  "abstract": "Naturalistic communication is an aim for neuroprostheses. Here the authors present a neuroprosthesis that restores the voice of a paralyzed person simultaneously with their speaking attempts, enabling naturalistic communication.",
+  "keywords": [
+    "streaming",
+    "brain",
+    "voice",
+    "neuroprosthesis",
+    "restore"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-025-01905-6.pdf",
+  "code": "",
+  "bibtex": "@article{kaylotlittlejohn2025,\n  title={A streaming brain-to-voice neuroprosthesis to restore naturalistic communication},\n  author={Kaylo T. Littlejohn and Cheol Jun Cho and Gopala K. Anumanchipalli},\n  journal={Nature Neuroscience},\n  volume={28},\n  pages={902-912},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-03-31",
+  "volume": "28",
+  "pages": "902-912",
+  "url": "https://www.nature.com/articles/s41593-025-01905-6"
+}

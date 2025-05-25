@@ -1,0 +1,27 @@
+{
+  "title": "Single-trial prediction of reaction time variability from MEG brain activity",
+  "authors": [
+    "Ryu Ohata",
+    "Kenji Ogawa",
+    "Hiroshi Imamizu"
+  ],
+  "year": 2016,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "single",
+    "trial",
+    "prediction",
+    "reaction",
+    "time"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep27416.pdf",
+  "code": "",
+  "bibtex": "@article{ryuohata2016,\n  title={Single-trial prediction of reaction time variability from MEG brain activity},\n  author={Ryu Ohata and Kenji Ogawa and Hiroshi Imamizu},\n  journal={Scientific Reports},\n  volume={6},\n  pages={1-11},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-06-02",
+  "volume": "6",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/srep27416"
+}

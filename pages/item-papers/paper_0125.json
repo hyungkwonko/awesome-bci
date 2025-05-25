@@ -1,0 +1,27 @@
+{
+  "title": "Structured neuronal encoding and decoding of human speech features",
+  "authors": [
+    "Ariel Tankus",
+    "Itzhak Fried",
+    "Shy Shoham"
+  ],
+  "year": 2012,
+  "publication": "Nature Communications",
+  "abstract": "Speech is encoded by the firing patterns of speech-controlling neurons in different regions of the brain, which Tankus and colleagues analyse in this study. They find highly specific encoding of vowels in medial–frontal neurons and nonspecific tuning in superior temporal gyrus neurons.",
+  "keywords": [
+    "structured",
+    "neuronal",
+    "encoding",
+    "decoding",
+    "human"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/ncomms1995.pdf",
+  "code": "",
+  "bibtex": "@article{arieltankus2012,\n  title={Structured neuronal encoding and decoding of human speech features},\n  author={Ariel Tankus and Itzhak Fried and Shy Shoham},\n  journal={Nature Communications},\n  volume={3},\n  pages={1-5},\n  year={2012},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2012-08-21",
+  "volume": "3",
+  "pages": "1-5",
+  "url": "https://www.nature.com/articles/ncomms1995"
+}

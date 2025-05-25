@@ -1,0 +1,27 @@
+{
+  "title": "WINCS Harmoni: Closed-loop dynamic neurochemical control of therapeutic interventions",
+  "authors": [
+    "Kendall H. Lee",
+    "J. Luis Lujan",
+    "Kevin E. Bennet"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "wincs",
+    "harmoni",
+    "closed",
+    "loop",
+    "dynamic"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep46675.pdf",
+  "code": "",
+  "bibtex": "@article{kendallhlee2017,\n  title={WINCS Harmoni: Closed-loop dynamic neurochemical control of therapeutic interventions},\n  author={Kendall H. Lee and J. Luis Lujan and Kevin E. Bennet},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-14},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-04-28",
+  "volume": "7",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/srep46675"
+}

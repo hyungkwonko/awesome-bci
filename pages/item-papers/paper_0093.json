@@ -1,0 +1,27 @@
+{
+  "title": "Towards unlocking motor control in spinal cord injured by applying an online EEG-based framework to decode motor intention, trajectory and error processing",
+  "authors": [
+    "Valeria Mondini",
+    "Andreea-Ioana Sburlea",
+    "Gernot R. Müller-Putz"
+  ],
+  "year": 2024,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "towards",
+    "unlocking",
+    "motor",
+    "control",
+    "spinal"
+  ],
+  "doi": "10.1038/s41598-024-55413-x",
+  "pdf": "https://www.nature.com/articles/s41598-024-55413-x.pdf",
+  "code": "",
+  "bibtex": "@article{valeriamondini2024,\n  title={Towards unlocking motor control in spinal cord injured by applying an online EEG-based framework to decode motor intention, trajectory and error processing},\n  author={Valeria Mondini and Andreea-Ioana Sburlea and Gernot R. Müller-Putz},\n  journal={Scientific Reports},\n  volume={14},\n  pages={1-19},\n  doi={10.1038/s41598-024-55413-x},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-02-27",
+  "volume": "14",
+  "pages": "1-19",
+  "url": "https://www.nature.com/articles/s41598-024-55413-x"
+}

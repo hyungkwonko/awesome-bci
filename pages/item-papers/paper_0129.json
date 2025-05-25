@@ -1,0 +1,27 @@
+{
+  "title": "Multi-scale convolutional transformer network for motor imagery brain-computer interface",
+  "authors": [
+    "Wei Zhao",
+    "Baocan Zhang",
+    "Quan Lan"
+  ],
+  "year": 2025,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "multi",
+    "scale",
+    "convolutional",
+    "transformer",
+    "network"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-025-96611-5.pdf",
+  "code": "",
+  "bibtex": "@article{weizhao2025,\n  title={Multi-scale convolutional transformer network for motor imagery brain-computer interface},\n  author={Wei Zhao and Baocan Zhang and Quan Lan},\n  journal={Scientific Reports},\n  volume={15},\n  pages={1-18},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-04-15",
+  "volume": "15",
+  "pages": "1-18",
+  "url": "https://www.nature.com/articles/s41598-025-96611-5"
+}

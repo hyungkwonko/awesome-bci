@@ -1,0 +1,27 @@
+{
+  "title": "Plug-and-play control of a brain–computer interface through neural map stabilization",
+  "authors": [
+    "Daniel B. Silversmith",
+    "Reza Abiri",
+    "Karunesh Ganguly"
+  ],
+  "year": 2020,
+  "publication": "Nature Biotechnology",
+  "abstract": "A paralyzed individual controls a neuroprosthetic without daily recalibration.",
+  "keywords": [
+    "plug",
+    "play",
+    "control",
+    "brain",
+    "computer"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41587-020-0662-5.pdf",
+  "code": "",
+  "bibtex": "@article{danielbsilversmith2020,\n  title={Plug-and-play control of a brain–computer interface through neural map stabilization},\n  author={Daniel B. Silversmith and Reza Abiri and Karunesh Ganguly},\n  journal={Nature Biotechnology},\n  volume={39},\n  pages={326-335},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-09-07",
+  "volume": "39",
+  "pages": "326-335",
+  "url": "https://www.nature.com/articles/s41587-020-0662-5"
+}

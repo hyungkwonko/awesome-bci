@@ -1,0 +1,27 @@
+{
+  "title": "The myokinetic control interface: tracking implanted magnets as a means for prosthetic control",
+  "authors": [
+    "S. Tarantino",
+    "F. Clemente",
+    "C. Cipriani"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "myokinetic",
+    "control",
+    "interface",
+    "tracking",
+    "implanted"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-017-17464-1.pdf",
+  "code": "",
+  "bibtex": "@article{starantino2017,\n  title={The myokinetic control interface: tracking implanted magnets as a means for prosthetic control},\n  author={S. Tarantino and F. Clemente and C. Cipriani},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-11},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-12-07",
+  "volume": "7",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/s41598-017-17464-1"
+}

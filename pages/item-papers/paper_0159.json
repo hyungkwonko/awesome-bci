@@ -1,0 +1,27 @@
+{
+  "title": "Power-saving design opportunities for wireless intracortical brain–computer interfaces",
+  "authors": [
+    "Nir Even-Chen",
+    "Dante G. Muratore",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2020,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "Analyses of data from intracortical brain–computer interfaces implanted in rhesus macaques and in a human suggest that the circuit design parameters of current recording interfaces can be relaxed considerably without loss of performance.",
+  "keywords": [
+    "power",
+    "saving",
+    "design",
+    "opportunities",
+    "wireless"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41551-020-0595-9.pdf",
+  "code": "",
+  "bibtex": "@article{nireven-chen2020,\n  title={Power-saving design opportunities for wireless intracortical brain–computer interfaces},\n  author={Nir Even-Chen and Dante G. Muratore and Krishna V. Shenoy},\n  journal={Nature Biomedical Engineering},\n  volume={4},\n  pages={984-996},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-08-03",
+  "volume": "4",
+  "pages": "984-996",
+  "url": "https://www.nature.com/articles/s41551-020-0595-9"
+}

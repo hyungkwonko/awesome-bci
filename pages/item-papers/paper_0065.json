@@ -1,0 +1,27 @@
+{
+  "title": "An fMRI study on the generalization of motor learning after brain actuated supernumerary robot training",
+  "authors": [
+    "Yuan Liu",
+    "Shuaifei Huang",
+    "Dong Ming"
+  ],
+  "year": 2024,
+  "publication": "npj Science of Learning",
+  "abstract": "",
+  "keywords": [
+    "fmri",
+    "study",
+    "generalization",
+    "motor",
+    "learning"
+  ],
+  "doi": "10.1038/s41539-024-00294-y",
+  "pdf": "https://www.nature.com/articles/s41539-024-00294-y.pdf",
+  "code": "",
+  "bibtex": "@article{yuanliu2024,\n  title={An fMRI study on the generalization of motor learning after brain actuated supernumerary robot training},\n  author={Yuan Liu and Shuaifei Huang and Dong Ming},\n  journal={npj Science of Learning},\n  volume={9},\n  pages={1-10},\n  doi={10.1038/s41539-024-00294-y},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-12-30",
+  "volume": "9",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41539-024-00294-y"
+}

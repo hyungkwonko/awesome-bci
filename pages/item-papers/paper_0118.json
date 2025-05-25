@@ -1,0 +1,27 @@
+{
+  "title": "Continuous sensorimotor rhythm based brain computer interface learning in a large population",
+  "authors": [
+    "James R. Stieger",
+    "Stephen A. Engel",
+    "Bin He"
+  ],
+  "year": 2021,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "continuous",
+    "sensorimotor",
+    "rhythm",
+    "based",
+    "brain"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-021-00883-1.pdf",
+  "code": "",
+  "bibtex": "@article{jamesrstieger2021,\n  title={Continuous sensorimotor rhythm based brain computer interface learning in a large population},\n  author={James R. Stieger and Stephen A. Engel and Bin He},\n  journal={Scientific Data},\n  volume={8},\n  pages={1-10},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-04-01",
+  "volume": "8",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41597-021-00883-1"
+}

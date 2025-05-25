@@ -1,0 +1,27 @@
+{
+  "title": "A learning-based approach to artificial sensory feedback leads to optimal integration",
+  "authors": [
+    "Maria C Dadarlat",
+    "Joseph E O'Doherty",
+    "Philip N Sabes"
+  ],
+  "year": 2014,
+  "publication": "Nature Neuroscience",
+  "abstract": "In this study, the authors show that monkeys can learn to use non-biomimetic proprioceptive feedback, delivered via electrical microstimulation of somatosensory cortex, to guide motor movements. The monkeys also integrated this artificial feedback with vision to optimize motor performance. The results suggest new learning-based approaches both to providing sensory feedback for brain–machine interfaces and to studying the neural mechanisms of adaptive sensory integration.",
+  "keywords": [
+    "learning",
+    "based",
+    "approach",
+    "artificial",
+    "sensory"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nn.3883.pdf",
+  "code": "",
+  "bibtex": "@article{mariacdadarlat2014,\n  title={A learning-based approach to artificial sensory feedback leads to optimal integration},\n  author={Maria C Dadarlat and Joseph E O'Doherty and Philip N Sabes},\n  journal={Nature Neuroscience},\n  volume={18},\n  pages={138-144},\n  year={2014},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2014-11-24",
+  "volume": "18",
+  "pages": "138-144",
+  "url": "https://www.nature.com/articles/nn.3883"
+}

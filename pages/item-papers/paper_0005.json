@@ -1,0 +1,26 @@
+{
+  "title": "Optimized APPS-tDCS electrode position, size, and distance doubles the on-target stimulation magnitude in 3000 electric field models",
+  "authors": [
+    "Kevin A. Caulfield",
+    "Mark S. George"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "optimized",
+    "apps",
+    "tdcs",
+    "electrode",
+    "position"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-022-24618-3.pdf",
+  "code": "",
+  "bibtex": "@article{kevinacaulfield2022,\n  title={Optimized APPS-tDCS electrode position, size, and distance doubles the on-target stimulation magnitude in 3000 electric field models},\n  author={Kevin A. Caulfield and Mark S. George},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-15},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-11-22",
+  "volume": "12",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41598-022-24618-3"
+}

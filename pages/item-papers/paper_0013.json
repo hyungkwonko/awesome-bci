@@ -1,0 +1,27 @@
+{
+  "title": "Brain-inspired spiking neural networks for decoding and understanding muscle activity and kinematics from electroencephalography signals during hand movements",
+  "authors": [
+    "Kaushalya Kumarasinghe",
+    "Nikola Kasabov",
+    "Denise Taylor"
+  ],
+  "year": 2021,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "brain",
+    "inspired",
+    "spiking",
+    "neural",
+    "networks"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-021-81805-4.pdf",
+  "code": "",
+  "bibtex": "@article{kaushalyakumarasinghe2021,\n  title={Brain-inspired spiking neural networks for decoding and understanding muscle activity and kinematics from electroencephalography signals during hand movements},\n  author={Kaushalya Kumarasinghe and Nikola Kasabov and Denise Taylor},\n  journal={Scientific Reports},\n  volume={11},\n  pages={1-15},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-01-28",
+  "volume": "11",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41598-021-81805-4"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Capturing spike train temporal pattern with wavelet average coefficient for brain machine interface",
+  "authors": [
+    "Shixian Wen",
+    "Allen Yin",
+    "Miguel Nicolelis"
+  ],
+  "year": 2021,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "capturing",
+    "spike",
+    "train",
+    "temporal",
+    "pattern"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-021-98578-5.pdf",
+  "code": "",
+  "bibtex": "@article{shixianwen2021,\n  title={Capturing spike train temporal pattern with wavelet average coefficient for brain machine interface},\n  author={Shixian Wen and Allen Yin and Miguel Nicolelis},\n  journal={Scientific Reports},\n  volume={11},\n  pages={1-10},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-09-24",
+  "volume": "11",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41598-021-98578-5"
+}

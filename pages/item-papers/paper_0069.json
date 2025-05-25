@@ -1,0 +1,27 @@
+{
+  "title": "The neural resource allocation problem when enhancing human bodies with extra robotic limbs",
+  "authors": [
+    "Giulia Dominijanni",
+    "Solaiman Shokur",
+    "Silvestro Micera"
+  ],
+  "year": 2021,
+  "publication": "Nature Machine Intelligence",
+  "abstract": "The development of extra fingers and arms is an exciting research area in robotics, human–machine interaction and wearable electronics. It is unclear, however, whether humans can adapt and learn to control extra limbs and integrate them into a new sensorimotor representation, without sacrificing their natural abilities. The authors review this topic and describe challenges in allocating neural resources for robotic body augmentation.",
+  "keywords": [
+    "neural",
+    "resource",
+    "allocation",
+    "problem",
+    "when"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42256-021-00398-9.pdf",
+  "code": "",
+  "bibtex": "@article{giuliadominijanni2021,\n  title={The neural resource allocation problem when enhancing human bodies with extra robotic limbs},\n  author={Giulia Dominijanni and Solaiman Shokur and Silvestro Micera},\n  journal={Nature Machine Intelligence},\n  volume={3},\n  pages={850-860},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-10-18",
+  "volume": "3",
+  "pages": "850-860",
+  "url": "https://www.nature.com/articles/s42256-021-00398-9"
+}

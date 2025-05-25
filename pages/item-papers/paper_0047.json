@@ -1,0 +1,27 @@
+{
+  "title": "PrismPlus: a mouse line expressing distinct fluorophores in four different brain cell types",
+  "authors": [
+    "Janak Gaire",
+    "Heui Chang Lee",
+    "Kevin J. Otto"
+  ],
+  "year": 2018,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "prismplus",
+    "mouse",
+    "line",
+    "expressing",
+    "distinct"
+  ],
+  "doi": "10.1038/s41598-018-25208-y",
+  "pdf": "https://www.nature.com/articles/s41598-018-25208-y.pdf",
+  "code": "",
+  "bibtex": "@article{janakgaire2018,\n  title={PrismPlus: a mouse line expressing distinct fluorophores in four different brain cell types},\n  author={Janak Gaire and Heui Chang Lee and Kevin J. Otto},\n  journal={Scientific Reports},\n  volume={8},\n  pages={1-11},\n  doi={10.1038/s41598-018-25208-y},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-05-08",
+  "volume": "8",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/s41598-018-25208-y"
+}

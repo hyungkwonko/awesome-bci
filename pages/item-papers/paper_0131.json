@@ -1,0 +1,27 @@
+{
+  "title": "Lower limb motor imagery EEG dataset based on the multi-paradigm and longitudinal-training of stroke patients",
+  "authors": [
+    "Yuan Liu",
+    "Zhuolan Gui",
+    "Dong Ming"
+  ],
+  "year": 2025,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "lower",
+    "limb",
+    "motor",
+    "imagery",
+    "dataset"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-025-04618-4.pdf",
+  "code": "",
+  "bibtex": "@article{yuanliu2025,\n  title={Lower limb motor imagery EEG dataset based on the multi-paradigm and longitudinal-training of stroke patients},\n  author={Yuan Liu and Zhuolan Gui and Dong Ming},\n  journal={Scientific Data},\n  volume={12},\n  pages={1-9},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-02-21",
+  "volume": "12",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s41597-025-04618-4"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Quantifying the alignment error and the effect of incomplete somatosensory feedback on motor performance in a virtual brain–computer-interface setup",
+  "authors": [
+    "Robin Lienkämper",
+    "Susanne Dyck",
+    "Christian Klaes"
+  ],
+  "year": 2021,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "quantifying",
+    "alignment",
+    "error",
+    "effect",
+    "incomplete"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-021-84288-5.pdf",
+  "code": "",
+  "bibtex": "@article{robinlienkämper2021,\n  title={Quantifying the alignment error and the effect of incomplete somatosensory feedback on motor performance in a virtual brain–computer-interface setup},\n  author={Robin Lienkämper and Susanne Dyck and Christian Klaes},\n  journal={Scientific Reports},\n  volume={11},\n  pages={1-14},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-02-25",
+  "volume": "11",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41598-021-84288-5"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "A multiple session dataset of NIRS recordings from stroke patients controlling brain–computer interface",
+  "authors": [
+    "Mikhail R. Isaev",
+    "Olesya A. Mokienko",
+    "Pavel D. Bobrov"
+  ],
+  "year": 2024,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "multiple",
+    "session",
+    "dataset",
+    "nirs",
+    "recordings"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-024-04012-6.pdf",
+  "code": "",
+  "bibtex": "@article{mikhailrisaev2024,\n  title={A multiple session dataset of NIRS recordings from stroke patients controlling brain–computer interface},\n  author={Mikhail R. Isaev and Olesya A. Mokienko and Pavel D. Bobrov},\n  journal={Scientific Data},\n  volume={11},\n  pages={1-7},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-10-25",
+  "volume": "11",
+  "pages": "1-7",
+  "url": "https://www.nature.com/articles/s41597-024-04012-6"
+}

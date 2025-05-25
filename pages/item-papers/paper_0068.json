@@ -1,0 +1,27 @@
+{
+  "title": "Brain–computer interfaces for communication and rehabilitation",
+  "authors": [
+    "Ujwal Chaudhary",
+    "Niels Birbaumer",
+    "Ander Ramos-Murguialday"
+  ],
+  "year": 2016,
+  "publication": "Nature Reviews Neurology",
+  "abstract": "Brain–computer interfaces (BCIs) enable severely disabled patients to interact with the environment. In this Review, Chaudhary et al. provide an overview on current use of BCIs for communication, movement and rehabilitation in patients who are paralyzed as a result of amyotrophic lateral sclerosis, stroke or spinal cord injury.",
+  "keywords": [
+    "brain",
+    "computer",
+    "interfaces",
+    "communication",
+    "rehabilitation"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nrneurol.2016.113.pdf",
+  "code": "",
+  "bibtex": "@article{ujwalchaudhary2016,\n  title={Brain–computer interfaces for communication and rehabilitation},\n  author={Ujwal Chaudhary and Niels Birbaumer and Ander Ramos-Murguialday},\n  journal={Nature Reviews Neurology},\n  volume={12},\n  pages={513-525},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-08-19",
+  "volume": "12",
+  "pages": "513-525",
+  "url": "https://www.nature.com/articles/nrneurol.2016.113"
+}

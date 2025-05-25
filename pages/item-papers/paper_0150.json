@@ -1,0 +1,27 @@
+{
+  "title": "Phase-adaptive brain stimulation of striatal D1 medium spiny neurons in dopamine-depleted mice",
+  "authors": [
+    "Youngcho Kim",
+    "Dennis Jung",
+    "Nandakumar S. Narayanan"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "phase",
+    "adaptive",
+    "brain",
+    "stimulation",
+    "striatal"
+  ],
+  "doi": "10.1038/s41598-022-26347-z",
+  "pdf": "https://www.nature.com/articles/s41598-022-26347-z.pdf",
+  "code": "",
+  "bibtex": "@article{youngchokim2022,\n  title={Phase-adaptive brain stimulation of striatal D1 medium spiny neurons in dopamine-depleted mice},\n  author={Youngcho Kim and Dennis Jung and Nandakumar S. Narayanan},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-10},\n  doi={10.1038/s41598-022-26347-z},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-12-16",
+  "volume": "12",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41598-022-26347-z"
+}

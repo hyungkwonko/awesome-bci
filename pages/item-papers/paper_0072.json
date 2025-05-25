@@ -1,0 +1,27 @@
+{
+  "title": "Measuring instability in chronic human intracortical neural recordings towards stable, long-term brain-computer interfaces",
+  "authors": [
+    "Tsam Kiu Pun",
+    "Mona Khoshnevis",
+    "Leigh R. Hochberg"
+  ],
+  "year": 2024,
+  "publication": "Communications Biology",
+  "abstract": "Detection of neural data instability offers a strategy for optimizing brain-computer interfaces.",
+  "keywords": [
+    "measuring",
+    "instability",
+    "chronic",
+    "human",
+    "intracortical"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-024-06784-4.pdf",
+  "code": "",
+  "bibtex": "@article{tsamkiupun2024,\n  title={Measuring instability in chronic human intracortical neural recordings towards stable, long-term brain-computer interfaces},\n  author={Tsam Kiu Pun and Mona Khoshnevis and Leigh R. Hochberg},\n  journal={Communications Biology},\n  volume={7},\n  pages={1-14},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-10-21",
+  "volume": "7",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s42003-024-06784-4"
+}

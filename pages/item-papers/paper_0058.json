@@ -1,0 +1,27 @@
+{
+  "title": "Neural population partitioning and a concurrent brain-machine interface for sequential motor function",
+  "authors": [
+    "Maryam M Shanechi",
+    "Rollin C Hu",
+    "Ziv M Williams"
+  ],
+  "year": 2012,
+  "publication": "Nature Neuroscience",
+  "abstract": "Brain-machine interfaces (BMIs) have typically focused on performing single-targeted movements. Here the authors report the presence of two subpopulations of neurons in the monkey premotor cortex that allow two planned targets to be simultaneously held in working memory without degradation. They use this finding to develop a BMI that concurrently decodes a full motor sequence in advance of movement and then accurately executes it.",
+  "keywords": [
+    "neural",
+    "population",
+    "partitioning",
+    "concurrent",
+    "brain"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nn.3250.pdf",
+  "code": "",
+  "bibtex": "@article{maryammshanechi2012,\n  title={Neural population partitioning and a concurrent brain-machine interface for sequential motor function},\n  author={Maryam M Shanechi and Rollin C Hu and Ziv M Williams},\n  journal={Nature Neuroscience},\n  volume={15},\n  pages={1715-1722},\n  year={2012},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2012-11-11",
+  "volume": "15",
+  "pages": "1715-1722",
+  "url": "https://www.nature.com/articles/nn.3250"
+}

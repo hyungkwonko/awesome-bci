@@ -1,0 +1,27 @@
+{
+  "title": "High-resolution neural recordings improve the accuracy of speech decoding",
+  "authors": [
+    "Suseendrakumar Duraivel",
+    "Shervin Rahimpour",
+    "Gregory B. Cogan"
+  ],
+  "year": 2023,
+  "publication": "Nature Communications",
+  "abstract": "Previous work has shown speech decoding in the human brain for the development of neural speech prostheses. Here the authors show that high density µECoG electrodes can record at micro-scale spatial resolution to improve neural speech decoding.",
+  "keywords": [
+    "high",
+    "resolution",
+    "neural",
+    "recordings",
+    "improve"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-023-42555-1.pdf",
+  "code": "",
+  "bibtex": "@article{suseendrakumarduraivel2023,\n  title={High-resolution neural recordings improve the accuracy of speech decoding},\n  author={Suseendrakumar Duraivel and Shervin Rahimpour and Gregory B. Cogan},\n  journal={Nature Communications},\n  volume={14},\n  pages={1-16},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-11-06",
+  "volume": "14",
+  "pages": "1-16",
+  "url": "https://www.nature.com/articles/s41467-023-42555-1"
+}

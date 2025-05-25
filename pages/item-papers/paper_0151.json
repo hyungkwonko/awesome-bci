@@ -1,0 +1,27 @@
+{
+  "title": "Epidural stimulation of the cervical spinal cord for post-stroke upper-limb paresis",
+  "authors": [
+    "Marc P. Powell",
+    "Nikhil Verma",
+    "Marco Capogrosso"
+  ],
+  "year": 2023,
+  "publication": "Nature Medicine",
+  "abstract": "Electrical stimulation of cervical spinal circuits facilitates arm and hand movements in two participants with moderate and severe chronic post-stroke hemiparesis.",
+  "keywords": [
+    "epidural",
+    "stimulation",
+    "cervical",
+    "spinal",
+    "cord"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41591-022-02202-6.pdf",
+  "code": "",
+  "bibtex": "@article{marcppowell2023,\n  title={Epidural stimulation of the cervical spinal cord for post-stroke upper-limb paresis},\n  author={Marc P. Powell and Nikhil Verma and Marco Capogrosso},\n  journal={Nature Medicine},\n  volume={29},\n  pages={689-699},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-02-20",
+  "volume": "29",
+  "pages": "689-699",
+  "url": "https://www.nature.com/articles/s41591-022-02202-6"
+}

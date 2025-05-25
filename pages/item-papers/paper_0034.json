@@ -1,0 +1,27 @@
+{
+  "title": "Tuning characteristics of low-frequency EEG to positions and velocities in visuomotor and oculomotor tracking tasks",
+  "authors": [
+    "Reinmar J. Kobler",
+    "Andreea I. Sburlea",
+    "Gernot R. Müller-Putz"
+  ],
+  "year": 2018,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "tuning",
+    "characteristics",
+    "frequency",
+    "positions",
+    "velocities"
+  ],
+  "doi": "10.1038/s41598-018-36326-y",
+  "pdf": "https://www.nature.com/articles/s41598-018-36326-y.pdf",
+  "code": "",
+  "bibtex": "@article{reinmarjkobler2018,\n  title={Tuning characteristics of low-frequency EEG to positions and velocities in visuomotor and oculomotor tracking tasks},\n  author={Reinmar J. Kobler and Andreea I. Sburlea and Gernot R. Müller-Putz},\n  journal={Scientific Reports},\n  volume={8},\n  pages={1-14},\n  doi={10.1038/s41598-018-36326-y},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-12-07",
+  "volume": "8",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41598-018-36326-y"
+}

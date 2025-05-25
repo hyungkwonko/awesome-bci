@@ -1,0 +1,27 @@
+{
+  "title": "Detection of attempted movement from the EEG during neuromuscular block: proof of principle study in awake volunteers",
+  "authors": [
+    "Yvonne Blokland",
+    "Loukianos Spyrou",
+    "Jörgen Bruhn"
+  ],
+  "year": 2015,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "detection",
+    "attempted",
+    "movement",
+    "from",
+    "during"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep12815.pdf",
+  "code": "",
+  "bibtex": "@article{yvonneblokland2015,\n  title={Detection of attempted movement from the EEG during neuromuscular block: proof of principle study in awake volunteers},\n  author={Yvonne Blokland and Loukianos Spyrou and Jörgen Bruhn},\n  journal={Scientific Reports},\n  volume={5},\n  pages={1-10},\n  year={2015},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2015-08-07",
+  "volume": "5",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/srep12815"
+}

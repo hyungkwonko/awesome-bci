@@ -1,0 +1,27 @@
+{
+  "title": "Beta rhythmicity in human motor cortex reflects neural population coupling that modulates subsequent finger coordination stability",
+  "authors": [
+    "Seitaro Iwama",
+    "Takufumi Yanagisawa",
+    "Junichi Ushiba"
+  ],
+  "year": 2022,
+  "publication": "Communications Biology",
+  "abstract": "EEG measurements of the human motor cortex during a finger tapping task show that premovement cortical oscillatory coupling influences bimanual coordination performance after consolidation.",
+  "keywords": [
+    "beta",
+    "rhythmicity",
+    "human",
+    "motor",
+    "cortex"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-022-04326-4.pdf",
+  "code": "",
+  "bibtex": "@article{seitaroiwama2022,\n  title={Beta rhythmicity in human motor cortex reflects neural population coupling that modulates subsequent finger coordination stability},\n  author={Seitaro Iwama and Takufumi Yanagisawa and Junichi Ushiba},\n  journal={Communications Biology},\n  volume={5},\n  pages={1-12},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-12-15",
+  "volume": "5",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s42003-022-04326-4"
+}

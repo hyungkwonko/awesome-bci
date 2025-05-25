@@ -1,0 +1,27 @@
+{
+  "title": "Inferring entire spiking activity from local field potentials",
+  "authors": [
+    "Nur Ahmadi",
+    "Timothy G. Constandinou",
+    "Christos-Savvas Bouganis"
+  ],
+  "year": 2021,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "inferring",
+    "entire",
+    "spiking",
+    "activity",
+    "from"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-021-98021-9.pdf",
+  "code": "",
+  "bibtex": "@article{nurahmadi2021,\n  title={Inferring entire spiking activity from local field potentials},\n  author={Nur Ahmadi and Timothy G. Constandinou and Christos-Savvas Bouganis},\n  journal={Scientific Reports},\n  volume={11},\n  pages={1-13},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-09-24",
+  "volume": "11",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41598-021-98021-9"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Principled BCI Decoder Design and Parameter Selection Using a Feedback Control Model",
+  "authors": [
+    "Francis R. Willett",
+    "Daniel R. Young",
+    "A. Bolu Ajiboye"
+  ],
+  "year": 2019,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "principled",
+    "decoder",
+    "design",
+    "parameter",
+    "selection"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-019-44166-7.pdf",
+  "code": "",
+  "bibtex": "@article{francisrwillett2019,\n  title={Principled BCI Decoder Design and Parameter Selection Using a Feedback Control Model},\n  author={Francis R. Willett and Daniel R. Young and A. Bolu Ajiboye},\n  journal={Scientific Reports},\n  volume={9},\n  pages={1-17},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-06-20",
+  "volume": "9",
+  "pages": "1-17",
+  "url": "https://www.nature.com/articles/s41598-019-44166-7"
+}

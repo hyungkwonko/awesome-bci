@@ -1,0 +1,27 @@
+{
+  "title": "The effects of handedness on sensorimotor rhythm desynchronization and motor-imagery BCI control",
+  "authors": [
+    "Dariusz Zapała",
+    "Emilia Zabielska-Mendyk",
+    "Piotr Francuz"
+  ],
+  "year": 2020,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "effects",
+    "handedness",
+    "sensorimotor",
+    "rhythm",
+    "desynchronization"
+  ],
+  "doi": "10.1038/s41598-020-59222-w",
+  "pdf": "https://www.nature.com/articles/s41598-020-59222-w.pdf",
+  "code": "",
+  "bibtex": "@article{dariuszzapała2020,\n  title={The effects of handedness on sensorimotor rhythm desynchronization and motor-imagery BCI control},\n  author={Dariusz Zapała and Emilia Zabielska-Mendyk and Piotr Francuz},\n  journal={Scientific Reports},\n  volume={10},\n  pages={1-11},\n  doi={10.1038/s41598-020-59222-w},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-02-07",
+  "volume": "10",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/s41598-020-59222-w"
+}

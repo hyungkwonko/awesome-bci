@@ -1,0 +1,27 @@
+{
+  "title": "Unexpected complexity of everyday manual behaviors",
+  "authors": [
+    "Yuke Yan",
+    "James M. Goodman",
+    "Sliman J. Bensmaia"
+  ],
+  "year": 2020,
+  "publication": "Nature Communications",
+  "abstract": "How does the brain control the complex movements of hands? Here, by tracking human hand kinematics and applying multidimensional reduction techniques, the authors provide evidence that grasping involves a complex control system that regulates even the most subtle aspects of hand movement.",
+  "keywords": [
+    "unexpected",
+    "complexity",
+    "everyday",
+    "manual",
+    "behaviors"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-020-17404-0.pdf",
+  "code": "",
+  "bibtex": "@article{yukeyan2020,\n  title={Unexpected complexity of everyday manual behaviors},\n  author={Yuke Yan and James M. Goodman and Sliman J. Bensmaia},\n  journal={Nature Communications},\n  volume={11},\n  pages={1-8},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-07-16",
+  "volume": "11",
+  "pages": "1-8",
+  "url": "https://www.nature.com/articles/s41467-020-17404-0"
+}

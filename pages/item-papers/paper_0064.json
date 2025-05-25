@@ -1,0 +1,27 @@
+{
+  "title": "Enhancing the performance of SSVEP-based BCIs by combining task-related component analysis and deep neural network",
+  "authors": [
+    "Qingguo Wei",
+    "Chang Li",
+    "Xiaorong Gao"
+  ],
+  "year": 2025,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "enhancing",
+    "performance",
+    "ssvep",
+    "based",
+    "bcis"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-024-84534-6.pdf",
+  "code": "",
+  "bibtex": "@article{qingguowei2025,\n  title={Enhancing the performance of SSVEP-based BCIs by combining task-related component analysis and deep neural network},\n  author={Qingguo Wei and Chang Li and Xiaorong Gao},\n  journal={Scientific Reports},\n  volume={15},\n  pages={1-16},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-01-02",
+  "volume": "15",
+  "pages": "1-16",
+  "url": "https://www.nature.com/articles/s41598-024-84534-6"
+}

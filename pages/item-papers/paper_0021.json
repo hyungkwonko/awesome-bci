@@ -1,0 +1,27 @@
+{
+  "title": "Real-time EEG-based brain-computer interface to a virtual avatar enhances cortical involvement in human treadmill walking",
+  "authors": [
+    "Trieu Phat Luu",
+    "Sho Nakagome",
+    "Jose L. Contreras-Vidal"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "real",
+    "time",
+    "based",
+    "brain",
+    "computer"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-017-09187-0.pdf",
+  "code": "",
+  "bibtex": "@article{trieuphatluu2017,\n  title={Real-time EEG-based brain-computer interface to a virtual avatar enhances cortical involvement in human treadmill walking},\n  author={Trieu Phat Luu and Sho Nakagome and Jose L. Contreras-Vidal},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-12},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-08-21",
+  "volume": "7",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-017-09187-0"
+}

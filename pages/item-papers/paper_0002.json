@@ -1,0 +1,27 @@
+{
+  "title": "Brain computer interface to distinguish between self and other related errors in human agent collaboration",
+  "authors": [
+    "Viktorija Dimova-Edeleva",
+    "Stefan K. Ehrlich",
+    "Gordon Cheng"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "brain",
+    "computer",
+    "interface",
+    "distinguish",
+    "between"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-022-24899-8.pdf",
+  "code": "",
+  "bibtex": "@article{viktorijadimova-edeleva2022,\n  title={Brain computer interface to distinguish between self and other related errors in human agent collaboration},\n  author={Viktorija Dimova-Edeleva and Stefan K. Ehrlich and Gordon Cheng},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-13},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-12-01",
+  "volume": "12",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41598-022-24899-8"
+}

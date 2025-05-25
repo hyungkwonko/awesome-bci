@@ -1,0 +1,26 @@
+{
+  "title": "Asynchronous non-invasive high-speed BCI speller with robust non-control state detection",
+  "authors": [
+    "Sebastian Nagel",
+    "Martin Spüler"
+  ],
+  "year": 2019,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "asynchronous",
+    "invasive",
+    "high",
+    "speed",
+    "speller"
+  ],
+  "doi": "10.1038/s41598-019-44645-x",
+  "pdf": "https://www.nature.com/articles/s41598-019-44645-x.pdf",
+  "code": "",
+  "bibtex": "@article{sebastiannagel2019,\n  title={Asynchronous non-invasive high-speed BCI speller with robust non-control state detection},\n  author={Sebastian Nagel and Martin Spüler},\n  journal={Scientific Reports},\n  volume={9},\n  pages={1-9},\n  doi={10.1038/s41598-019-44645-x},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-06-04",
+  "volume": "9",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s41598-019-44645-x"
+}

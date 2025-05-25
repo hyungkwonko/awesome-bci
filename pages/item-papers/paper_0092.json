@@ -1,0 +1,27 @@
+{
+  "title": "Brain control of bimanual movement enabled by recurrent neural networks",
+  "authors": [
+    "Darrel R. Deo",
+    "Francis R. Willett",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2024,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "brain",
+    "control",
+    "bimanual",
+    "movement",
+    "enabled"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-024-51617-3.pdf",
+  "code": "",
+  "bibtex": "@article{darrelrdeo2024,\n  title={Brain control of bimanual movement enabled by recurrent neural networks},\n  author={Darrel R. Deo and Francis R. Willett and Krishna V. Shenoy},\n  journal={Scientific Reports},\n  volume={14},\n  pages={1-17},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-01-18",
+  "volume": "14",
+  "pages": "1-17",
+  "url": "https://www.nature.com/articles/s41598-024-51617-3"
+}

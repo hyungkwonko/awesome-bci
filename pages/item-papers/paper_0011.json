@@ -1,0 +1,26 @@
+{
+  "title": "A neurophysiologically interpretable deep neural network predicts complex movement components from brain activity",
+  "authors": [
+    "Neelesh Kumar",
+    "Konstantinos P. Michmizos"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "neurophysiologically",
+    "interpretable",
+    "deep",
+    "neural",
+    "network"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-022-05079-0.pdf",
+  "code": "",
+  "bibtex": "@article{neeleshkumar2022,\n  title={A neurophysiologically interpretable deep neural network predicts complex movement components from brain activity},\n  author={Neelesh Kumar and Konstantinos P. Michmizos},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-12},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-01-20",
+  "volume": "12",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-022-05079-0"
+}

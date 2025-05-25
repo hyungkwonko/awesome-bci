@@ -1,0 +1,27 @@
+{
+  "title": "Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity",
+  "authors": [
+    "Alan D. Degenhart",
+    "William E. Bishop",
+    "Byron M. Yu"
+  ],
+  "year": 2020,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "Neural activity residing in a low-dimensional space that reflects specific correlation patterns among neurons can be used to maintain the performance of brain–computer interfaces in the presence of recording instabilities.",
+  "keywords": [
+    "stabilization",
+    "brain",
+    "computer",
+    "interface",
+    "alignment"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41551-020-0542-9.pdf",
+  "code": "",
+  "bibtex": "@article{alanddegenhart2020,\n  title={Stabilization of a brain–computer interface via the alignment of low-dimensional spaces of neural activity},\n  author={Alan D. Degenhart and William E. Bishop and Byron M. Yu},\n  journal={Nature Biomedical Engineering},\n  volume={4},\n  pages={672-685},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-04-20",
+  "volume": "4",
+  "pages": "672-685",
+  "url": "https://www.nature.com/articles/s41551-020-0542-9"
+}

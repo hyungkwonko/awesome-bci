@@ -1,0 +1,27 @@
+{
+  "title": "Conformal in-ear bioelectronics for visual and auditory brain-computer interfaces",
+  "authors": [
+    "Zhouheng Wang",
+    "Nanlin Shi",
+    "Xue Feng"
+  ],
+  "year": 2023,
+  "publication": "Nature Communications",
+  "abstract": "In-ear visual and auditory brain-computer interfaces typically have issues with poor interfacial adhesion or user irritation. Here, Wang et al. presents an in-ear hollow bioelectronic device that adaptively conforms to the ear canal, under electrothermal actuation, for electroencephalogram sensing.",
+  "keywords": [
+    "conformal",
+    "bioelectronics",
+    "visual",
+    "auditory",
+    "brain"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-023-39814-6.pdf",
+  "code": "",
+  "bibtex": "@article{zhouhengwang2023,\n  title={Conformal in-ear bioelectronics for visual and auditory brain-computer interfaces},\n  author={Zhouheng Wang and Nanlin Shi and Xue Feng},\n  journal={Nature Communications},\n  volume={14},\n  pages={1-11},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-07-14",
+  "volume": "14",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/s41467-023-39814-6"
+}

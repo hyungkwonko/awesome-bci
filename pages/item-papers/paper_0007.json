@@ -1,0 +1,27 @@
+{
+  "title": "Novel fNIRS study on homogeneous symmetric feature-based transfer learning for brain–computer interface",
+  "authors": [
+    "Khurram Khalil",
+    "Umer Asgher",
+    "Yasar Ayaz"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "novel",
+    "fnirs",
+    "study",
+    "homogeneous",
+    "symmetric"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-022-06805-4.pdf",
+  "code": "",
+  "bibtex": "@article{khurramkhalil2022,\n  title={Novel fNIRS study on homogeneous symmetric feature-based transfer learning for brain–computer interface},\n  author={Khurram Khalil and Umer Asgher and Yasar Ayaz},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-12},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-02-24",
+  "volume": "12",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-022-06805-4"
+}

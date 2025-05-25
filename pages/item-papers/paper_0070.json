@@ -1,0 +1,27 @@
+{
+  "title": "Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification",
+  "authors": [
+    "Omid G. Sani",
+    "Hamidreza Abbaspourazad",
+    "Maryam M. Shanechi"
+  ],
+  "year": 2020,
+  "publication": "Nature Neuroscience",
+  "abstract": "This work develops PSID, a dynamic modeling method to dissociate and prioritize neural dynamics relevant to a given behavior.",
+  "keywords": [
+    "modeling",
+    "behaviorally",
+    "relevant",
+    "neural",
+    "dynamics"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-020-00733-0.pdf",
+  "code": "",
+  "bibtex": "@article{omidgsani2020,\n  title={Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification},\n  author={Omid G. Sani and Hamidreza Abbaspourazad and Maryam M. Shanechi},\n  journal={Nature Neuroscience},\n  volume={24},\n  pages={140-149},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-11-09",
+  "volume": "24",
+  "pages": "140-149",
+  "url": "https://www.nature.com/articles/s41593-020-00733-0"
+}

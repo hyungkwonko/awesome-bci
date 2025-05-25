@@ -1,0 +1,27 @@
+{
+  "title": "A high-performance neuroprosthesis for speech decoding and avatar control",
+  "authors": [
+    "Sean L. Metzger",
+    "Kaylo T. Littlejohn",
+    "Edward F. Chang"
+  ],
+  "year": 2023,
+  "publication": "Nature",
+  "abstract": "A study using high-density surface recordings of the speech cortex in a person with limb and vocal paralysis demonstrates real-time decoding of brain activity into text, speech sounds and orofacial movements.",
+  "keywords": [
+    "high",
+    "performance",
+    "neuroprosthesis",
+    "speech",
+    "decoding"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41586-023-06443-4.pdf",
+  "code": "",
+  "bibtex": "@article{seanlmetzger2023,\n  title={A high-performance neuroprosthesis for speech decoding and avatar control},\n  author={Sean L. Metzger and Kaylo T. Littlejohn and Edward F. Chang},\n  journal={Nature},\n  volume={620},\n  pages={1037-1046},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-08-23",
+  "volume": "620",
+  "pages": "1037-1046",
+  "url": "https://www.nature.com/articles/s41586-023-06443-4"
+}

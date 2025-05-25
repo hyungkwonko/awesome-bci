@@ -1,0 +1,27 @@
+{
+  "title": "High-performance brain-to-text communication via handwriting",
+  "authors": [
+    "Francis R. Willett",
+    "Donald T. Avansino",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2021,
+  "publication": "Nature",
+  "abstract": "A brain–computer interface enables rapid communication through neural decoding of attempted handwriting movements in a person with paralysis.",
+  "keywords": [
+    "high",
+    "performance",
+    "brain",
+    "text",
+    "communication"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41586-021-03506-2.pdf",
+  "code": "",
+  "bibtex": "@article{francisrwillett2021,\n  title={High-performance brain-to-text communication via handwriting},\n  author={Francis R. Willett and Donald T. Avansino and Krishna V. Shenoy},\n  journal={Nature},\n  volume={593},\n  pages={249-254},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-05-12",
+  "volume": "593",
+  "pages": "249-254",
+  "url": "https://www.nature.com/articles/s41586-021-03506-2"
+}

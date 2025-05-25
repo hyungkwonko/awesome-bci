@@ -1,0 +1,27 @@
+{
+  "title": "Real-time brain-machine interface in non-human primates achieves high-velocity prosthetic finger movements using a shallow feedforward neural network decoder",
+  "authors": [
+    "Matthew S. Willsey",
+    "Samuel R. Nason-Tomaszewski",
+    "Cynthia A. Chestek"
+  ],
+  "year": 2022,
+  "publication": "Nature Communications",
+  "abstract": "Despite the rapid progress and interest in brain-machine interfaces that restore motor function, the performance of prosthetic fingers and limbs has yet to mimic native function. Here, the authors demonstrate that shallow-layer neural network decoders outperform and enable higher velocity finger movements than the current linear decoding standard.",
+  "keywords": [
+    "real",
+    "time",
+    "brain",
+    "machine",
+    "interface"
+  ],
+  "doi": "10.1038/s41467-022-34452-w",
+  "pdf": "https://www.nature.com/articles/s41467-022-34452-w.pdf",
+  "code": "",
+  "bibtex": "@article{matthewswillsey2022,\n  title={Real-time brain-machine interface in non-human primates achieves high-velocity prosthetic finger movements using a shallow feedforward neural network decoder},\n  author={Matthew S. Willsey and Samuel R. Nason-Tomaszewski and Cynthia A. Chestek},\n  journal={Nature Communications},\n  volume={13},\n  pages={1-14},\n  doi={10.1038/s41467-022-34452-w},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-11-12",
+  "volume": "13",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41467-022-34452-w"
+}

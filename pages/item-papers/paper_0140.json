@@ -1,0 +1,27 @@
+{
+  "title": "A spinal cord neuroprosthesis for locomotor deficits due to Parkinson’s disease",
+  "authors": [
+    "Tomislav Milekovic",
+    "Eduardo Martin Moraud",
+    "G. Courtine"
+  ],
+  "year": 2023,
+  "publication": "Nature Medicine",
+  "abstract": "A spinal cord neuroprosthesis targeting leg motor neurons in real time improves walking and reduces freezing of gait in non-human primate models and in one individual with advanced Parkinson’s disease.",
+  "keywords": [
+    "spinal",
+    "cord",
+    "neuroprosthesis",
+    "locomotor",
+    "deficits"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41591-023-02584-1.pdf",
+  "code": "",
+  "bibtex": "@article{tomislavmilekovic2023,\n  title={A spinal cord neuroprosthesis for locomotor deficits due to Parkinson’s disease},\n  author={Tomislav Milekovic and Eduardo Martin Moraud and G. Courtine},\n  journal={Nature Medicine},\n  volume={29},\n  pages={2854-2865},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-11-06",
+  "volume": "29",
+  "pages": "2854-2865",
+  "url": "https://www.nature.com/articles/s41591-023-02584-1"
+}

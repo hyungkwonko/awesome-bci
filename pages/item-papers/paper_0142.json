@@ -1,0 +1,27 @@
+{
+  "title": "Epidural electrical stimulation of the cervical dorsal roots restores voluntary upper limb control in paralyzed monkeys",
+  "authors": [
+    "Beatrice Barra",
+    "Sara Conti",
+    "Marco Capogrosso"
+  ],
+  "year": 2022,
+  "publication": "Nature Neuroscience",
+  "abstract": "This paper describes a neurotechnology that interacts with neural circuits in the spinal cord to restore arm and hand control after injury. With this implant, monkeys with paralysis recovered the ability to reach and grasp just a few days after injury.",
+  "keywords": [
+    "epidural",
+    "electrical",
+    "stimulation",
+    "cervical",
+    "dorsal"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-022-01106-5.pdf",
+  "code": "",
+  "bibtex": "@article{beatricebarra2022,\n  title={Epidural electrical stimulation of the cervical dorsal roots restores voluntary upper limb control in paralyzed monkeys},\n  author={Beatrice Barra and Sara Conti and Marco Capogrosso},\n  journal={Nature Neuroscience},\n  volume={25},\n  pages={924-934},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-06-30",
+  "volume": "25",
+  "pages": "924-934",
+  "url": "https://www.nature.com/articles/s41593-022-01106-5"
+}

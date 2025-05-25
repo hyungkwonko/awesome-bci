@@ -1,0 +1,27 @@
+{
+  "title": "Addition of visual noise boosts evoked potential-based brain-computer interface",
+  "authors": [
+    "Jun Xie",
+    "Guanghua Xu",
+    "Lili Li"
+  ],
+  "year": 2014,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "addition",
+    "visual",
+    "noise",
+    "boosts",
+    "evoked"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep04953.pdf",
+  "code": "",
+  "bibtex": "@article{junxie2014,\n  title={Addition of visual noise boosts evoked potential-based brain-computer interface},\n  author={Jun Xie and Guanghua Xu and Lili Li},\n  journal={Scientific Reports},\n  volume={4},\n  pages={1-9},\n  year={2014},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2014-05-14",
+  "volume": "4",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/srep04953"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Focal stimulation of the sheep motor cortex with a chronically implanted minimally invasive electrode array mounted on an endovascular stent",
+  "authors": [
+    "Nicholas L. Opie",
+    "Sam E. John",
+    "Thomas J. Oxley"
+  ],
+  "year": 2018,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "Focal stimulation of cortical tissue from within a blood vessel via an electrode array mounted on a minimally invasive endovascular stent elicits responses from specific facial muscles and limbs in sheep.",
+  "keywords": [
+    "focal",
+    "stimulation",
+    "sheep",
+    "motor",
+    "cortex"
+  ],
+  "doi": "10.1038/s41551-018-0321-z",
+  "pdf": "https://www.nature.com/articles/s41551-018-0321-z.pdf",
+  "code": "",
+  "bibtex": "@article{nicholaslopie2018,\n  title={Focal stimulation of the sheep motor cortex with a chronically implanted minimally invasive electrode array mounted on an endovascular stent},\n  author={Nicholas L. Opie and Sam E. John and Thomas J. Oxley},\n  journal={Nature Biomedical Engineering},\n  volume={2},\n  pages={907-914},\n  doi={10.1038/s41551-018-0321-z},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-12-03",
+  "volume": "2",
+  "pages": "907-914",
+  "url": "https://www.nature.com/articles/s41551-018-0321-z"
+}

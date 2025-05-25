@@ -1,0 +1,27 @@
+{
+  "title": "AJILE12: Long-term naturalistic human intracranial neural recordings and pose",
+  "authors": [
+    "Steven M. Peterson",
+    "Satpreet H. Singh",
+    "Bingni W. Brunton"
+  ],
+  "year": 2022,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "long",
+    "term",
+    "naturalistic",
+    "human",
+    "intracranial"
+  ],
+  "doi": "10.1038/s41597-022-01280-y",
+  "pdf": "https://www.nature.com/articles/s41597-022-01280-y.pdf",
+  "code": "",
+  "bibtex": "@article{stevenmpeterson2022,\n  title={AJILE12: Long-term naturalistic human intracranial neural recordings and pose},\n  author={Steven M. Peterson and Satpreet H. Singh and Bingni W. Brunton},\n  journal={Scientific Data},\n  volume={9},\n  pages={1-10},\n  doi={10.1038/s41597-022-01280-y},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-04-21",
+  "volume": "9",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41597-022-01280-y"
+}

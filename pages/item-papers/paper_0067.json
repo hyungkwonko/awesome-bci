@@ -1,0 +1,27 @@
+{
+  "title": "Machine translation of cortical activity to text with an encoder–decoder framework",
+  "authors": [
+    "Joseph G. Makin",
+    "David A. Moses",
+    "Edward F. Chang"
+  ],
+  "year": 2020,
+  "publication": "Nature Neuroscience",
+  "abstract": "Makin and colleagues decode speech from neural signals recorded during a preoperative procedure, using an algorithm inspired by machine translation. For one participant reading from a closed set of 50 sentences, decoding accuracy is nearly perfect.",
+  "keywords": [
+    "machine",
+    "translation",
+    "cortical",
+    "activity",
+    "text"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-020-0608-8.pdf",
+  "code": "",
+  "bibtex": "@article{josephgmakin2020,\n  title={Machine translation of cortical activity to text with an encoder–decoder framework},\n  author={Joseph G. Makin and David A. Moses and Edward F. Chang},\n  journal={Nature Neuroscience},\n  volume={23},\n  pages={575-582},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-03-30",
+  "volume": "23",
+  "pages": "575-582",
+  "url": "https://www.nature.com/articles/s41593-020-0608-8"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Decoding personalized motor cortical excitability states from human electroencephalography",
+  "authors": [
+    "Sara J. Hussain",
+    "Romain Quentin"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "decoding",
+    "personalized",
+    "motor",
+    "cortical",
+    "excitability"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-022-10239-3.pdf",
+  "code": "",
+  "bibtex": "@article{sarajhussain2022,\n  title={Decoding personalized motor cortical excitability states from human electroencephalography},\n  author={Sara J. Hussain and Romain Quentin},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-12},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-04-15",
+  "volume": "12",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-022-10239-3"
+}

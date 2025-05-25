@@ -1,0 +1,27 @@
+{
+  "title": "A magnetoencephalography dataset during three-dimensional reaching movements for brain-computer interfaces",
+  "authors": [
+    "Hong Gi Yeom",
+    "June Sic Kim",
+    "Chun Kee Chung"
+  ],
+  "year": 2023,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "magnetoencephalography",
+    "dataset",
+    "during",
+    "three",
+    "dimensional"
+  ],
+  "doi": "10.1038/s41597-023-02454-y",
+  "pdf": "https://www.nature.com/articles/s41597-023-02454-y.pdf",
+  "code": "",
+  "bibtex": "@article{honggiyeom2023,\n  title={A magnetoencephalography dataset during three-dimensional reaching movements for brain-computer interfaces},\n  author={Hong Gi Yeom and June Sic Kim and Chun Kee Chung},\n  journal={Scientific Data},\n  volume={10},\n  pages={1-9},\n  doi={10.1038/s41597-023-02454-y},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-08-22",
+  "volume": "10",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s41597-023-02454-y"
+}

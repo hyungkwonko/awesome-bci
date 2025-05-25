@@ -1,0 +1,27 @@
+{
+  "title": "Embodied neurofeedback with an anthropomorphic robotic hand",
+  "authors": [
+    "Niclas Braun",
+    "Reiner Emkes",
+    "Stefan Debener"
+  ],
+  "year": 2016,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "embodied",
+    "neurofeedback",
+    "with",
+    "anthropomorphic",
+    "robotic"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep37696.pdf",
+  "code": "",
+  "bibtex": "@article{niclasbraun2016,\n  title={Embodied neurofeedback with an anthropomorphic robotic hand},\n  author={Niclas Braun and Reiner Emkes and Stefan Debener},\n  journal={Scientific Reports},\n  volume={6},\n  pages={1-13},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-11-21",
+  "volume": "6",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/srep37696"
+}

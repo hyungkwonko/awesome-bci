@@ -1,0 +1,27 @@
+{
+  "title": "Multi-channel EEG recordings during 3,936 grasp and lift trials with varying weight and friction",
+  "authors": [
+    "Matthew D Luciw",
+    "Ewa Jarocka",
+    "Benoni B Edin"
+  ],
+  "year": 2014,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "multi",
+    "channel",
+    "recordings",
+    "during",
+    "grasp"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/sdata201447.pdf",
+  "code": "",
+  "bibtex": "@article{matthewdluciw2014,\n  title={Multi-channel EEG recordings during 3,936 grasp and lift trials with varying weight and friction},\n  author={Matthew D Luciw and Ewa Jarocka and Benoni B Edin},\n  journal={Scientific Data},\n  volume={1},\n  pages={1-11},\n  year={2014},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2014-11-25",
+  "volume": "1",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/sdata201447"
+}

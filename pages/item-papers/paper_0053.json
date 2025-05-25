@@ -1,0 +1,27 @@
+{
+  "title": "The state of clinical trials of implantable brain–computer interfaces",
+  "authors": [
+    "K. Michelle Patrick-Krueger",
+    "Ian Burkhart",
+    "Jose L. Contreras-Vidal"
+  ],
+  "year": 2024,
+  "publication": "Nature Reviews Bioengineering",
+  "abstract": "Information on clinical trial progress and outcomes of implanted brain–computer interfaces (iBCIs) remains limited. This Review provides a comprehensive survey of all identified clinical trials of iBCIs for communication, motor control or restoration of tactile perception conducted from the first chronic implantation in 1998 to December 2023.",
+  "keywords": [
+    "state",
+    "clinical",
+    "trials",
+    "implantable",
+    "brain"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s44222-024-00239-5.pdf",
+  "code": "",
+  "bibtex": "@article{kmichellepatrick-krueger2024,\n  title={The state of clinical trials of implantable brain–computer interfaces},\n  author={K. Michelle Patrick-Krueger and Ian Burkhart and Jose L. Contreras-Vidal},\n  journal={Nature Reviews Bioengineering},\n  volume={3},\n  pages={50-67},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-09-20",
+  "volume": "3",
+  "pages": "50-67",
+  "url": "https://www.nature.com/articles/s44222-024-00239-5"
+}

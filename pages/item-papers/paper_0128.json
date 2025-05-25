@@ -1,0 +1,27 @@
+{
+  "title": "Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction",
+  "authors": [
+    "Benyamin Haghi",
+    "Tyson Aflalo",
+    "Azita Emami"
+  ],
+  "year": 2024,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "A convolutional neural network that maps electrical signals from a brain–computer interface to neural features improved the performance of three participants with tetraplegia on a cursor-control task.",
+  "keywords": [
+    "enhanced",
+    "control",
+    "brain",
+    "computer",
+    "interface"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41551-024-01297-1.pdf",
+  "code": "",
+  "bibtex": "@article{benyaminhaghi2024,\n  title={Enhanced control of a brain–computer interface by tetraplegic participants via neural-network-mediated feature extraction},\n  author={Benyamin Haghi and Tyson Aflalo and Azita Emami},\n  journal={Nature Biomedical Engineering},\n  pages={1-18},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-12-06",
+  "volume": "",
+  "pages": "1-18",
+  "url": "https://www.nature.com/articles/s41551-024-01297-1"
+}

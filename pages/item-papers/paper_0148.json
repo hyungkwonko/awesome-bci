@@ -1,0 +1,27 @@
+{
+  "title": "A low-power band of neuronal spiking activity dominated by local single units improves the performance of brain–machine interfaces",
+  "authors": [
+    "Samuel R. Nason",
+    "Alex K. Vaskov",
+    "Cynthia A. Chestek"
+  ],
+  "year": 2020,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "The 300–1,000 Hz band of spiking activity, dominated by local single-unit spikes, can enhance the decoding performance of neural interfaces.",
+  "keywords": [
+    "power",
+    "band",
+    "neuronal",
+    "spiking",
+    "activity"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41551-020-0591-0.pdf",
+  "code": "",
+  "bibtex": "@article{samuelrnason2020,\n  title={A low-power band of neuronal spiking activity dominated by local single units improves the performance of brain–machine interfaces},\n  author={Samuel R. Nason and Alex K. Vaskov and Cynthia A. Chestek},\n  journal={Nature Biomedical Engineering},\n  volume={4},\n  pages={973-983},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-07-27",
+  "volume": "4",
+  "pages": "973-983",
+  "url": "https://www.nature.com/articles/s41551-020-0591-0"
+}

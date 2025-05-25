@@ -1,0 +1,27 @@
+{
+  "title": "Attempted Arm and Hand Movements can be Decoded from Low-Frequency EEG from Persons with Spinal Cord Injury",
+  "authors": [
+    "Patrick Ofner",
+    "Andreas Schwarz",
+    "Gernot R. Müller-Putz"
+  ],
+  "year": 2019,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "attempted",
+    "hand",
+    "movements",
+    "decoded",
+    "from"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-019-43594-9.pdf",
+  "code": "",
+  "bibtex": "@article{patrickofner2019,\n  title={Attempted Arm and Hand Movements can be Decoded from Low-Frequency EEG from Persons with Spinal Cord Injury},\n  author={Patrick Ofner and Andreas Schwarz and Gernot R. Müller-Putz},\n  journal={Scientific Reports},\n  volume={9},\n  pages={1-15},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-05-09",
+  "volume": "9",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41598-019-43594-9"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Brain-actuated functional electrical stimulation elicits lasting arm motor recovery after stroke",
+  "authors": [
+    "A. Biasiucci",
+    "R. Leeb",
+    "J. d. R. Millán"
+  ],
+  "year": 2018,
+  "publication": "Nature Communications",
+  "abstract": "Brain-computer interface (BCI) can improve motor skills on stroke patients. This study shows that BCI-controlled neuromuscular electrical stimulation therapy can cause cortical reorganization due to activation of efferent and afferent pathways, and this effect can be long lasting in a brain region specific manner.",
+  "keywords": [
+    "brain",
+    "actuated",
+    "functional",
+    "electrical",
+    "stimulation"
+  ],
+  "doi": "10.1038/s41467-018-04673-z",
+  "pdf": "https://www.nature.com/articles/s41467-018-04673-z.pdf",
+  "code": "",
+  "bibtex": "@article{abiasiucci2018,\n  title={Brain-actuated functional electrical stimulation elicits lasting arm motor recovery after stroke},\n  author={A. Biasiucci and R. Leeb and J. d. R. Millán},\n  journal={Nature Communications},\n  volume={9},\n  pages={1-13},\n  doi={10.1038/s41467-018-04673-z},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-06-20",
+  "volume": "9",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41467-018-04673-z"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Reversible large-scale modification of cortical networks during neuroprosthetic control",
+  "authors": [
+    "Karunesh Ganguly",
+    "Dragan F Dimitrov",
+    "Jose M Carmena"
+  ],
+  "year": 2011,
+  "publication": "Nature Neuroscience",
+  "abstract": "The use of brain machine interfaces for neuroprosthetic control is known to change the tuning properties of neurons directly projecting the interface. Here the authors report that there are also tuning changes to indirectly projecting neurons, which are stable, but relatively small when compared with changes in the directly projecting neurons.",
+  "keywords": [
+    "reversible",
+    "large",
+    "scale",
+    "modification",
+    "cortical"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nn.2797.pdf",
+  "code": "",
+  "bibtex": "@article{karuneshganguly2011,\n  title={Reversible large-scale modification of cortical networks during neuroprosthetic control},\n  author={Karunesh Ganguly and Dragan F Dimitrov and Jose M Carmena},\n  journal={Nature Neuroscience},\n  volume={14},\n  pages={662-667},\n  year={2011},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2011-04-17",
+  "volume": "14",
+  "pages": "662-667",
+  "url": "https://www.nature.com/articles/nn.2797"
+}

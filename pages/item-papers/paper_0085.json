@@ -1,0 +1,27 @@
+{
+  "title": "Imagined speech event detection from electrocorticography and its transfer between speech modes and subjects",
+  "authors": [
+    "Aurélie de Borman",
+    "Benjamin Wittevrongel",
+    "Marc M. Van Hulle"
+  ],
+  "year": 2024,
+  "publication": "Communications Biology",
+  "abstract": "The authors analyze electrocortigraphy data to demonstrate a contribution of gamma oscillations and low frequency waves to imagined speech, developing a model for speech detection capable of generalizing across participants and speech modes.",
+  "keywords": [
+    "imagined",
+    "speech",
+    "event",
+    "detection",
+    "from"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-024-06518-6.pdf",
+  "code": "",
+  "bibtex": "@article{auréliedeborman2024,\n  title={Imagined speech event detection from electrocorticography and its transfer between speech modes and subjects},\n  author={Aurélie de Borman and Benjamin Wittevrongel and Marc M. Van Hulle},\n  journal={Communications Biology},\n  volume={7},\n  pages={1-12},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-07-05",
+  "volume": "7",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s42003-024-06518-6"
+}

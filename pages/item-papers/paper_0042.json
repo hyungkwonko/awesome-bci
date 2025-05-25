@@ -1,0 +1,27 @@
+{
+  "title": "Classification of Articulator Movements and Movement Direction from Sensorimotor Cortex Activity",
+  "authors": [
+    "E. Salari",
+    "Z. V. Freudenburg",
+    "N. F. Ramsey"
+  ],
+  "year": 2019,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "classification",
+    "articulator",
+    "movements",
+    "movement",
+    "direction"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-019-50834-5.pdf",
+  "code": "",
+  "bibtex": "@article{esalari2019,\n  title={Classification of Articulator Movements and Movement Direction from Sensorimotor Cortex Activity},\n  author={E. Salari and Z. V. Freudenburg and N. F. Ramsey},\n  journal={Scientific Reports},\n  volume={9},\n  pages={1-12},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-10-02",
+  "volume": "9",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-019-50834-5"
+}

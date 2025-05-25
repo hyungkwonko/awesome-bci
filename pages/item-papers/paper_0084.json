@@ -1,0 +1,25 @@
+{
+  "title": "Brain–machine interfaces from motor to mood",
+  "authors": [
+    "Maryam M. Shanechi"
+  ],
+  "year": 2019,
+  "publication": "Nature Neuroscience",
+  "abstract": "This paper first reviews the work on brain-machine interfaces (BMIs) for restoring lost motor function and then provides a perspective on how BMIs could extend to the new frontier of restoring lost emotional function in neuropsychiatric disorders.",
+  "keywords": [
+    "brain",
+    "machine",
+    "interfaces",
+    "from",
+    "motor"
+  ],
+  "doi": "10.1038/s41593-019-0488-y",
+  "pdf": "https://www.nature.com/articles/s41593-019-0488-y.pdf",
+  "code": "",
+  "bibtex": "@article{maryammshanechi2019,\n  title={Brain–machine interfaces from motor to mood},\n  author={Maryam M. Shanechi},\n  journal={Nature Neuroscience},\n  volume={22},\n  pages={1554-1564},\n  doi={10.1038/s41593-019-0488-y},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-09-24",
+  "volume": "22",
+  "pages": "1554-1564",
+  "url": "https://www.nature.com/articles/s41593-019-0488-y"
+}

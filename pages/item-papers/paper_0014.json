@@ -1,0 +1,27 @@
+{
+  "title": "The human primary somatosensory cortex encodes imagined movement in the absence of sensory information",
+  "authors": [
+    "Matiar Jafari",
+    "Tyson Aflalo",
+    "Richard Alan Andersen"
+  ],
+  "year": 2020,
+  "publication": "Communications Biology",
+  "abstract": "Matiar Jafari, Tyson Aflalo et al. show that the human primary somatosensory cortex is activated when subjects imagine reaches in a cognitive motor task, but not when they plan movement or imagine a static limb position. These results highlight a role for this region in cognitive imagery and motor control in the absence of sensory information.",
+  "keywords": [
+    "human",
+    "primary",
+    "somatosensory",
+    "cortex",
+    "encodes"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-020-01484-1.pdf",
+  "code": "",
+  "bibtex": "@article{matiarjafari2020,\n  title={The human primary somatosensory cortex encodes imagined movement in the absence of sensory information},\n  author={Matiar Jafari and Tyson Aflalo and Richard Alan Andersen},\n  journal={Communications Biology},\n  volume={3},\n  pages={1-7},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-12-11",
+  "volume": "3",
+  "pages": "1-7",
+  "url": "https://www.nature.com/articles/s42003-020-01484-1"
+}

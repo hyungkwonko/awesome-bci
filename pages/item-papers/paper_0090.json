@@ -1,0 +1,27 @@
+{
+  "title": "Human local field potentials in motor and non-motor brain areas encode upcoming movement direction",
+  "authors": [
+    "Etienne Combrisson",
+    "Franck Di Rienzo",
+    "Karim Jerbi"
+  ],
+  "year": 2024,
+  "publication": "Communications Biology",
+  "abstract": "A study using intracranial recordings in humans suggests that upcoming hand movements can be predicted by oscillatory brain features of the LFP signal.",
+  "keywords": [
+    "human",
+    "local",
+    "field",
+    "potentials",
+    "motor"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-024-06151-3.pdf",
+  "code": "",
+  "bibtex": "@article{etiennecombrisson2024,\n  title={Human local field potentials in motor and non-motor brain areas encode upcoming movement direction},\n  author={Etienne Combrisson and Franck Di Rienzo and Karim Jerbi},\n  journal={Communications Biology},\n  volume={7},\n  pages={1-13},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-04-27",
+  "volume": "7",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s42003-024-06151-3"
+}

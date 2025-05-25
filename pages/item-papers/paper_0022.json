@@ -1,0 +1,27 @@
+{
+  "title": "Real-time detection of neural oscillation bursts allows behaviourally relevant neurofeedback",
+  "authors": [
+    "Golan Karvat",
+    "Artur Schneider",
+    "Ilka Diester"
+  ],
+  "year": 2020,
+  "publication": "Communications Biology",
+  "abstract": "Karvat et al. describe a real-time digital signal-processing method to detect neural oscillations in the form of short and narrowband bursts. Using this real-time method, they show that neurofeedback increases burst-related behaviours and that these bursts can be decoded from the movements of the rats.",
+  "keywords": [
+    "real",
+    "time",
+    "detection",
+    "neural",
+    "oscillation"
+  ],
+  "doi": "10.1038/s42003-020-0801-z",
+  "pdf": "https://www.nature.com/articles/s42003-020-0801-z.pdf",
+  "code": "",
+  "bibtex": "@article{golankarvat2020,\n  title={Real-time detection of neural oscillation bursts allows behaviourally relevant neurofeedback},\n  author={Golan Karvat and Artur Schneider and Ilka Diester},\n  journal={Communications Biology},\n  volume={3},\n  pages={1-10},\n  doi={10.1038/s42003-020-0801-z},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-02-14",
+  "volume": "3",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s42003-020-0801-z"
+}

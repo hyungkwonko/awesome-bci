@@ -1,0 +1,27 @@
+{
+  "title": "Learning to stand with sensorimotor delays generalizes across directions and from hand to leg effectors",
+  "authors": [
+    "Brandon G. Rasman",
+    "Jean-Sébastien Blouin",
+    "Patrick A. Forbes"
+  ],
+  "year": 2024,
+  "publication": "Communications Biology",
+  "abstract": "Use of a robotic balance simulator demonstrates that humans can learn to balance with long sensorimotor delays in different contexts (movement direction, muscle effectors) and generalize learned control to untrained contexts.",
+  "keywords": [
+    "learning",
+    "stand",
+    "with",
+    "sensorimotor",
+    "delays"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-024-06029-4.pdf",
+  "code": "",
+  "bibtex": "@article{brandongrasman2024,\n  title={Learning to stand with sensorimotor delays generalizes across directions and from hand to leg effectors},\n  author={Brandon G. Rasman and Jean-Sébastien Blouin and Patrick A. Forbes},\n  journal={Communications Biology},\n  volume={7},\n  pages={1-20},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-03-29",
+  "volume": "7",
+  "pages": "1-20",
+  "url": "https://www.nature.com/articles/s42003-024-06029-4"
+}

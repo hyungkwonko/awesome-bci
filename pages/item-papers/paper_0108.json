@@ -1,0 +1,27 @@
+{
+  "title": "Teaching brain-machine interfaces as an alternative paradigm to neuroprosthetics control",
+  "authors": [
+    "Iñaki Iturrate",
+    "Ricardo Chavarriaga",
+    "José del R. Millán"
+  ],
+  "year": 2015,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "teaching",
+    "brain",
+    "machine",
+    "interfaces",
+    "alternative"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep13893.pdf",
+  "code": "",
+  "bibtex": "@article{iñakiiturrate2015,\n  title={Teaching brain-machine interfaces as an alternative paradigm to neuroprosthetics control},\n  author={Iñaki Iturrate and Ricardo Chavarriaga and José del R. Millán},\n  journal={Scientific Reports},\n  volume={5},\n  pages={1-10},\n  year={2015},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2015-09-10",
+  "volume": "5",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/srep13893"
+}

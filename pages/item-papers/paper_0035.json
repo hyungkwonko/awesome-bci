@@ -1,0 +1,27 @@
+{
+  "title": "Leveraging neural dynamics to extend functional lifetime of brain-machine interfaces",
+  "authors": [
+    "Jonathan C. Kao",
+    "Stephen I. Ryu",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "leveraging",
+    "neural",
+    "dynamics",
+    "extend",
+    "functional"
+  ],
+  "doi": "10.1038/s41598-017-06029-x",
+  "pdf": "https://www.nature.com/articles/s41598-017-06029-x.pdf",
+  "code": "",
+  "bibtex": "@article{jonathanckao2017,\n  title={Leveraging neural dynamics to extend functional lifetime of brain-machine interfaces},\n  author={Jonathan C. Kao and Stephen I. Ryu and Krishna V. Shenoy},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-16},\n  doi={10.1038/s41598-017-06029-x},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-08-07",
+  "volume": "7",
+  "pages": "1-16",
+  "url": "https://www.nature.com/articles/s41598-017-06029-x"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Neuroprosthetics: from sensorimotor to cognitive disorders",
+  "authors": [
+    "Ankur Gupta",
+    "Nikolaos Vardalakis",
+    "Fabien B. Wagner"
+  ],
+  "year": 2023,
+  "publication": "Communications Biology",
+  "abstract": "This state-of-the-art Review highlights the evolution of neuromodulation and neuroprosthetic systems from sensorimotor to cognitive disorders.",
+  "keywords": [
+    "neuroprosthetics",
+    "from",
+    "sensorimotor",
+    "cognitive",
+    "disorders"
+  ],
+  "doi": "10.1038/s42003-022-04390-w",
+  "pdf": "https://www.nature.com/articles/s42003-022-04390-w.pdf",
+  "code": "",
+  "bibtex": "@article{ankurgupta2023,\n  title={Neuroprosthetics: from sensorimotor to cognitive disorders},\n  author={Ankur Gupta and Nikolaos Vardalakis and Fabien B. Wagner},\n  journal={Communications Biology},\n  volume={6},\n  pages={1-17},\n  doi={10.1038/s42003-022-04390-w},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-01-06",
+  "volume": "6",
+  "pages": "1-17",
+  "url": "https://www.nature.com/articles/s42003-022-04390-w"
+}

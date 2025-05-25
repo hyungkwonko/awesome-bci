@@ -1,0 +1,27 @@
+{
+  "title": "Mapping ECoG channel contributions to trajectory and muscle activity prediction in human sensorimotor cortex",
+  "authors": [
+    "Yasuhiko Nakanishi",
+    "Takufumi Yanagisawa",
+    "Yasuharu Koike"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "mapping",
+    "ecog",
+    "channel",
+    "contributions",
+    "trajectory"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep45486.pdf",
+  "code": "",
+  "bibtex": "@article{yasuhikonakanishi2017,\n  title={Mapping ECoG channel contributions to trajectory and muscle activity prediction in human sensorimotor cortex},\n  author={Yasuhiko Nakanishi and Takufumi Yanagisawa and Yasuharu Koike},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-13},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-03-31",
+  "volume": "7",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/srep45486"
+}

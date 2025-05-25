@@ -1,0 +1,27 @@
+{
+  "title": "Dendritic calcium signals in rhesus macaque motor cortex drive an optical brain-computer interface",
+  "authors": [
+    "Eric M. Trautmann",
+    "Daniel J. O’Shea",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2021,
+  "publication": "Nature Communications",
+  "abstract": "Surface two-photon imaging of the brain cannot access somatic calcium signals of neurons from deep layers of the macaque cortex. Here, the authors present an implant and imaging system for chronic motion-stabilized two-photon imaging of dendritic calcium signals to drive an optical brain-computer interface in macaques.",
+  "keywords": [
+    "dendritic",
+    "calcium",
+    "signals",
+    "rhesus",
+    "macaque"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-021-23884-5.pdf",
+  "code": "",
+  "bibtex": "@article{ericmtrautmann2021,\n  title={Dendritic calcium signals in rhesus macaque motor cortex drive an optical brain-computer interface},\n  author={Eric M. Trautmann and Daniel J. O’Shea and Krishna V. Shenoy},\n  journal={Nature Communications},\n  volume={12},\n  pages={1-20},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-06-17",
+  "volume": "12",
+  "pages": "1-20",
+  "url": "https://www.nature.com/articles/s41467-021-23884-5"
+}

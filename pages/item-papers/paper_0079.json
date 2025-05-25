@@ -1,0 +1,27 @@
+{
+  "title": "High-density scalp electroencephalogram dataset during sensorimotor rhythm-based brain-computer interfacing",
+  "authors": [
+    "Seitaro Iwama",
+    "Masumi Morishige",
+    "Junichi Ushiba"
+  ],
+  "year": 2023,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "high",
+    "density",
+    "scalp",
+    "electroencephalogram",
+    "dataset"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-023-02260-6.pdf",
+  "code": "",
+  "bibtex": "@article{seitaroiwama2023,\n  title={High-density scalp electroencephalogram dataset during sensorimotor rhythm-based brain-computer interfacing},\n  author={Seitaro Iwama and Masumi Morishige and Junichi Ushiba},\n  journal={Scientific Data},\n  volume={10},\n  pages={1-7},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-06-15",
+  "volume": "10",
+  "pages": "1-7",
+  "url": "https://www.nature.com/articles/s41597-023-02260-6"
+}

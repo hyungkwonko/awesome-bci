@@ -1,0 +1,27 @@
+{
+  "title": "Neuroprosthetic-enabled control of graded arm muscle contraction in a paralyzed human",
+  "authors": [
+    "David A. Friedenberg",
+    "Michael A. Schwemmer",
+    "Gaurav Sharma"
+  ],
+  "year": 2017,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "neuroprosthetic",
+    "enabled",
+    "control",
+    "graded",
+    "muscle"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-017-08120-9.pdf",
+  "code": "",
+  "bibtex": "@article{davidafriedenberg2017,\n  title={Neuroprosthetic-enabled control of graded arm muscle contraction in a paralyzed human},\n  author={David A. Friedenberg and Michael A. Schwemmer and Gaurav Sharma},\n  journal={Scientific Reports},\n  volume={7},\n  pages={1-10},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2017-08-21",
+  "volume": "7",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s41598-017-08120-9"
+}

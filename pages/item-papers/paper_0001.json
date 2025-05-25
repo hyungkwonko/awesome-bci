@@ -1,0 +1,26 @@
+{
+  "title": "Identifying potential training factors in a vibrotactile P300-BCI",
+  "authors": [
+    "M. Eidel",
+    "A. Kübler"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "identifying",
+    "potential",
+    "training",
+    "factors",
+    "vibrotactile"
+  ],
+  "doi": "10.1038/s41598-022-18088-w",
+  "pdf": "https://www.nature.com/articles/s41598-022-18088-w.pdf",
+  "code": "",
+  "bibtex": "@article{meidel2022,\n  title={Identifying potential training factors in a vibrotactile P300-BCI},\n  author={M. Eidel and A. Kübler},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-13},\n  doi={10.1038/s41598-022-18088-w},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-08-17",
+  "volume": "12",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41598-022-18088-w"
+}

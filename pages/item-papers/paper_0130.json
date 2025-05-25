@@ -1,0 +1,27 @@
+{
+  "title": "Ultraconformable cuff implants for long-term bidirectional interfacing of peripheral nerves at sub-nerve resolutions",
+  "authors": [
+    "Alejandro Carnicer-Lombarte",
+    "Alexander J. Boys",
+    "George G. Malliaras"
+  ],
+  "year": 2024,
+  "publication": "Nature Communications",
+  "abstract": "Nerve interfaces have the potential to deliver therapythroughout the body by monitoring and modulating function via the peripheral nervous system. Here, the authors present an ultraconformable cuff capable of high-resolution recording and stimulation of nerve activity in freely-moving conditions.",
+  "keywords": [
+    "ultraconformable",
+    "cuff",
+    "implants",
+    "long",
+    "term"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-024-51988-1.pdf",
+  "code": "",
+  "bibtex": "@article{alejandrocarnicer-lombarte2024,\n  title={Ultraconformable cuff implants for long-term bidirectional interfacing of peripheral nerves at sub-nerve resolutions},\n  author={Alejandro Carnicer-Lombarte and Alexander J. Boys and George G. Malliaras},\n  journal={Nature Communications},\n  volume={15},\n  pages={1-14},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-08-30",
+  "volume": "15",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41467-024-51988-1"
+}

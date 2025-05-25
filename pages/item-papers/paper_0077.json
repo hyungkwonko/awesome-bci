@@ -1,0 +1,27 @@
+{
+  "title": "Clinical translation of a high-performance neural prosthesis",
+  "authors": [
+    "Vikash Gilja",
+    "Chethan Pandarinath",
+    "Jaimie M Henderson"
+  ],
+  "year": 2015,
+  "publication": "Nature Medicine",
+  "abstract": "An intracortical neural prosthetic system developed in animal studies is translated for clinical use in humans with paralysis. Neural control of computer cursor movements achieved with this system represent the highest performance reported to date.",
+  "keywords": [
+    "clinical",
+    "translation",
+    "high",
+    "performance",
+    "neural"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nm.3953.pdf",
+  "code": "",
+  "bibtex": "@article{vikashgilja2015,\n  title={Clinical translation of a high-performance neural prosthesis},\n  author={Vikash Gilja and Chethan Pandarinath and Jaimie M Henderson},\n  journal={Nature Medicine},\n  volume={21},\n  pages={1142-1145},\n  year={2015},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2015-09-28",
+  "volume": "21",
+  "pages": "1142-1145",
+  "url": "https://www.nature.com/articles/nm.3953"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Response coupling with an auxiliary neural signal for enhancing brain signal detection",
+  "authors": [
+    "Ekansh Gupta",
+    "Raghupathy Sivakumar"
+  ],
+  "year": 2025,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "response",
+    "coupling",
+    "with",
+    "auxiliary",
+    "neural"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-025-87414-9.pdf",
+  "code": "",
+  "bibtex": "@article{ekanshgupta2025,\n  title={Response coupling with an auxiliary neural signal for enhancing brain signal detection},\n  author={Ekansh Gupta and Raghupathy Sivakumar},\n  journal={Scientific Reports},\n  volume={15},\n  pages={1-21},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-02-20",
+  "volume": "15",
+  "pages": "1-21",
+  "url": "https://www.nature.com/articles/s41598-025-87414-9"
+}

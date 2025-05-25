@@ -1,0 +1,27 @@
+{
+  "title": "Visual target and task-critical feedback uncertainty impair different stages of reach planning in motor cortex",
+  "authors": [
+    "Lukas K. Amann",
+    "Virginia Casasnovas",
+    "Alexander Gail"
+  ],
+  "year": 2025,
+  "publication": "Nature Communications",
+  "abstract": "Visual uncertainty impairs reach accuracy. The authors show that uncertainty about the target always impairs cortical motor goal encoding in rhesus monkeys, while feedback uncertainty does so only when it is task-critical.",
+  "keywords": [
+    "visual",
+    "target",
+    "task",
+    "critical",
+    "feedback"
+  ],
+  "doi": "10.1038/s41467-025-58738-x",
+  "pdf": "https://www.nature.com/articles/s41467-025-58738-x.pdf",
+  "code": "",
+  "bibtex": "@article{lukaskamann2025,\n  title={Visual target and task-critical feedback uncertainty impair different stages of reach planning in motor cortex},\n  author={Lukas K. Amann and Virginia Casasnovas and Alexander Gail},\n  journal={Nature Communications},\n  volume={16},\n  pages={1-15},\n  doi={10.1038/s41467-025-58738-x},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-04-09",
+  "volume": "16",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41467-025-58738-x"
+}

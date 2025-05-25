@@ -1,0 +1,27 @@
+{
+  "title": "Temporary-tattoo for long-term high fidelity biopotential recordings",
+  "authors": [
+    "Lilach Bareket",
+    "Lilah Inzelberg",
+    "Yael Hanein"
+  ],
+  "year": 2016,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "temporary",
+    "tattoo",
+    "long",
+    "term",
+    "high"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep25727.pdf",
+  "code": "",
+  "bibtex": "@article{lilachbareket2016,\n  title={Temporary-tattoo for long-term high fidelity biopotential recordings},\n  author={Lilach Bareket and Lilah Inzelberg and Yael Hanein},\n  journal={Scientific Reports},\n  volume={6},\n  pages={1-8},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-05-12",
+  "volume": "6",
+  "pages": "1-8",
+  "url": "https://www.nature.com/articles/srep25727"
+}

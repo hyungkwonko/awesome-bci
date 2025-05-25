@@ -1,0 +1,27 @@
+{
+  "title": "Feasibility and safety of shared EEG/EOG and vision-guided autonomous whole-arm exoskeleton control to perform activities of daily living",
+  "authors": [
+    "Simona Crea",
+    "Marius Nann",
+    "Surjo R. Soekadar"
+  ],
+  "year": 2018,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "feasibility",
+    "safety",
+    "shared",
+    "vision",
+    "guided"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-018-29091-5.pdf",
+  "code": "",
+  "bibtex": "@article{simonacrea2018,\n  title={Feasibility and safety of shared EEG/EOG and vision-guided autonomous whole-arm exoskeleton control to perform activities of daily living},\n  author={Simona Crea and Marius Nann and Surjo R. Soekadar},\n  journal={Scientific Reports},\n  volume={8},\n  pages={1-9},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-07-17",
+  "volume": "8",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s41598-018-29091-5"
+}

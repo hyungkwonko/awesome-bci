@@ -1,0 +1,27 @@
+{
+  "title": "Active tactile exploration using a brain–machine–brain interface",
+  "authors": [
+    "Joseph E. O’Doherty",
+    "Mikhail A. Lebedev",
+    "Miguel A. L. Nicolelis"
+  ],
+  "year": 2011,
+  "publication": "Nature",
+  "abstract": "",
+  "keywords": [
+    "active",
+    "tactile",
+    "exploration",
+    "using",
+    "brain"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nature10489.pdf",
+  "code": "",
+  "bibtex": "@article{josepheo’doherty2011,\n  title={Active tactile exploration using a brain–machine–brain interface},\n  author={Joseph E. O’Doherty and Mikhail A. Lebedev and Miguel A. L. Nicolelis},\n  journal={Nature},\n  volume={479},\n  pages={228-231},\n  year={2011},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2011-10-05",
+  "volume": "479",
+  "pages": "228-231",
+  "url": "https://www.nature.com/articles/nature10489"
+}

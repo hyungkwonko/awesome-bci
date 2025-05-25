@@ -1,0 +1,27 @@
+{
+  "title": "Machine learning for MEG during speech tasks",
+  "authors": [
+    "Demetres Kostas",
+    "Elizabeth W. Pang",
+    "Frank Rudzicz"
+  ],
+  "year": 2019,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "machine",
+    "learning",
+    "during",
+    "speech",
+    "tasks"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-019-38612-9.pdf",
+  "code": "",
+  "bibtex": "@article{demetreskostas2019,\n  title={Machine learning for MEG during speech tasks},\n  author={Demetres Kostas and Elizabeth W. Pang and Frank Rudzicz},\n  journal={Scientific Reports},\n  volume={9},\n  pages={1-13},\n  year={2019},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2019-02-07",
+  "volume": "9",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41598-019-38612-9"
+}

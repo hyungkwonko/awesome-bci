@@ -1,0 +1,27 @@
+{
+  "title": "Simultaneous Dataset of Brain, Eye and Hand during Visuomotor Tasks",
+  "authors": [
+    "Hao Zhang",
+    "Yiqing Hu",
+    "Chenguang Zhao"
+  ],
+  "year": 2025,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "simultaneous",
+    "dataset",
+    "brain",
+    "hand",
+    "during"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-024-04227-7.pdf",
+  "code": "",
+  "bibtex": "@article{haozhang2025,\n  title={Simultaneous Dataset of Brain, Eye and Hand during Visuomotor Tasks},\n  author={Hao Zhang and Yiqing Hu and Chenguang Zhao},\n  journal={Scientific Data},\n  volume={12},\n  pages={1-15},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-01-31",
+  "volume": "12",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41597-024-04227-7"
+}

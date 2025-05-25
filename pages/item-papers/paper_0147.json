@@ -1,0 +1,27 @@
+{
+  "title": "Multi-pronged neuromodulation intervention engages the residual motor circuitry to facilitate walking in a rat model of spinal cord injury",
+  "authors": [
+    "Marco Bonizzato",
+    "Nicholas D. James",
+    "Gregoire Courtine"
+  ],
+  "year": 2021,
+  "publication": "Nature Communications",
+  "abstract": "Deep brain stimulation and epidural electrical stimulation of the spinal cord enable locomotion in humans with spinal cord injury (SCI) but the potential synergy between both approaches is unclear. The authors show that a complex technological approach is required to enable volitional walking in rats with SCI.",
+  "keywords": [
+    "multi",
+    "pronged",
+    "neuromodulation",
+    "intervention",
+    "engages"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-021-22137-9.pdf",
+  "code": "",
+  "bibtex": "@article{marcobonizzato2021,\n  title={Multi-pronged neuromodulation intervention engages the residual motor circuitry to facilitate walking in a rat model of spinal cord injury},\n  author={Marco Bonizzato and Nicholas D. James and Gregoire Courtine},\n  journal={Nature Communications},\n  volume={12},\n  pages={1-14},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-03-26",
+  "volume": "12",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s41467-021-22137-9"
+}

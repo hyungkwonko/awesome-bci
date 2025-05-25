@@ -1,0 +1,27 @@
+{
+  "title": "Using principles of motor control to analyze performance of human machine interfaces",
+  "authors": [
+    "Shriniwas Patwardhan",
+    "Keri Anne Gladhill",
+    "Siddhartha Sikdar"
+  ],
+  "year": 2023,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "using",
+    "principles",
+    "motor",
+    "control",
+    "analyze"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-023-40446-5.pdf",
+  "code": "",
+  "bibtex": "@article{shriniwaspatwardhan2023,\n  title={Using principles of motor control to analyze performance of human machine interfaces},\n  author={Shriniwas Patwardhan and Keri Anne Gladhill and Siddhartha Sikdar},\n  journal={Scientific Reports},\n  volume={13},\n  pages={1-15},\n  year={2023},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2023-08-15",
+  "volume": "13",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41598-023-40446-5"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity",
+  "authors": [
+    "Miguel Angrick",
+    "Maarten C. Ottenhoff",
+    "Christian Herff"
+  ],
+  "year": 2021,
+  "publication": "Communications Biology",
+  "abstract": "Miguel Angrick et al. develop an intracranial EEG-based method to decode imagined speech from a human patient and translate it into audible speech in real-time. This report presents an important proof of concept that acoustic output can be reconstructed on the basis of neural signals, and serves as a valuable step in the development of neuroprostheses to help nonverbal patients interact with their environment.",
+  "keywords": [
+    "real",
+    "time",
+    "synthesis",
+    "imagined",
+    "speech"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-021-02578-0.pdf",
+  "code": "",
+  "bibtex": "@article{miguelangrick2021,\n  title={Real-time synthesis of imagined speech processes from minimally invasive recordings of neural activity},\n  author={Miguel Angrick and Maarten C. Ottenhoff and Christian Herff},\n  journal={Communications Biology},\n  volume={4},\n  pages={1-10},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-09-23",
+  "volume": "4",
+  "pages": "1-10",
+  "url": "https://www.nature.com/articles/s42003-021-02578-0"
+}

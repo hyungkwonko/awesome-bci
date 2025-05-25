@@ -1,0 +1,27 @@
+{
+  "title": "Learning is shaped by abrupt changes in neural engagement",
+  "authors": [
+    "Jay A. Hennig",
+    "Emily R. Oby",
+    "Byron M. Yu"
+  ],
+  "year": 2021,
+  "publication": "Nature Neuroscience",
+  "abstract": "Hennig et al. study how changes in internal state interact with learning in primates. They report stereotyped activity fluctuations in the motor cortex that reflect the animal’s level of engagement and predict how quickly the animals learned.",
+  "keywords": [
+    "learning",
+    "shaped",
+    "abrupt",
+    "changes",
+    "neural"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-021-00822-8.pdf",
+  "code": "",
+  "bibtex": "@article{jayahennig2021,\n  title={Learning is shaped by abrupt changes in neural engagement},\n  author={Jay A. Hennig and Emily R. Oby and Byron M. Yu},\n  journal={Nature Neuroscience},\n  volume={24},\n  pages={727-736},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-03-29",
+  "volume": "24",
+  "pages": "727-736",
+  "url": "https://www.nature.com/articles/s41593-021-00822-8"
+}

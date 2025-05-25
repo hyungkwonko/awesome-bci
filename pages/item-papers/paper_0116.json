@@ -1,0 +1,27 @@
+{
+  "title": "Dataset of concurrent EEG, ECG, and behavior with multiple doses of transcranial electrical stimulation",
+  "authors": [
+    "Nigel Gebodh",
+    "Zeinab Esmaeilpour",
+    "Marom Bikson"
+  ],
+  "year": 2021,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "dataset",
+    "concurrent",
+    "behavior",
+    "with",
+    "multiple"
+  ],
+  "doi": "10.1038/s41597-021-01046-y",
+  "pdf": "https://www.nature.com/articles/s41597-021-01046-y.pdf",
+  "code": "",
+  "bibtex": "@article{nigelgebodh2021,\n  title={Dataset of concurrent EEG, ECG, and behavior with multiple doses of transcranial electrical stimulation},\n  author={Nigel Gebodh and Zeinab Esmaeilpour and Marom Bikson},\n  journal={Scientific Data},\n  volume={8},\n  pages={1-16},\n  doi={10.1038/s41597-021-01046-y},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-10-27",
+  "volume": "8",
+  "pages": "1-16",
+  "url": "https://www.nature.com/articles/s41597-021-01046-y"
+}

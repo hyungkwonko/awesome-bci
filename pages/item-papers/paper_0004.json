@@ -1,0 +1,27 @@
+{
+  "title": "Selective modulation of cortical population dynamics during neuroprosthetic skill learning",
+  "authors": [
+    "Ellen L. Zippi",
+    "Albert K. You",
+    "Jose M. Carmena"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "selective",
+    "modulation",
+    "cortical",
+    "population",
+    "dynamics"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-022-20218-3.pdf",
+  "code": "",
+  "bibtex": "@article{ellenlzippi2022,\n  title={Selective modulation of cortical population dynamics during neuroprosthetic skill learning},\n  author={Ellen L. Zippi and Albert K. You and Jose M. Carmena},\n  journal={Scientific Reports},\n  volume={12},\n  pages={1-13},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-09-24",
+  "volume": "12",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41598-022-20218-3"
+}

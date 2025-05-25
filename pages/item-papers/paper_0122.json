@@ -1,0 +1,27 @@
+{
+  "title": "Pre-movement sensorimotor oscillations shape the sense of agency by gating cortical connectivity",
+  "authors": [
+    "Tommaso Bertoni",
+    "Jean-Paul Noel",
+    "Andrea Serino"
+  ],
+  "year": 2025,
+  "publication": "Nature Communications",
+  "abstract": "The neural mechanisms underlying the feeling of being in control of one’s own actions are not well understood. Here, the authors show that neural oscillations underlie the feeling of control by modulating functional connectivity in sensorimotor networks.",
+  "keywords": [
+    "movement",
+    "sensorimotor",
+    "oscillations",
+    "shape",
+    "sense"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-025-58683-9.pdf",
+  "code": "",
+  "bibtex": "@article{tommasobertoni2025,\n  title={Pre-movement sensorimotor oscillations shape the sense of agency by gating cortical connectivity},\n  author={Tommaso Bertoni and Jean-Paul Noel and Andrea Serino},\n  journal={Nature Communications},\n  volume={16},\n  pages={1-20},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-04-16",
+  "volume": "16",
+  "pages": "1-20",
+  "url": "https://www.nature.com/articles/s41467-025-58683-9"
+}

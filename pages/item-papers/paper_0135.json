@@ -1,0 +1,27 @@
+{
+  "title": "Biomimetic versus arbitrary motor control strategies for bionic hand skill learning",
+  "authors": [
+    "Hunter R. Schone",
+    "Malcolm Udeozor",
+    "Chris I. Baker"
+  ],
+  "year": 2024,
+  "publication": "Nature Human Behaviour",
+  "abstract": "Challenging long-held assumptions, this research reveals that people can learn to control bionic hands just as effectively, and in some ways better, using arbitrary control strategies compared with control strategies that mimic the human body.",
+  "keywords": [
+    "biomimetic",
+    "versus",
+    "arbitrary",
+    "motor",
+    "control"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41562-023-01811-6.pdf",
+  "code": "",
+  "bibtex": "@article{hunterrschone2024,\n  title={Biomimetic versus arbitrary motor control strategies for bionic hand skill learning},\n  author={Hunter R. Schone and Malcolm Udeozor and Chris I. Baker},\n  journal={Nature Human Behaviour},\n  volume={8},\n  pages={1108-1123},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-03-18",
+  "volume": "8",
+  "pages": "1108-1123",
+  "url": "https://www.nature.com/articles/s41562-023-01811-6"
+}

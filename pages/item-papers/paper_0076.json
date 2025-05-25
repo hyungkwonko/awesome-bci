@@ -1,0 +1,27 @@
+{
+  "title": "Versatile robotic interface to evaluate, enable and train locomotion and balance after neuromotor disorders",
+  "authors": [
+    "Nadia Dominici",
+    "Urs Keller",
+    "Grégoire Courtine"
+  ],
+  "year": 2012,
+  "publication": "Nature Medicine",
+  "abstract": "Nadia Dominici and her colleagues have developed a multidirectional robotic neurorehabilitation system that is capable of operating as a propulsive or postural neuroprosthesis and overcomes some of the limitations of existing systems. The robotic interface allows for the independent assessment and restoration of motor function in rats with mild to severe neuromotor disorders and is validated in various models of spinal cord injury and stroke.",
+  "keywords": [
+    "versatile",
+    "robotic",
+    "interface",
+    "evaluate",
+    "enable"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nm.2845.pdf",
+  "code": "",
+  "bibtex": "@article{nadiadominici2012,\n  title={Versatile robotic interface to evaluate, enable and train locomotion and balance after neuromotor disorders},\n  author={Nadia Dominici and Urs Keller and Grégoire Courtine},\n  journal={Nature Medicine},\n  volume={18},\n  pages={1142-1147},\n  year={2012},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2012-05-31",
+  "volume": "18",
+  "pages": "1142-1147",
+  "url": "https://www.nature.com/articles/nm.2845"
+}

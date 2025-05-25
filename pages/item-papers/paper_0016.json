@@ -1,0 +1,27 @@
+{
+  "title": "Human brain dynamics in active spatial navigation",
+  "authors": [
+    "Tien-Thong Nguyen Do",
+    "Chin-Teng Lin",
+    "Klaus Gramann"
+  ],
+  "year": 2021,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "human",
+    "brain",
+    "dynamics",
+    "active",
+    "spatial"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-021-92246-4.pdf",
+  "code": "",
+  "bibtex": "@article{tien-thongnguyendo2021,\n  title={Human brain dynamics in active spatial navigation},\n  author={Tien-Thong Nguyen Do and Chin-Teng Lin and Klaus Gramann},\n  journal={Scientific Reports},\n  volume={11},\n  pages={1-12},\n  year={2021},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2021-06-22",
+  "volume": "11",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-021-92246-4"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Flexible, foldable, actively multiplexed, high-density electrode array for mapping brain activity in vivo",
+  "authors": [
+    "Jonathan Viventi",
+    "Dae-Hyeong Kim",
+    "Brian Litt"
+  ],
+  "year": 2011,
+  "publication": "Nature Neuroscience",
+  "abstract": "This technical report describes a 360-channel flexible multi-electrode array with high spatial resolution, wide coverage area and minimal damage to the recorded neural tissue. Among other descriptions of multiunit in vivo neuronal recording in cats, the authors also use the electrode array to show spiral-patterned spread of epileptic neural activity in the neocortex.",
+  "keywords": [
+    "flexible",
+    "foldable",
+    "actively",
+    "multiplexed",
+    "high"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nn.2973.pdf",
+  "code": "",
+  "bibtex": "@article{jonathanviventi2011,\n  title={Flexible, foldable, actively multiplexed, high-density electrode array for mapping brain activity in vivo},\n  author={Jonathan Viventi and Dae-Hyeong Kim and Brian Litt},\n  journal={Nature Neuroscience},\n  volume={14},\n  pages={1599-1605},\n  year={2011},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2011-11-13",
+  "volume": "14",
+  "pages": "1599-1605",
+  "url": "https://www.nature.com/articles/nn.2973"
+}

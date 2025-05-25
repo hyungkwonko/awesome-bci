@@ -1,0 +1,27 @@
+{
+  "title": "Common neural correlates of real and imagined movements contributing to the performance of brain–machine interfaces",
+  "authors": [
+    "Hisato Sugata",
+    "Masayuki Hirata",
+    "Toshiki Yoshimine"
+  ],
+  "year": 2016,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "common",
+    "neural",
+    "correlates",
+    "real",
+    "imagined"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep24663.pdf",
+  "code": "",
+  "bibtex": "@article{hisatosugata2016,\n  title={Common neural correlates of real and imagined movements contributing to the performance of brain–machine interfaces},\n  author={Hisato Sugata and Masayuki Hirata and Toshiki Yoshimine},\n  journal={Scientific Reports},\n  volume={6},\n  pages={1-11},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-04-19",
+  "volume": "6",
+  "pages": "1-11",
+  "url": "https://www.nature.com/articles/srep24663"
+}

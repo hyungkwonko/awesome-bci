@@ -1,0 +1,27 @@
+{
+  "title": "Basal ganglia-cortical connectivity underlies self-regulation of brain oscillations in humans",
+  "authors": [
+    "Kazumi Kasahara",
+    "Charles S. DaSalla",
+    "Takashi Hanakawa"
+  ],
+  "year": 2022,
+  "publication": "Communications Biology",
+  "abstract": "Simultaneous fMRI-EEG in 26 healthy participants indicate that the basal ganglia cortical network and the neurofeedback control network play different roles in self-regulation, providing further insight into the neural correlates for brain-machine interface control and feedback.",
+  "keywords": [
+    "basal",
+    "ganglia",
+    "cortical",
+    "connectivity",
+    "underlies"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s42003-022-03665-6.pdf",
+  "code": "",
+  "bibtex": "@article{kazumikasahara2022,\n  title={Basal ganglia-cortical connectivity underlies self-regulation of brain oscillations in humans},\n  author={Kazumi Kasahara and Charles S. DaSalla and Takashi Hanakawa},\n  journal={Communications Biology},\n  volume={5},\n  pages={1-9},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-07-16",
+  "volume": "5",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s42003-022-03665-6"
+}

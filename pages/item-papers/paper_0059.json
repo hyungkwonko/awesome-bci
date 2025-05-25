@@ -1,0 +1,27 @@
+{
+  "title": "Reactivation of emergent task-related ensembles during slow-wave sleep after neuroprosthetic learning",
+  "authors": [
+    "Tanuj Gulati",
+    "Dhakshin S Ramanathan",
+    "Karunesh Ganguly"
+  ],
+  "year": 2014,
+  "publication": "Nature Neuroscience",
+  "abstract": "Using a rodent neuroprosthetic model, the authors found that, after successful learning, task-related units specifically experienced increased locking and coherency to SWA during sleep, and spike-spike coherence among these units was significantly enhanced. These changes were not present with poor skill acquisition or after control awake periods, demonstrating specificity to learning.",
+  "keywords": [
+    "reactivation",
+    "emergent",
+    "task",
+    "related",
+    "ensembles"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nn.3759.pdf",
+  "code": "",
+  "bibtex": "@article{tanujgulati2014,\n  title={Reactivation of emergent task-related ensembles during slow-wave sleep after neuroprosthetic learning},\n  author={Tanuj Gulati and Dhakshin S Ramanathan and Karunesh Ganguly},\n  journal={Nature Neuroscience},\n  volume={17},\n  pages={1107-1113},\n  year={2014},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2014-07-06",
+  "volume": "17",
+  "pages": "1107-1113",
+  "url": "https://www.nature.com/articles/nn.3759"
+}

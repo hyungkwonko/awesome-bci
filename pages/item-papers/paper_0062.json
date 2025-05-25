@@ -1,0 +1,27 @@
+{
+  "title": "A multi-day and high-quality EEG dataset for motor imagery brain-computer interface",
+  "authors": [
+    "Banghua Yang",
+    "Fenqi Rong",
+    "Xiaorong Gao"
+  ],
+  "year": 2025,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "multi",
+    "high",
+    "quality",
+    "dataset",
+    "motor"
+  ],
+  "doi": "10.1038/s41597-025-04826-y",
+  "pdf": "https://www.nature.com/articles/s41597-025-04826-y.pdf",
+  "code": "",
+  "bibtex": "@article{banghuayang2025,\n  title={A multi-day and high-quality EEG dataset for motor imagery brain-computer interface},\n  author={Banghua Yang and Fenqi Rong and Xiaorong Gao},\n  journal={Scientific Data},\n  volume={12},\n  pages={1-13},\n  doi={10.1038/s41597-025-04826-y},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-03-23",
+  "volume": "12",
+  "pages": "1-13",
+  "url": "https://www.nature.com/articles/s41597-025-04826-y"
+}

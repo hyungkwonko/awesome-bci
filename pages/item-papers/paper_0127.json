@@ -1,0 +1,27 @@
+{
+  "title": "Dynamical constraints on neural population activity",
+  "authors": [
+    "Emily R. Oby",
+    "Alan D. Degenhart",
+    "Aaron P. Batista"
+  ],
+  "year": 2025,
+  "publication": "Nature Neuroscience",
+  "abstract": "Oby, Degenhart, Grigsby and colleagues used a brain–computer interface to challenge monkeys to override their natural time courses of neural activity. They found the time courses to be highly robust, suggestive of network-level computational mechanisms.",
+  "keywords": [
+    "dynamical",
+    "constraints",
+    "neural",
+    "population",
+    "activity"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-024-01845-7.pdf",
+  "code": "",
+  "bibtex": "@article{emilyroby2025,\n  title={Dynamical constraints on neural population activity},\n  author={Emily R. Oby and Alan D. Degenhart and Aaron P. Batista},\n  journal={Nature Neuroscience},\n  volume={28},\n  pages={383-393},\n  year={2025},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-01-17",
+  "volume": "28",
+  "pages": "383-393",
+  "url": "https://www.nature.com/articles/s41593-024-01845-7"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Dataset of Speech Production in intracranial Electroencephalography",
+  "authors": [
+    "Maxime Verwoert",
+    "Maarten C. Ottenhoff",
+    "Christian Herff"
+  ],
+  "year": 2022,
+  "publication": "Scientific Data",
+  "abstract": "",
+  "keywords": [
+    "dataset",
+    "speech",
+    "production",
+    "intracranial",
+    "electroencephalography"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41597-022-01542-9.pdf",
+  "code": "",
+  "bibtex": "@article{maximeverwoert2022,\n  title={Dataset of Speech Production in intracranial Electroencephalography},\n  author={Maxime Verwoert and Maarten C. Ottenhoff and Christian Herff},\n  journal={Scientific Data},\n  volume={9},\n  pages={1-9},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-07-22",
+  "volume": "9",
+  "pages": "1-9",
+  "url": "https://www.nature.com/articles/s41597-022-01542-9"
+}

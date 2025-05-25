@@ -1,0 +1,27 @@
+{
+  "title": "Generalizable spelling using a speech neuroprosthesis in an individual with severe limb and vocal paralysis",
+  "authors": [
+    "Sean L. Metzger",
+    "Jessie R. Liu",
+    "Edward F. Chang"
+  ],
+  "year": 2022,
+  "publication": "Nature Communications",
+  "abstract": "Previous work has described a neuroprosthesis to directly decode full words in real time during attempts to speak. Here the authors demonstrate that a patient with anarthria can control this neuroprosthesis to spell out intended messages in real time using attempts to silently speak.",
+  "keywords": [
+    "generalizable",
+    "spelling",
+    "using",
+    "speech",
+    "neuroprosthesis"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41467-022-33611-3.pdf",
+  "code": "",
+  "bibtex": "@article{seanlmetzger2022,\n  title={Generalizable spelling using a speech neuroprosthesis in an individual with severe limb and vocal paralysis},\n  author={Sean L. Metzger and Jessie R. Liu and Edward F. Chang},\n  journal={Nature Communications},\n  volume={13},\n  pages={1-15},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-11-08",
+  "volume": "13",
+  "pages": "1-15",
+  "url": "https://www.nature.com/articles/s41467-022-33611-3"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Restoration of grasp following paralysis through brain-controlled stimulation of muscles",
+  "authors": [
+    "C. Ethier",
+    "E. R. Oby",
+    "L. E. Miller"
+  ],
+  "year": 2012,
+  "publication": "Nature",
+  "abstract": "A functional electrical stimulation system in primates that is controlled by recordings made from microelectrodes permanently implanted in the brain can be used to control the intensity of stimulation of muscles that are temporarily paralysed by pharmacological motor nerve blockade, thereby restoring voluntary control of the affected muscles; this is a major advance towards similar restoration of hand function in human patients with spinal cord injury.",
+  "keywords": [
+    "restoration",
+    "grasp",
+    "following",
+    "paralysis",
+    "through"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/nature10987.pdf",
+  "code": "",
+  "bibtex": "@article{cethier2012,\n  title={Restoration of grasp following paralysis through brain-controlled stimulation of muscles},\n  author={C. Ethier and E. R. Oby and L. E. Miller},\n  journal={Nature},\n  volume={485},\n  pages={368-371},\n  year={2012},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2012-04-18",
+  "volume": "485",
+  "pages": "368-371",
+  "url": "https://www.nature.com/articles/nature10987"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "A wireless and artefact-free 128-channel neuromodulation device for closed-loop stimulation and recording in non-human primates",
+  "authors": [
+    "Andy Zhou",
+    "Samantha R. Santacruz",
+    "Rikky Muller"
+  ],
+  "year": 2018,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "A closed-loop and wireless 128-channel neuromodulation device enables electrical stimulation as well as artefact-free long-term recording of local field potentials in the brain of an untethered non-human primate.",
+  "keywords": [
+    "wireless",
+    "artefact",
+    "free",
+    "channel",
+    "neuromodulation"
+  ],
+  "doi": "10.1038/s41551-018-0323-x",
+  "pdf": "https://www.nature.com/articles/s41551-018-0323-x.pdf",
+  "code": "",
+  "bibtex": "@article{andyzhou2018,\n  title={A wireless and artefact-free 128-channel neuromodulation device for closed-loop stimulation and recording in non-human primates},\n  author={Andy Zhou and Samantha R. Santacruz and Rikky Muller},\n  journal={Nature Biomedical Engineering},\n  volume={3},\n  pages={15-26},\n  doi={10.1038/s41551-018-0323-x},\n  year={2018},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2018-12-31",
+  "volume": "3",
+  "pages": "15-26",
+  "url": "https://www.nature.com/articles/s41551-018-0323-x"
+}

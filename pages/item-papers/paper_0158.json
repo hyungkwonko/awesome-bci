@@ -1,0 +1,27 @@
+{
+  "title": "Dissociative and prioritized modeling of behaviorally relevant neural dynamics using recurrent neural networks",
+  "authors": [
+    "Omid G. Sani",
+    "Bijan Pesaran",
+    "Maryam M. Shanechi"
+  ],
+  "year": 2024,
+  "publication": "Nature Neuroscience",
+  "abstract": "The authors present DPAD, a deep learning method, for dynamical neural–behavioral modeling. It dissociates behaviorally relevant neural dynamics, better predicts neural–behavioral data and reveals insight into where their nonlinearities can be isolated.",
+  "keywords": [
+    "dissociative",
+    "prioritized",
+    "modeling",
+    "behaviorally",
+    "relevant"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41593-024-01731-2.pdf",
+  "code": "",
+  "bibtex": "@article{omidgsani2024,\n  title={Dissociative and prioritized modeling of behaviorally relevant neural dynamics using recurrent neural networks},\n  author={Omid G. Sani and Bijan Pesaran and Maryam M. Shanechi},\n  journal={Nature Neuroscience},\n  volume={27},\n  pages={2033-2045},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-09-06",
+  "volume": "27",
+  "pages": "2033-2045",
+  "url": "https://www.nature.com/articles/s41593-024-01731-2"
+}

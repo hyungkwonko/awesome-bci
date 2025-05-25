@@ -1,0 +1,27 @@
+{
+  "title": "Real-Time Control of a Neuroprosthetic Hand by Magnetoencephalographic Signals from Paralysed Patients",
+  "authors": [
+    "Ryohei Fukuma",
+    "Takufumi Yanagisawa",
+    "Toshiki Yoshimine"
+  ],
+  "year": 2016,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "real",
+    "time",
+    "control",
+    "neuroprosthetic",
+    "hand"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/srep21781.pdf",
+  "code": "",
+  "bibtex": "@article{ryoheifukuma2016,\n  title={Real-Time Control of a Neuroprosthetic Hand by Magnetoencephalographic Signals from Paralysed Patients},\n  author={Ryohei Fukuma and Takufumi Yanagisawa and Toshiki Yoshimine},\n  journal={Scientific Reports},\n  volume={6},\n  pages={1-14},\n  year={2016},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2016-02-24",
+  "volume": "6",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/srep21781"
+}

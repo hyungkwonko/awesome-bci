@@ -1,0 +1,27 @@
+{
+  "title": "Stimulus modality influences session-to-session transfer of training effects in auditory and tactile streaming-based P300 brain–computer interfaces",
+  "authors": [
+    "P. Ziebell",
+    "J. Stümpfig",
+    "S. Halder"
+  ],
+  "year": 2020,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "stimulus",
+    "modality",
+    "influences",
+    "session",
+    "session"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41598-020-67887-6.pdf",
+  "code": "",
+  "bibtex": "@article{pziebell2020,\n  title={Stimulus modality influences session-to-session transfer of training effects in auditory and tactile streaming-based P300 brain–computer interfaces},\n  author={P. Ziebell and J. Stümpfig and S. Halder},\n  journal={Scientific Reports},\n  volume={10},\n  pages={1-12},\n  year={2020},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2020-07-17",
+  "volume": "10",
+  "pages": "1-12",
+  "url": "https://www.nature.com/articles/s41598-020-67887-6"
+}

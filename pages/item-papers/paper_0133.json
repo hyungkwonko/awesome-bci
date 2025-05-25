@@ -1,0 +1,27 @@
+{
+  "title": "A bilingual speech neuroprosthesis driven by cortical articulatory representations shared between languages",
+  "authors": [
+    "Alexander B. Silva",
+    "Jessie R. Liu",
+    "Edward F. Chang"
+  ],
+  "year": 2024,
+  "publication": "Nature Biomedical Engineering",
+  "abstract": "Multilingual articulatory representations in the speech-motor cortex of a participant with vocal-tract and limb paralysis enabled the development of a bilingual speech neuroprosthesis.",
+  "keywords": [
+    "bilingual",
+    "speech",
+    "neuroprosthesis",
+    "driven",
+    "cortical"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s41551-024-01207-5.pdf",
+  "code": "",
+  "bibtex": "@article{alexanderbsilva2024,\n  title={A bilingual speech neuroprosthesis driven by cortical articulatory representations shared between languages},\n  author={Alexander B. Silva and Jessie R. Liu and Edward F. Chang},\n  journal={Nature Biomedical Engineering},\n  volume={8},\n  pages={977-991},\n  year={2024},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2024-05-20",
+  "volume": "8",
+  "pages": "977-991",
+  "url": "https://www.nature.com/articles/s41551-024-01207-5"
+}

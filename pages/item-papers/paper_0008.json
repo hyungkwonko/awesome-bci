@@ -1,0 +1,27 @@
+{
+  "title": "Neuromotor prosthetic to treat stroke-related paresis: N-of-1 trial",
+  "authors": [
+    "Mijail D. Serruya",
+    "Alessandro Napoli",
+    "Robert H. Rosenwasser"
+  ],
+  "year": 2022,
+  "publication": "Communications Medicine",
+  "abstract": "Serruya et al. test in an N-of-1 trial whether a wearable, powered exoskeletal orthosis, driven by a percutaneous, implanted brain–computer interface can restore voluntary upper extremity function following chronic hemiparesis subsequent to a cerebral subcortical stroke. Using this approach, voluntary opening of the paralyzed hand is restored.",
+  "keywords": [
+    "neuromotor",
+    "prosthetic",
+    "treat",
+    "stroke",
+    "related"
+  ],
+  "doi": "",
+  "pdf": "https://www.nature.com/articles/s43856-022-00105-8.pdf",
+  "code": "",
+  "bibtex": "@article{mijaildserruya2022,\n  title={Neuromotor prosthetic to treat stroke-related paresis: N-of-1 trial},\n  author={Mijail D. Serruya and Alessandro Napoli and Robert H. Rosenwasser},\n  journal={Communications Medicine},\n  volume={2},\n  pages={1-14},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2022-04-07",
+  "volume": "2",
+  "pages": "1-14",
+  "url": "https://www.nature.com/articles/s43856-022-00105-8"
+}
