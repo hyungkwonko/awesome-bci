@@ -206,23 +206,35 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Render pagination
 function renderPagination(container, currentPage, totalPages, onPageChange) {
-    if (!container) return;
+    if (!container) {
+        console.error('Pagination container not found');
+        return;
+    }
+    
+    console.log(`Rendering pagination: page ${currentPage} of ${totalPages}`); // Debug log
     
     container.innerHTML = '';
+    
+    if (totalPages <= 1) {
+        return; // No pagination needed
+    }
     
     // Previous button
     const prevBtn = document.createElement('button');
     prevBtn.className = `pagination-btn prev ${currentPage === 1 ? 'disabled' : ''}`;
     prevBtn.innerHTML = '<i class="fas fa-chevron-left"></i> Prev';
     prevBtn.disabled = currentPage === 1;
-    prevBtn.addEventListener('click', () => {
-        if (currentPage > 1) {
+    
+    if (currentPage > 1) {
+        prevBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log(`Previous button clicked, going to page ${currentPage - 1}`);
             onPageChange(currentPage - 1);
-        }
-    });
+        });
+    }
     container.appendChild(prevBtn);
     
-    // Page buttons
+    // Page buttons logic
     const maxVisiblePages = 5;
     let startPage = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
     let endPage = Math.min(totalPages, startPage + maxVisiblePages - 1);
@@ -237,7 +249,11 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
         const firstPageBtn = document.createElement('button');
         firstPageBtn.className = 'pagination-btn';
         firstPageBtn.textContent = '1';
-        firstPageBtn.addEventListener('click', () => onPageChange(1));
+        firstPageBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log('First page button clicked');
+            onPageChange(1);
+        });
         container.appendChild(firstPageBtn);
         
         // Ellipsis if needed
@@ -249,12 +265,16 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
         }
     }
     
-    // Page buttons
+    // Page number buttons
     for (let i = startPage; i <= endPage; i++) {
         const pageBtn = document.createElement('button');
         pageBtn.className = `pagination-btn ${i === currentPage ? 'active' : ''}`;
         pageBtn.textContent = i;
-        pageBtn.addEventListener('click', () => onPageChange(i));
+        pageBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log(`Page ${i} button clicked`);
+            onPageChange(i);
+        });
         container.appendChild(pageBtn);
     }
     
@@ -271,7 +291,11 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
         const lastPageBtn = document.createElement('button');
         lastPageBtn.className = 'pagination-btn';
         lastPageBtn.textContent = totalPages;
-        lastPageBtn.addEventListener('click', () => onPageChange(totalPages));
+        lastPageBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log('Last page button clicked');
+            onPageChange(totalPages);
+        });
         container.appendChild(lastPageBtn);
     }
     
@@ -280,11 +304,14 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
     nextBtn.className = `pagination-btn next ${currentPage === totalPages ? 'disabled' : ''}`;
     nextBtn.innerHTML = 'Next <i class="fas fa-chevron-right"></i>';
     nextBtn.disabled = currentPage === totalPages;
-    nextBtn.addEventListener('click', () => {
-        if (currentPage < totalPages) {
+    
+    if (currentPage < totalPages) {
+        nextBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            console.log(`Next button clicked, going to page ${currentPage + 1}`);
             onPageChange(currentPage + 1);
-        }
-    });
+        });
+    }
     container.appendChild(nextBtn);
 }
 
@@ -334,7 +361,7 @@ function displayRecentPapers(papers) {
                 <span>${paper.publication}</span>
             </div>
             <div class="links">
-                ${paper.doi ? `<a href="https://doi.org/${paper.doi}" target="_blank"><i class="fas fa-external-link-alt"></i> DOI</a>` : ''}
+                ${paper.url ? `<a href="${paper.url}" target="_blank"><i class="fas fa-external-link-alt"></i> URL</a>` : ''}
                 ${paper.pdf ? `<a href="${paper.pdf}" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>` : ''}
                 ${paper.code ? `<a href="${paper.code}" target="_blank"><i class="fas fa-code"></i> Code</a>` : ''}
             </div>
@@ -411,7 +438,10 @@ async function loadPapers() {
         const noResults = document.getElementById('no-results');
         const paginationContainer = document.getElementById('papers-pagination');
         
-        if (!container || !loading || !noResults) return;
+        if (!container || !loading || !noResults) {
+            console.error('Required elements not found');
+            return;
+        }
         
         if (!papers || !papers.length) {
             loading.classList.add('hidden');
@@ -419,55 +449,73 @@ async function loadPapers() {
             return;
         }
         
-        // Set up pagination
+        // Set up pagination variables
         const itemsPerPage = 10;
         let currentPage = 1;
-        const totalPages = Math.ceil(papers.length / itemsPerPage);
+        let filteredPapers = [...papers].sort((a, b) => b.year - a.year); // Sort by newest first initially
+
+        
+        // Function to update pagination and display
+        function updatePapersDisplay() {
+            const totalPages = Math.ceil(filteredPapers.length / itemsPerPage);
+            
+            // Ensure current page is valid
+            if (currentPage > totalPages && totalPages > 0) {
+                currentPage = totalPages;
+            } else if (currentPage < 1) {
+                currentPage = 1;
+            }
+            
+            renderPapersPage(filteredPapers, container, currentPage, itemsPerPage);
+            
+            if (paginationContainer && totalPages > 1) {
+                renderPagination(paginationContainer, currentPage, totalPages, (page) => {
+                    console.log(`Navigating to page ${page}`); // Debug log
+                    currentPage = page;
+                    updatePapersDisplay();
+                });
+            } else if (paginationContainer) {
+                paginationContainer.innerHTML = ''; // Clear pagination if only one page
+            }
+            
+            // Show/hide no results message
+            if (filteredPapers.length === 0) {
+                noResults.classList.remove('hidden');
+                container.style.display = 'none';
+            } else {
+                noResults.classList.add('hidden');
+                container.style.display = '';
+            }
+        }
         
         // Initial render
-        renderPapersPage(papers, container, currentPage, itemsPerPage);
-        renderPagination(paginationContainer, currentPage, totalPages, (page) => {
-            currentPage = page;
-            renderPapersPage(papers, container, currentPage, itemsPerPage);
-        });
-        
+        updatePapersDisplay();
         loading.classList.add('hidden');
         
-        // Set up search and sorting
+        // Set up search functionality
         const searchInput = document.getElementById('search-papers');
         const sortSelect = document.getElementById('sort-papers');
         
         if (searchInput) {
             searchInput.addEventListener('input', () => {
-                const filtered = filterAndSortPapers(papers, searchInput.value, sortSelect.value);
-                const newTotalPages = Math.ceil(filtered.length / itemsPerPage);
+                const searchTerm = searchInput.value;
+                const sortOption = sortSelect ? sortSelect.value : 'year-desc';
+                filteredPapers = filterAndSortPapers(papers, searchTerm, sortOption);
                 currentPage = 1; // Reset to first page when searching
-                renderPapersPage(filtered, container, currentPage, itemsPerPage);
-                renderPagination(paginationContainer, currentPage, newTotalPages, (page) => {
-                    currentPage = page;
-                    renderPapersPage(filtered, container, currentPage, itemsPerPage);
-                });
-                
-                if (filtered.length === 0) {
-                    noResults.classList.remove('hidden');
-                } else {
-                    noResults.classList.add('hidden');
-                }
+                updatePapersDisplay();
             });
         }
         
         if (sortSelect) {
             sortSelect.addEventListener('change', () => {
-                const filtered = filterAndSortPapers(papers, searchInput.value, sortSelect.value);
-                const newTotalPages = Math.ceil(filtered.length / itemsPerPage);
+                const searchTerm = searchInput ? searchInput.value : '';
+                const sortOption = sortSelect.value;
+                filteredPapers = filterAndSortPapers(papers, searchTerm, sortOption);
                 currentPage = 1; // Reset to first page when sorting
-                renderPapersPage(filtered, container, currentPage, itemsPerPage);
-                renderPagination(paginationContainer, currentPage, newTotalPages, (page) => {
-                    currentPage = page;
-                    renderPapersPage(filtered, container, currentPage, itemsPerPage);
-                });
+                updatePapersDisplay();
             });
         }
+        
     } catch (error) {
         console.error('Error loading papers:', error);
         const loading = document.getElementById('loading');
@@ -477,37 +525,56 @@ async function loadPapers() {
 
 // Render papers for a specific page
 function renderPapersPage(papers, container, currentPage, itemsPerPage) {
-    container.innerHTML = '';
+    if (!container) {
+        console.error('Container not found for rendering papers');
+        return;
+    }
+    
+    console.log(`Rendering page ${currentPage} with ${papers.length} total papers`); // Debug log
     
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = Math.min(startIndex + itemsPerPage, papers.length);
     const paginatedPapers = papers.slice(startIndex, endIndex);
     
+    console.log(`Showing papers ${startIndex + 1} to ${endIndex} of ${papers.length}`); // Debug log
+    
     renderPapersTable(paginatedPapers, container);
 }
 
-// Render papers table
+// Render papers table - IMPROVED VERSION
 function renderPapersTable(papers, container) {
+    if (!container) {
+        console.error('Container not found for rendering papers table');
+        return;
+    }
+    
     container.innerHTML = '';
+    
+    // Check if container is a tbody or if we need to create table structure
+    const isTableBody = container.tagName === 'TBODY';
     
     papers.forEach(paper => {
         const row = document.createElement('tr');
+        row.className = 'paper-row'; // Add class for styling
         
         row.innerHTML = `
             <td>
-                <span class="paper-title">${paper.title}</span>
+                <span class="paper-title">${escapeHtml(paper.title)}</span>
             </td>
-            <td>${paper.authors.join(', ')}</td>
-            <td>${paper.year}</td>
-            <td>${paper.publication}</td>
-            <td class="links">
-                ${paper.doi ? `<a href="https://doi.org/${paper.doi}" target="_blank" class="link-btn" title="DOI"><i class="fas fa-external-link-alt"></i></a>` : ''}
-                ${paper.code ? `<a href="${paper.code}" target="_blank" class="link-btn" title="Code"><i class="fas fa-code"></i></a>` : ''}
+            <td class="authors-cell">${escapeHtml(paper.authors.join(', '))}</td>
+            <td class="year-cell">${paper.year}</td>
+            <td class="publication-cell">${escapeHtml(paper.publication)}</td>
+            <td class="links-cell">
+                ${paper.url ? `<a href="${escapeHtml(paper.url)}" target="_blank" class="link-btn" title="URL" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>` : ''}
+                ${paper.pdf ? `<a href="${escapeHtml(paper.pdf)}" target="_blank" class="link-btn" title="PDF" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>` : ''}
+                ${paper.code ? `<a href="${escapeHtml(paper.code)}" target="_blank" class="link-btn" title="Code" rel="noopener noreferrer"><i class="fas fa-code"></i></a>` : ''}
             </td>
         `;
         
         container.appendChild(row);
     });
+    
+    console.log(`Rendered ${papers.length} papers in table`); // Debug log
 }
 
 // Filter and sort papers
@@ -799,4 +866,10 @@ async function fetchJSON(path, category = null) {
     console.error('Error in fetchJSON:', err);
     return [];
   }
+}
+
+function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
 }
