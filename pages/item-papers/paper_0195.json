@@ -1,0 +1,26 @@
+{
+  "title": "Structure in neural population recordings: an expected byproduct of simpler phenomena?",
+  "authors": [
+    "Gamaleldin F Elsayed",
+    "John P Cunningham"
+  ],
+  "year": 2017,
+  "publication": "Nature Neuroscience",
+  "abstract": "",
+  "keywords": [
+    "structure",
+    "neural population",
+    "recordings",
+    "byproduct",
+    "phenomena"
+  ],
+  "doi": "10.1038/nn.4617",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{elsayed2017,\n  title={Structure in neural population recordings: an expected byproduct of simpler phenomena?},\n  author={Gamaleldin F Elsayed and John P Cunningham},\n  journal={Nature Neuroscience},\n  volume={20},\n  number={9},\n  pages={1310--1318},\n  year={2017},\n  publisher={Nature Publishing Group},\n  doi={10.1038/nn.4617}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "20",
+  "pages": "1310-1318",
+  "url": "https://www.nature.com/articles/nn.4617"
+}

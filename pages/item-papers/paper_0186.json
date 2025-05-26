@@ -1,0 +1,37 @@
+{
+  "title": "Stabilizing brain-computer interfaces through alignment of latent dynamics",
+  "authors": [
+    "Brianna M. Karpowicz",
+    "Yahia H. Ali",
+    "Lahiru N. Wimalasena",
+    "Andrew R. Sedler",
+    "Mohammad Reza Keshtkaran",
+    "Kevin Bodkin",
+    "Xuan Ma",
+    "Daniel B. Rubin",
+    "Ziv M. Williams",
+    "Sydney S. Cash",
+    "Leigh R. Hochberg",
+    "Lee E. Miller",
+    "Chethan Pandarinath"
+  ],
+  "year": 2022,
+  "publication": "Nature Communications",
+  "abstract": "",
+  "keywords": [
+    "stabilizing",
+    "brain-computer interfaces",
+    "alignment",
+    "latent dynamics",
+    "neural decoding"
+  ],
+  "doi": "10.1038/s41551-022-00937-7",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{karpowicz2022,\n  title={Stabilizing brain-computer interfaces through alignment of latent dynamics},\n  author={Brianna M. Karpowicz and Yahia H. Ali and Lahiru N. Wimalasena and Andrew R. Sedler and Mohammad Reza Keshtkaran and Kevin Bodkin and Xuan Ma and Lee E. Miller and Chethan Pandarinath},\n  journal={Nature Biomedical Engineering},\n  year={2022},\n  publisher={Nature Publishing Group},\n  doi={10.1038/s41551-022-00937-7}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": "https://www.nature.com/articles/s41467-025-59652-y"
+}

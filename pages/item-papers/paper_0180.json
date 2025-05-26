@@ -1,0 +1,30 @@
+{
+  "title": "Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces",
+  "authors": [
+    "Daniel Milstein",
+    "Jason Pacheco",
+    "Leigh Hochberg",
+    "John D. Simeral",
+    "Beata Jarosiewicz",
+    "Erik Sudderth"
+  ],
+  "year": 2017,
+  "publication": "Advances in Neural Information Processing Systems",
+  "abstract": "",
+  "keywords": [
+    "multiscale",
+    "semi-markov",
+    "dynamics",
+    "intracortical",
+    "brain-computer interfaces"
+  ],
+  "doi": "",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2017/file/99c5e07b4d5de9d18c350cdf64c5aa3d-Paper.pdf",
+  "code": "",
+  "bibtex": "@inproceedings{milstein2017,\n  title={Multiscale Semi-Markov Dynamics for Intracortical Brain-Computer Interfaces},\n  author={Daniel Milstein and Jason Pacheco and Leigh Hochberg and John D. Simeral and Beata Jarosiewicz and Erik Sudderth},\n  booktitle={Advances in Neural Information Processing Systems},\n  volume={30},\n  year={2017}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "30",
+  "pages": "",
+  "url": "https://proceedings.neurips.cc/paper/2017/hash/99c5e07b4d5de9d18c350cdf64c5aa3d-Abstract.html"
+}

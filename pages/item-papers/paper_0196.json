@@ -1,0 +1,26 @@
+{
+  "title": "An integrated brain-machine interface platform with thousands of channels",
+  "authors": [
+    "Elon Musk",
+    "Neuralink"
+  ],
+  "year": 2019,
+  "publication": "Journal of Medical Internet Research",
+  "abstract": "",
+  "keywords": [
+    "integrated",
+    "brain-machine interface",
+    "platform",
+    "thousands",
+    "channels"
+  ],
+  "doi": "10.2196/16194",
+  "pdf": "https://www.jmir.org/2019/10/e16194/PDF",
+  "code": "",
+  "bibtex": "@article{musk2019,\n  title={An integrated brain-machine interface platform with thousands of channels},\n  author={Elon Musk and Neuralink},\n  journal={Journal of Medical Internet Research},\n  year={2019},\n  doi={10.2196/16194}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": "https://www.jmir.org/2019/10/e16194/"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Hybrid Neural Autoencoders for Stimulus Encoding in Visual and Other Sensory Neuroprostheses",
+  "authors": [
+    "Jacob Granley",
+    "Lucas Relic",
+    "Michael Beyeler"
+  ],
+  "year": 2022,
+  "publication": "Advances in Neural Information Processing Systems",
+  "abstract": "",
+  "keywords": [
+    "hybrid",
+    "neural autoencoder",
+    "sensory neuroprostheses",
+    "bionic vision",
+    "neural engineering"
+  ],
+  "pdf": "https://arxiv.org/pdf/2205.13623",
+  "code": "",
+  "citations": 0,
+  "added_date": "",
+  "volume": "69",
+  "pages": "3861-3872",
+  "url": "https://arxiv.org/abs/2205.13623"
+}

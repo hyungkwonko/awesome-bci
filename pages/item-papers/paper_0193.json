@@ -1,0 +1,28 @@
+{
+  "title": "Human-in-the-Loop Optimization for Deep Stimulus Encoding in Visual Prostheses",
+  "authors": [
+    "Jacob Granley",
+    "Tristan Fauvel",
+    "Matthew Chalk",
+    "Michael Beyeler"
+  ],
+  "year": 2023,
+  "publication": "Nature Communications",
+  "abstract": "",
+  "keywords": [
+    "human-in-the-loop",
+    "optimization",
+    "deep stimulus encoding",
+    "visual prostheses",
+    "neural engineering"
+  ],
+  "doi": "10.1038/s41467-023-37032-1",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2023/file/fb06bc3abcece7b8725a8b83b8fa3632-Paper-Conference.pdf",
+  "code": "",
+  "bibtex": "@article{granley2023,\n  title={Human-in-the-Loop Optimization for Deep Stimulus Encoding in Visual Prostheses},\n  author={Jacob Granley and Tristan Fauvel and Matthew Chalk and Michael Beyeler},\n  journal={Nature Communications},\n  volume={14},\n  pages={2790},\n  year={2023},\n  publisher={Nature Publishing Group},\n  doi={10.1038/s41467-023-37032-1}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "14",
+  "pages": "2790",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/fb06bc3abcece7b8725a8b83b8fa3632-Abstract-Conference.html"
+}

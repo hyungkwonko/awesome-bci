@@ -1,0 +1,29 @@
+{
+  "title": "PPi: Pretraining Brain Signal Model for Patient-independent Seizure Detection",
+  "authors": [
+    "Zhizhang Yuan",
+    "Daoze Zhang",
+    "Yang Yang",
+    "Junru Chen",
+    "Yafeng Li"
+  ],
+  "year": 2023,
+  "publication": "Advances in Neural Information Processing Systems",
+  "abstract": "",
+  "keywords": [
+    "pretraining",
+    "brain signal",
+    "model",
+    "patient-independent",
+    "seizure detection"
+  ],
+  "doi": "",
+  "pdf": "https://proceedings.neurips.cc/paper_files/paper/2023/file/dbeb7e621d4a554069a6a775da0f7273-Paper-Conference.pdf",
+  "code": "",
+  "bibtex": "@inproceedings{yuan2023,\n  title={PPi: Pretraining Brain Signal Model for Patient-independent Seizure Detection},\n  author={Zhizhang Yuan and Daoze Zhang and Yang Yang and Junru Chen and Yafeng Li},\n  booktitle={Advances in Neural Information Processing Systems},\n  volume={36},\n  year={2023}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "36",
+  "pages": "",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/dbeb7e621d4a554069a6a775da0f7273-Abstract-Conference.html"
+}

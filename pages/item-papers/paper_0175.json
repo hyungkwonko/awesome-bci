@@ -1,0 +1,31 @@
+{
+  "title": "A recurrent neural network for closed-loop intracortical brain-machine interface decoders",
+  "authors": [
+    "David Sussillo",
+    "Paul Nuyujukian",
+    "Joline M Fan",
+    "Jonathan C Kao",
+    "Sergey D Stavisky",
+    "Stephen Ryu",
+    "Krishna Shenoy"
+  ],
+  "year": 2012,
+  "publication": "Journal of Neural Engineering",
+  "abstract": "",
+  "keywords": [
+    "recurrent neural network",
+    "closed-loop",
+    "intracortical",
+    "brain-machine interface",
+    "decoders"
+  ],
+  "doi": "10.1088/1741-2560/9/2/026027",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{sussillo2012,\n  title={A recurrent neural network for closed-loop intracortical brain-machine interface decoders},\n  author={David Sussillo and Paul Nuyujukian and Joline M Fan and Jonathan C Kao and Sergey D Stavisky and Stephen Ryu and Krishna Shenoy},\n  journal={Journal of Neural Engineering},\n  volume={9},\n  number={2},\n  pages={026027},\n  year={2012},\n  publisher={IOP Publishing},\n  doi={10.1088/1741-2560/9/2/026027}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "9",
+  "pages": "026027",
+  "url": ""
+}

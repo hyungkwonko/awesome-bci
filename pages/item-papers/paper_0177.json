@@ -1,0 +1,28 @@
+{
+  "title": "A general framework for investigating how far the decoding process in the brain can be simplified",
+  "authors": [
+    "Masafumi Oizumi",
+    "Toshiyuki Ishii",
+    "Kazuya Ishibashi",
+    "Toshihiko Hosoya",
+    "Masato Okada"
+  ],
+  "year": 2008,
+  "publication": "Advances in Neural Information Processing Systems",
+  "abstract": "",
+  "keywords": [
+    "decoding process",
+    "brain",
+    "simplified",
+    "computational neuroscience",
+    "neural decoding"
+  ],
+  "doi": "https://dl.acm.org/doi/10.5555/2981780.2981933",
+  "pdf": "",
+  "code": "",
+  "citations": 0,
+  "added_date": "",
+  "volume": "4",
+  "pages": "e1000269",
+  "url": "https://proceedings.neurips.cc/paper/2008/hash/8dd48d6a2e2cad213179a3992c0be53c-Abstract.html"
+}

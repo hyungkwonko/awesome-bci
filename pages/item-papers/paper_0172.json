@@ -1,0 +1,25 @@
+{
+  "title": "A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network",
+  "authors": [
+    "Marwan Jabri",
+    "Raymond Wang"
+  ],
+  "year": 1995,
+  "publication": "IEEE Transactions on Neural Networks",
+  "abstract": "",
+  "keywords": [
+    "channel selection",
+    "cochlear implants",
+    "artificial neural network",
+    "signal processing"
+  ],
+  "doi": "",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{jabri1995,\n  title={A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network},\n  author={Marwan Jabri and Raymond Wang},\n  journal={IEEE Transactions on Neural Networks},\n  year={1995}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": "https://proceedings.neurips.cc/paper/1995/hash/16e6a3326dd7d868cbc926602a61e4d0-Abstract.html"
+}

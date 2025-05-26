@@ -1,0 +1,33 @@
+{
+  "title": "A brain-computer interface that evokes tactile sensations improves robotic arm control",
+  "authors": [
+    "Sharlene N Flesher",
+    "John E Downey",
+    "Jeffrey M Weiss",
+    "Christopher L Hughes",
+    "Angelica J Herrera",
+    "Elizabeth C Tyler-Kabara",
+    "Michael L Boninger",
+    "Jennifer L Collinger",
+    "Robert A Gaunt"
+  ],
+  "year": 2021,
+  "publication": "Science",
+  "abstract": "",
+  "keywords": [
+    "brain-computer interface",
+    "tactile sensations",
+    "robotic arm",
+    "control",
+    "neuroprosthetics"
+  ],
+  "doi": "10.1126/science.abd0380",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{flesher2021,\n  title={A brain-computer interface that evokes tactile sensations improves robotic arm control},\n  author={Sharlene N. Flesher and Robert A. Gaunt},\n  journal={Science},\n  volume={372},\n  number={6544},\n  pages={831--836},\n  year={2021},\n  publisher={American Association for the Advancement of Science},\n  doi={10.1126/science.abd0380}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "372",
+  "pages": "831-836",
+  "url": "https://www.science.org/doi/full/10.1126/science.abd0380"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Using Neural Networks to Improve Cochlear Implant Speech Perception",
+  "authors": [
+    "Manoel Tenorio"
+  ],
+  "year": 1987,
+  "publication": "IEEE Transactions on Biomedical Engineering",
+  "abstract": "",
+  "keywords": [
+    "neural networks",
+    "cochlear implant",
+    "speech perception",
+    "biomedical engineering"
+  ],
+  "doi": "",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{tenorio1987,\n  title={Using Neural Networks to Improve Cochlear Implant Speech Perception},\n  author={Manoel Tenorio},\n  journal={IEEE Transactions on Biomedical Engineering},\n  year={1987}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": ""
+}

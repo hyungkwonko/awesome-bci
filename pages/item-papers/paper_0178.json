@@ -1,0 +1,27 @@
+{
+  "title": "Coadaptive Brain–Machine Interface via Reinforcement Learning",
+  "authors": [
+    "Jack DiGiovanna",
+    "Babak Mahmoudi",
+    "Jose C. Principe",
+    "Justin C. Sanchez"
+  ],
+  "year": 2009,
+  "publication": "IEEE Transactions on Biomedical Engineering",
+  "abstract": "",
+  "keywords": [
+    "coadaptive",
+    "brain-machine interface",
+    "reinforcement learning",
+    "neural control"
+  ],
+  "doi": "10.1109/TBME.2009.2028452",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{digiovanna2009,\n  title={Coadaptive Brain–Machine Interface via Reinforcement Learning},\n  author={Jack DiGiovanna and Babak Mahmoudi and Jose C. Principe and Justin C. Sanchez},\n  journal={IEEE Transactions on Biomedical Engineering},\n  volume={56},\n  number={1},\n  pages={54--64},\n  year={2009},\n  publisher={IEEE},\n  doi={10.1109/TBME.2009.2028452}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "56",
+  "pages": "54-64",
+  "url": "https://ieeexplore.ieee.org/abstract/document/4540104"
+}

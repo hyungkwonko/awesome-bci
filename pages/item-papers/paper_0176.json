@@ -1,0 +1,27 @@
+{
+  "title": "Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning",
+  "authors": [
+    "Arthur Guez",
+    "Massimo Avoli",
+    "Joelle Pineau"
+  ],
+  "year": 2008,
+  "publication": "Proceedings of the National Conference on Artificial Intelligence",
+  "abstract": "",
+  "keywords": [
+    "adaptive treatment",
+    "epilepsy",
+    "batch-mode",
+    "reinforcement learning",
+    "medical AI"
+  ],
+  "doi": "",
+  "pdf": "https://cdn.aaai.org/IAAI/2008/IAAI08-008.pdf",
+  "code": "",
+  "bibtex": "@inproceedings{guez2008,\n  title={Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning},\n  author={Arthur Guez and Massimo Avoli and Joelle Pineau},\n  booktitle={Proceedings of the National Conference on Artificial Intelligence},\n  year={2008}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": ""
+}

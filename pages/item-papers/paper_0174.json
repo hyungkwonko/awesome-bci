@@ -1,0 +1,28 @@
+{
+  "title": "Methods Towards Invasive Human Brain Computer Interfaces",
+  "authors": [
+    "Zhengbao Jiang",
+    "Frank F. Xu",
+    "Jun Araki",
+    "Graham Neubig"
+  ],
+  "year": 2004,
+  "publication": "Advances in Neural Information Processing Systems",
+  "abstract": "",
+  "keywords": [
+    "invasive",
+    "brain computer interfaces",
+    "human",
+    "methods",
+    "neural interfaces"
+  ],
+  "doi": "",
+  "pdf": "https://papers.nips.cc/paper_files/paper/2004/file/98b418276d571e623651fc1d471c7811-Paper.pdf",
+  "code": "",
+  "bibtex": "@inproceedings{jiang2004,\n  title={Methods Towards Invasive Human Brain Computer Interfaces},\n  author={Zhengbao Jiang and Frank F. Xu and Jun Araki and Graham Neubig},\n  booktitle={Proceedings of the International Conference on Neural Information Processing},\n  year={2004}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": "https://papers.nips.cc/paper_files/paper/2004/hash/98b418276d571e623651fc1d471c7811-Abstract.html"
+}

@@ -1,0 +1,34 @@
+{
+  "title": "A Unified, Scalable Framework for Neural Population Decoding",
+  "authors": [
+    "Mehdi Azabou",
+    "Vinam Arora",
+    "Venkataramana Ganesh",
+    "Ximeng Mao",
+    "Santosh Nachimuthu",
+    "Michael J. Mendelson",
+    "Blake Richards",
+    "Matthew G. Perich",
+    "Guillaume Lajoie",
+    "Eva L. Dyer"
+  ],
+  "year": 2023,
+  "publication": "Nature Machine Intelligence",
+  "abstract": "",
+  "keywords": [
+    "unified",
+    "scalable",
+    "framework",
+    "neural population",
+    "decoding"
+  ],
+  "doi": "10.1038/s42256-023-00714-5",
+  "pdf": "https://arxiv.org/pdf/2310.16046",
+  "code": "",
+  "bibtex": "@article{azabou2023,\n  title={A Unified, Scalable Framework for Neural Population Decoding},\n  author={Mehdi Azabou and Vinam Arora and Venkataramana Ganesh and Ximeng Mao and Santosh Nachimuthu and Michael J. Mendelson and Blake Richards and Matthew G. Perich and Guillaume Lajoie and Eva L. Dyer},\n  journal={Nature Machine Intelligence},\n  year={2023},\n  publisher={Nature Publishing Group},\n  doi={10.1038/s42256-023-00714-5}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": "https://arxiv.org/abs/2310.16046"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Adapting Brain-Like Neural Networks for Modeling Cortical Visual Prostheses",
+  "authors": [
+    "Jacob Granley",
+    "Alexander Riedel",
+    "Michael Beyeler"
+  ],
+  "year": 2022,
+  "publication": "Scientific Reports",
+  "abstract": "",
+  "keywords": [
+    "adapting",
+    "brain-like",
+    "neural networks",
+    "cortical",
+    "visual prostheses"
+  ],
+  "doi": "10.1038/s41598-022-15801-5",
+  "pdf": "https://arxiv.org/pdf/2209.13561",
+  "code": "",
+  "bibtex": "@article{granley2022adapting,\n  title={Adapting Brain-Like Neural Networks for Modeling Cortical Visual Prostheses},\n  author={Jacob Granley and Alexander Riedel and Michael Beyeler},\n  journal={Scientific Reports},\n  volume={12},\n  pages={11298},\n  year={2022},\n  publisher={Nature Publishing Group},\n  doi={10.1038/s41598-022-15801-5}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "12",
+  "pages": "11298",
+  "url": "https://arxiv.org/abs/2209.13561"
+}

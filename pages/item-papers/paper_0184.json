@@ -1,0 +1,27 @@
+{
+  "title": "Hierarchical Bayesian Optimization of Spatiotemporal Neurostimulations for Targeted Motor Outputs",
+  "authors": [
+    "Samuel Laferriere",
+    "Marco Bonizzato",
+    "Sandrine L Cote",
+    "Numa Dancause",
+    "Guillaume Lajoie"
+  ],
+  "year": 2020,
+  "publication": "Nature Communications",
+  "abstract": "",
+  "keywords": [
+    "hierarchical",
+    "bayesian optimization",
+    "spatiotemporal",
+    "neurostimulations",
+    "motor outputs"
+  ],
+  "pdf": "",
+  "code": "",
+  "citations": 0,
+  "added_date": "",
+  "volume": "11",
+  "pages": "3069",
+  "url": "https://ieeexplore.ieee.org/abstract/document/9062604"
+}

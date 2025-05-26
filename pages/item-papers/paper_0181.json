@@ -1,0 +1,31 @@
+{
+  "title": "Model-Based Design of Closed Loop Deep Brain Stimulation Controller using Reinforcement Learning",
+  "authors": [
+    "Qitong Gao",
+    "Michael Naumann",
+    "Ilija Jovanov",
+    "Vuk Lesi",
+    "Karthik Kamaravelu",
+    "Warren M. Grill",
+    "Miroslav Pajic"
+  ],
+  "year": 2020,
+  "publication": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+  "abstract": "",
+  "keywords": [
+    "model-based design",
+    "closed loop",
+    "deep brain stimulation",
+    "controller",
+    "reinforcement learning"
+  ],
+  "doi": "10.1109/TNSRE.2020.2986544",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{gao2020,\n  title={Model-Based Design of Closed Loop Deep Brain Stimulation Controller using Reinforcement Learning},\n  author={Qitong Gao and Miroslav Pajic},\n  journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},\n  volume={28},\n  number={7},\n  pages={1619--1629},\n  year={2020},\n  publisher={IEEE},\n  doi={10.1109/TNSRE.2020.2986544}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "28",
+  "pages": "1619-1629",
+  "url": "https://ieeexplore.ieee.org/abstract/document/9096004"
+}

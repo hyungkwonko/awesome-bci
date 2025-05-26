@@ -1,0 +1,30 @@
+{
+  "title": "Adversarial Domain Adaptation for Stable Brain-Machine Interfaces",
+  "authors": [
+    "Ali Farshchian",
+    "Juan A. Gallego",
+    "Joseph P. Cohen",
+    "Yoshua Bengio",
+    "Lee E. Miller",
+    "Sara A. Solla"
+  ],
+  "year": 2019,
+  "publication": "Advances in Neural Information Processing Systems",
+  "abstract": "",
+  "keywords": [
+    "adversarial",
+    "domain adaptation",
+    "stable",
+    "brain-machine interfaces",
+    "neural decoding"
+  ],
+  "doi": "",
+  "pdf": "https://arxiv.org/pdf/1810.00045",
+  "code": "",
+  "bibtex": "@inproceedings{farshchian2019,\n  title={Adversarial Domain Adaptation for Stable Brain-Machine Interfaces},\n  author={Ali Farshchian and Juan A. Gallego and Lee E. Miller and Sara A. Sollag and Joseph P. Cohen and Yoshua Bengio},\n  booktitle={Advances in Neural Information Processing Systems},\n  volume={32},\n  year={2019}\n}",
+  "citations": 0,
+  "added_date": "",
+  "volume": "32",
+  "pages": "",
+  "url": "https://arxiv.org/abs/1810.00045"
+}

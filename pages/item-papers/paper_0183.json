@@ -1,0 +1,28 @@
+{
+  "title": "Reinforcement Learning Framework for Deep Brain Stimulation Study",
+  "authors": [
+    "Dmitrii Krylov",
+    "Remi Tachet",
+    "Romain Laroche",
+    "Michael Rosenblum",
+    "Dmitry V. Dylov"
+  ],
+  "year": 2019,
+  "publication": "International Joint Conference on Artificial Intelligence",
+  "abstract": "",
+  "keywords": [
+    "reinforcement learning",
+    "framework",
+    "deep brain stimulation",
+    "study",
+    "medical AI"
+  ],
+  "doi": "",
+  "pdf": "https://arxiv.org/pdf/2002.10948",
+  "code": "https://github.com/cviaai/RL-DBS",
+  "citations": 0,
+  "added_date": "",
+  "volume": "",
+  "pages": "",
+  "url": "https://arxiv.org/abs/2002.10948"
+}
