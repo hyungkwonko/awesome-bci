@@ -1,0 +1,27 @@
+{
+  "title": "Sensors and Decoding for Intracortical Brain Computer Interfaces",
+  "authors": [
+    "Mark L. Homer",
+    "Arto V. Nurmikko",
+    "John P. Donoghue",
+    "Leigh R. Hochberg"
+  ],
+  "year": 2013,
+  "publication": "Annual Review of Biomedical Engineering",
+  "abstract": "This review discusses advances in sensors and decoding strategies for intracortical brain-computer interfaces (iBCIs), which aim to restore movement and communication for individuals with paralysis or limb loss. It covers developments in microelectrode array technologies, wireless transmission, local field potentials, and sophisticated decoding algorithms that translate neural signals into commands for external devices. The authors highlight both the engineering challenges and clinical promise of iBCIs, emphasizing long-term reliability, improved decoding performance, and potential for full integration into users’ daily lives.",
+  "keywords": [
+    "brain machine interfaces",
+    "multielectrode arrays",
+    "signal processing",
+    "neural engineering",
+    "intracortical recording",
+    "motor cortex",
+    "neural decoding"
+  ],
+  "doi": "10.1146/annurev-bioeng-071910-124640",
+  "pdf": "",
+  "code": "",
+  "citations": 0,
+  "added_date": "",
+  "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-071910-124640"
+}

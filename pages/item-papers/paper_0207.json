@@ -1,0 +1,29 @@
+{
+  "title": "A Brain-Computer Typing Interface Using Finger Movements",
+  "authors": [
+    "Nishal P. Shah",
+    "Matthew S. Willsey",
+    "Nick Hahn",
+    "Foram Kamdar",
+    "Donald T. Avansino",
+    "Leigh R. Hochberg"
+  ],
+  "year": 2023,
+  "publication": "2023 11th International IEEE/EMBS Conference on Neural Engineering (NER)",
+  "abstract": "Intracortical brain computer interfaces (iBCIs) decode neural activity from the cortex and enable motor and communication prostheses, such as cursor control, handwriting and speech, for people with paralysis. This paper introduces a new iBCI communication prosthesis using a 3D keyboard interface for typing using continuous, closed loop movement of multiple fingers. A participant-specific BCI keyboard prototype was developed for a BrainGate2 clinical trial participant (T5) using neural recordings from the hand-knob area of the left premotor cortex. We assessed the relative decoding accuracy of flexion/extension movements of individual single fingers (5 degrees of freedom (DOF)) vs. three groups of fingers (thumb, index-middle, and ring-small fingers, 3 DOF). Neural decoding using 3 independent DOF was more accurate (95%) than that using 5 DOF (76%). A virtual keyboard was then developed where each finger group moved along a flexion-extension arc to acquire targets that corresponded to English letters and symbols. The locations of these letter/symbols were optimized using natural language statistics, resulting in an approximately a 2× reduction in distance traveled by fingers on average compared to a random keyboard layout. This keyboard was tested using a simple real-time closed loop decoder enabling T5 to type with 31 symbols at 90% accuracy and approximately 2.3 sec/symbol (excluding a 2 second hold time) on average.",
+  "keywords": [
+    "Intracortical BCI",
+    "Neural decoding",
+    "Virtual keyboard",
+    "Motor prosthesis",
+    "Communication interface",
+    "Finger movements",
+    "Paralysis"
+  ],
+  "doi": "",
+  "pdf": "",
+  "code": "",
+  "citations": 4,
+  "added_date": "2023-05-19",
+  "url": "https://ieeexplore.ieee.org/abstract/document/10123912"
+}

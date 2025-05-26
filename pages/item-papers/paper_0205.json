@@ -1,0 +1,24 @@
+{
+  "title": "Sensors for Brain-Computer Interfaces",
+  "authors": [
+    "L.R. Hochberg",
+    "J.P. Donoghue"
+  ],
+  "year": 2006,
+  "publication": "IEEE Engineering in Medicine and Biology Magazine",
+  "abstract": "Brain-computer interfaces (BCIs) hold the promise to restore mobility and independence to persons with paralysis. In spinal cord injury, brainstem stroke, and a host of neuromuscular disorders, the intact brain is 'disconnected' from its intact target (such as a limb or the facial musculature), preventing mobility and – in locked-in syndrome and severe amyotrophic lateral sclerosis (ALS) – precluding even meaningful verbal communication. If it becomes possible to discern the movement intention of someone with paralysis – reliably, safely, and in real time – it would then be possible to provide not only a robust new method of communication but eventually the ability to gain control over a prosthetic limb or, by connecting to additional technologies, one's own limbs. In this review, we survey several methods for revealing neural activity in the human brain and their potential for re-enabling mobility in persons with severe paralysis.",
+  "keywords": [
+    "Brain-computer interfaces",
+    "Neural sensors",
+    "Intracortical recording",
+    "Electroencephalography",
+    "Neurotechnology",
+    "Functional imaging"
+  ],
+  "doi": "10.1109/MEMB.2006.1705745",
+  "pdf": "",
+  "code": "",
+  "citations": 87,
+  "added_date": "",
+  "url": "https://ieeexplore.ieee.org/abstract/document/1705745"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Decoding Spoken English from Intracortical Electrode Arrays in Dorsal Precentral Gyrus",
+  "authors": [
+    "Guy H. Wilson",
+    "Sergey D. Stavisky",
+    "Francis R. Willett",
+    "Donald T. Avansino",
+    "Jessica N. Kelemen",
+    "Leigh R. Hochberg",
+    "Jaimie M. Henderson",
+    "Shaul Druckmann",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2020,
+  "publication": "Journal of Neural Engineering",
+  "abstract": "This study evaluates the potential of intracortical electrode array signals for BCIs to restore speech. Two participants with chronically implanted 96-electrode arrays spoke 420 words representing 39 English phonemes. Decoders were trained to classify phoneme identities from neural signals and synthesize speech via a neural pattern matching method. A linear decoder achieved 29.3% accuracy, and an RNN achieved 33.9%. Speech synthesis reached a 0.523 correlation with true audio. The findings suggest that even nontraditional speech areas like the dorsal precentral gyrus hold promise for future speech BCIs.",
+  "keywords": [
+    "Intracortical BCI",
+    "Speech decoding",
+    "Phoneme classification",
+    "Neural signals",
+    "Precentral gyrus",
+    "Brain-computer interface",
+    "Speech synthesis"
+  ],
+  "doi": "10.1088/1741-2552/abbfef",
+  "pdf": "",
+  "code": "",
+  "citations": 8888,
+  "added_date": "",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2552/abbfef"
+}

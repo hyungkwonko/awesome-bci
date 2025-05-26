@@ -1,0 +1,36 @@
+{
+  "title": "Cortical Control of a Tablet Computer by People with Paralysis",
+  "authors": [
+    "Paul Nuyujukian",
+    "Jose Albites Sanabria",
+    "Jad Saab",
+    "Chethan Pandarinath",
+    "Beata Jarosiewicz",
+    "Christine H. Blabe",
+    "Brian Franco",
+    "Stephen T. Mernoff",
+    "Emad N. Eskandar",
+    "John D. Simeral",
+    "Leigh R. Hochberg",
+    "Krishna V. Shenoy",
+    "Jaimie M. Henderson"
+  ],
+  "year": 2018,
+  "publication": "PLOS ONE",
+  "abstract": "General-purpose computers have become ubiquitous and important for everyday life, but they are difficult for people with paralysis to use. Specialized software and personalized input devices can improve access, but often provide only limited functionality. In this study, three research participants with tetraplegia who had multielectrode arrays implanted in motor cortex as part of the BrainGate2 clinical trial used an intracortical brain-computer interface (iBCI) to control an unmodified commercial tablet computer. Neural activity was decoded in real time as a point-and-click wireless Bluetooth mouse, allowing participants to use common and recreational applications (web browsing, email, chatting, playing music on a piano application, sending text messages, etc.). Two of the participants also used the iBCI to “chat” with each other in real time. This study demonstrates, for the first time, high-performance iBCI control of an unmodified, commercially available, general-purpose mobile computing device by people with tetraplegia.",
+  "keywords": [
+    "Intracortical BCI",
+    "Tetraplegia",
+    "Tablet control",
+    "BrainGate2",
+    "Wireless interface",
+    "Human-computer interaction",
+    "Motor cortex"
+  ],
+  "doi": "10.1371/journal.pone.0204566",
+  "pdf": "",
+  "code": "",
+  "citations": 26638,
+  "added_date": "",
+  "url": "https://doi.org/10.1371/journal.pone.0204566"
+}

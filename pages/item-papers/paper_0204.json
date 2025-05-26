@@ -1,0 +1,27 @@
+{
+  "title": "Generalizable Cursor Click Decoding Using Grasp-Related Neural Transients",
+  "authors": [
+    "Brian M. Dekleva",
+    "Jeffrey M. Weiss",
+    "Michael L. Boninger",
+    "Jennifer L. Collinger"
+  ],
+  "year": 2021,
+  "publication": "Journal of Neural Engineering",
+  "abstract": "Intracortical brain–computer interfaces (iBCIs) can restore function to individuals with severe motor impairments by enabling control of external devices, such as computer cursors. This study improves cursor click decoding by focusing on transient neural responses associated with attempted hand grasps. Using data from chronic microelectrode arrays implanted in the motor cortex of two participants with tetraplegia, the authors identify three key neural components: onset transient, sustained, and offset transient responses. The transient responses, being more pronounced, allow for more accurate detection and improve performance over traditional binary state classifiers. The proposed method supports both point-and-click and click-and-drag functionality, advancing the practical use of iBCIs in real-world applications.",
+  "keywords": [
+    "Brain-computer interface",
+    "Intracortical recording",
+    "Cursor control",
+    "Motor cortex",
+    "Neural decoding",
+    "Tetraplegia",
+    "Microelectrode arrays"
+  ],
+  "doi": "10.1088/1741-2552/ac16b2",
+  "pdf": "",
+  "code": "",
+  "citations": 2424,
+  "added_date": "",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ac16b2"
+}

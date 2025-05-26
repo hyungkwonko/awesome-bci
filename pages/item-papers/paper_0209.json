@@ -1,0 +1,33 @@
+{
+  "title": "Feedback Control Policies Employed by People Using Intracortical Brain–Computer Interfaces",
+  "authors": [
+    "Francis R. Willett",
+    "Chethan Pandarinath",
+    "Beata Jarosiewicz",
+    "Brian A. Murphy",
+    "William D. Memberg",
+    "Christine H. Blabe",
+    "Jad Saab",
+    "Benjamin L. Walter",
+    "Jennifer A. Sweet",
+    "Jonathan P. Miller"
+  ],
+  "year": 2016,
+  "publication": "Journal of Neural Engineering",
+  "abstract": "When using an intracortical BCI (iBCI), users modulate their neural population activity to move an effector towards a target, stop accurately, and correct for movement errors—behavior governed by 'feedback control policies.' This study analyzed how three participants in the BrainGate2 trial used an iBCI in a 2D cursor task with a velocity decoder. Offline modeling showed that participants' neural responses varied with cursor state and target position, adapting to changes in decoder gain and smoothing. Findings challenge prior assumptions and offer a refined model of neural control for improved BCI decoder design.",
+  "keywords": [
+    "Intracortical BCI",
+    "Feedback control",
+    "Neural decoding",
+    "BrainGate",
+    "Cursor control",
+    "Motor intention",
+    "Decoder adaptation"
+  ],
+  "doi": "10.1088/1741-2560/14/1/016001",
+  "pdf": "",
+  "code": "",
+  "citations": 5050,
+  "added_date": "",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2560/14/1/016001"
+}

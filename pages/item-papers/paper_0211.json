@@ -1,0 +1,32 @@
+{
+  "title": "High Performance Communication by People with Paralysis Using an Intracortical Brain-Computer Interface",
+  "authors": [
+    "Chethan Pandarinath",
+    "Paul Nuyujukian",
+    "Christine H. Blabe",
+    "Brittany L. Sorice",
+    "Jad Saab",
+    "Francis R. Willett",
+    "Leigh R. Hochberg",
+    "Krishna V. Shenoy",
+    "Jaimie M. Henderson"
+  ],
+  "year": 2017,
+  "publication": "eLife",
+  "abstract": "Brain-computer interfaces (BCIs) have the potential to restore communication for people with tetraplegia and anarthria by translating neural activity into control signals for assistive communication devices. In this study, a high-performance intracortical BCI (iBCI) was evaluated in three clinical trial participants with paralysis. The system incorporated advances in decoder design from prior research, enabling typing rates and information throughput surpassing previous human clinical BCI performance by 1.4–4.2× and 2.2–4.0×, respectively. These results highlight the clinical potential of iBCIs for communication in individuals with severe motor impairments.",
+  "keywords": [
+    "Intracortical BCI",
+    "Paralysis",
+    "Neural decoding",
+    "Assistive communication",
+    "Motor cortex",
+    "Human clinical trial",
+    "Brain-computer interface"
+  ],
+  "doi": "10.7554/eLife.18554",
+  "pdf": "",
+  "code": "",
+  "citations": 455,
+  "added_date": "",
+  "url": "https://elifesciences.org/articles/18554"
+}
