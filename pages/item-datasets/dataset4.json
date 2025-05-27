@@ -1,0 +1,25 @@
+{
+  "title": "High-performance Brain-to-Text Communication via Handwriting",
+  "authors": [
+    "Willett, Francis",
+    "Avansino, Donald",
+    "Hochberg, Leigh",
+    "Henderson, Jaimie",
+    "Shenoy, Krishna"
+  ],
+  "year": 2021,
+  "description": "Neural recordings from a single participant using a Utah array BCI to decode attempted handwriting into text. Achieved record typing speeds for BCIs using RNN-based decoding.",
+  "full_description": "This dataset contains neural activity recorded from a single participant with paralysis using two implanted 96-channel Utah arrays in the hand area of motor cortex. The participant attempted to handwrite 1,000 sentences (43,501 characters) across 10.7 hours. Neural signals were decoded into text using a recurrent neural network, achieving up to 90 characters per minute at 94.1% accuracy online, and over 99% accuracy offline with autocorrect. Includes real-time BCI outputs.",
+  "data_format": "Custom binary format (handwritingBCIData.tar.gz), documentation in accompanying PDF",
+  "size": "1.41 GB",
+  "number_of_subjects": 1,
+  "number_of_channels": 192,
+  "sampling_rate": "Not specified (Utah array with typical rates of 30 kHz per channel before preprocessing)",
+  "url": "https://www.nature.com/articles/s41586-021-03506-2",
+  "download": "https://datadryad.org/dataset/doi:10.5061/dryad.wh70rxwmv",
+  "paper": "https://www.nature.com/articles/s41586-021-03506-2",
+  "code": "https://github.com/fwillett/handwritingBCI",
+  "citation": "Willett, F.R., Avansino, D.T., Hochberg, L.R., Henderson, J.M., Shenoy, K.V. (2021). High-performance brain-to-text communication via handwriting. Nature, 593, 249–254.",
+  "license": "CC0 1.0 Universal (Public Domain Dedication)",
+  "added_date": "2021-04-15"
+}

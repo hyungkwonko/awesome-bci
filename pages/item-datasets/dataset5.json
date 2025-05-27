@@ -1,0 +1,40 @@
+{
+  "title": "A streaming brain-to-voice neuroprosthesis to restore naturalistic communication",
+  "authors": [
+    "Littlejohn, K. T.",
+    "Cho, C. J.",
+    "Liu, J. R.",
+    "Silva, A. B.",
+    "Yu, B.",
+    "Anderson, V. R.",
+    "Kurtz-Miott, C. M.",
+    "Brosler, S.",
+    "Kashyap, A. P.",
+    "Hallinan, I. P.",
+    "Shah, A.",
+    "Tu-Chan, A.",
+    "Ganguly, K.",
+    "Moses, D. A.",
+    "Chang, E. F.",
+    "Anumanchipalli, G. K."
+  ],
+  "year": 2025,
+  "description": "Neural and biosignal datasets from a clinical trial involving a brain-to-voice speech neuroprosthesis for a single participant with paralysis. Includes ECoG, EMG, and MEA recordings.",
+  "full_description": "This dataset supports a study demonstrating a real-time streaming brain-to-voice speech synthesizer. The study involved a single clinical trial participant with severe paralysis and anarthria. High-density electrocorticography (ECoG) data from the speech sensorimotor cortex were used to drive a neural decoder. Additional silent-speech interface modalities included intramuscular EMG and Utah array-based single-unit microelectrode array (MEA) recordings. All shared datasets are deidentified, and the participant’s personalized voice synthesizer is replaced with a generic voice model for anonymity.",
+  "data_format": "Multiple (ECoG, EMG, MEA formats)",
+  "size": "Varies by dataset",
+  "number_of_subjects": 1,
+  "number_of_channels": "Varies by modality (e.g., high-density ECoG grid, Utah array)",
+  "sampling_rate": "Not specified; modality-dependent",
+  "url": "https://www.nature.com/articles/s41593-025-01905-6#data-availability",
+  "download": {
+    "ECoG": "https://doi.org/10.7910/DVN/8TQKC8",
+    "EMG": "https://doi.org/10.5281/ZENODO.4064409",
+    "MEA": "https://doi.org/10.5061/dryad.x69p8czpq"
+  },
+  "paper": "https://www.nature.com/articles/s41593-025-01905-6",
+  "code": "https://github.com/cheoljun95/streaming.braindecoder",
+  "citation": "Littlejohn K. T., Cho C. J., Liu J. R., et al. (2025). A streaming brain-to-voice neuroprosthesis to restore naturalistic communication. Nature Neuroscience, 28, 902–912.",
+  "license": "Restricted; access to some datasets requires request and approval",
+  "added_date": "2025-03-31"
+}

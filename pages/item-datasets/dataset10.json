@@ -1,0 +1,31 @@
+{
+  "title": "MINDFUL: Longitudinal iBCI Stability Dataset",
+  "authors": [
+    "Pun, T. K.",
+    "Khoshnevis, M.",
+    "Hosman, T.",
+    "Wilson, G. H.",
+    "Kapitonava, A.",
+    "Kamdar, F.",
+    "Henderson, J. M.",
+    "Simeral, J. D.",
+    "Vargas-Irwin, C. E.",
+    "Harrison, M. T.",
+    "Hochberg, L. R."
+  ],
+  "year": 2024,
+  "description": "Longitudinal intracortical neural recordings and behavioral data from two participants with tetraplegia, used to develop and validate the MINDFUL method for measuring neural signal instability over time.",
+  "full_description": "This dataset includes intracortical neural signals and iBCI task performance metrics recorded from two BrainGate2 participants over extended periods (142 and 28 days). Participants controlled a computer cursor using a fixed decoder while longitudinal shifts in neural activity were tracked. The dataset supports the development and validation of the MINDFUL framework, which quantifies neural signal instability without requiring intention labels. The method correlates with changes in closed-loop performance and can help determine optimal decoder recalibration timing, promoting stable long-term iBCI use.",
+  "data_format": "Likely MATLAB, CSV, or HDF5 (not explicitly specified)",
+  "size": "Not specified",
+  "number_of_subjects": 2,
+  "number_of_channels": "Not specified; intracortical electrode arrays",
+  "sampling_rate": "Not specified",
+  "url": "https://www.nature.com/articles/s42003-024-06784-4",
+  "download": "https://doi.org/10.5061/dryad.n2z34tn5s",
+  "paper": "https://www.nature.com/articles/s42003-024-06784-4",
+  "code": "https://github.com/ewinapun/MINDFUL",
+  "citation": "Pun T. K., Khoshnevis M., Hosman T., et al. (2024). Measuring instability in chronic human intracortical neural recordings towards stable, long-term brain-computer interfaces. Communications Biology, 7, Article 1363.",
+  "license": "Open Access (Dryad, GitHub)",
+  "added_date": "2024-11-20"
+}

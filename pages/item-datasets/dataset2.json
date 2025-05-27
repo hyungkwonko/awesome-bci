@@ -1,21 +1,26 @@
 {
-  "title": "OpenBCI P300 Speller Dataset",
+  "title": "Brain Control of Bimanual Movement Enabled by Recurrent Neural Networks",
   "authors": [
-    "Park, H.",
-    "Kim, J."
+    "Deo, Darrel",
+    "Willett, Francis",
+    "Avansino, Donald",
+    "Hochberg, Leigh",
+    "Henderson, Jaimie",
+    "Shenoy, Krishna"
   ],
-  "year": 2022,
-  "description": "Dataset containing EEG signals recorded during P300 speller experiments. Includes data from 20 subjects with varying levels of BCI experience.",
-  "full_description": "This dataset contains EEG recordings from 20 healthy volunteers participating in P300 speller BCI experiments. The P300 speller presents a 6×6 matrix of characters, with rows and columns flashing randomly. Subjects were asked to focus on specific characters while the rows and columns flashed, causing P300 responses when the target character's row or column was illuminated. Data was collected using an OpenBCI Ultracortex Mark IV headset with 16 channels positioned according to the international 10-20 system. The dataset includes both training and test sessions for each subject, along with performance metrics and questionnaires assessing user experience.",
-  "data_format": "CSV and raw OpenBCI format",
-  "size": "1.7 GB",
-  "number_of_subjects": 20,
-  "number_of_channels": 16,
-  "sampling_rate": 250,
-  "url": "https://example.com/dataset2",
-  "download": "https://example.com/download/dataset2",
-  "paper": "https://example.com/paper/dataset2",
-  "citation": "Park H., Kim J. (2022). OpenBCI P300 Speller Dataset: A comprehensive collection for P300-based BCI development. Data in Brief, 42, 108149.",
-  "license": "MIT License",
-  "added_date": "2022-11-14"
+  "year": 2023,
+  "description": "Neural data from intracortical recordings in a human participant performing unimanual and bimanual tasks for BCI control using recurrent neural networks.",
+  "full_description": "This dataset includes intracortical neural recordings from a participant with tetraplegia implanted with two 96-channel Utah arrays in the motor cortex. The participant performed unimanual and bimanual movements in instructed delay tasks and real-time brain-computer interface (BCI) control of two independent cursors. The goal was to decode bimanual control using recurrent neural network models.",
+  "data_format": "MAT (MATLAB)",
+  "size": "138.36 MB",
+  "number_of_subjects": 1,
+  "number_of_channels": 192,
+  "sampling_rate": "Not specified",
+  "url": "https://doi.org/10.1038/s41598-024-51617-3",
+  "download": "https://datadryad.org/dataset/doi:10.5061/dryad.sn02v6xbb",
+  "paper": "https://doi.org/10.1038/s41598-024-51617-3",
+  "code": "https://github.com/d-r-deo/bimanualBCI",
+  "citation": "Deo D., Willett F., Avansino D., Hochberg L., Henderson J., Shenoy K. (2023). Brain control of bimanual movement enabled by recurrent neural networks. Scientific Reports. https://doi.org/10.1038/s41598-024-51617-3",
+  "license": "CC0 1.0 Universal (Public Domain Dedication)",
+  "added_date": "2023-12-28"
 }

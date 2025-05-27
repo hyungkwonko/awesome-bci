@@ -55,11 +55,11 @@ A curated list of leading academic and industry labs advancing brain-computer in
 
 ---
 
-## 6. Tsinghua University – National Engineering Lab for Neuromodulation
-- **Website:** [med.tsinghua.edu.cn](http://www.med.tsinghua.edu.cn/)
-- **Publications:** [brain.tsinghua.edu.cn/en/info/1010/1008.htm](https://brain.tsinghua.edu.cn/en/info/1010/1008.htm)
+## 6. Georgia Tech - Systems Neural Engineering Lab
+- **Website:** [snel.ai/](https://snel.ai/)
+- **Publications:** [snel.ai/publications/](https://snel.ai/publications/)
 - **Notable Publications:**
-  - [Minimally Invasive Brain Computer Interface helps tetraplegia patients](https://www.tsinghua.edu.cn/en/info/1399/12721.htm) – Tsinghua, 2023
+  - [lfads-torch: A modular and extensible implementation of latent factor analysis via dynamical systems](https://github.com/arsedler9/lfads-torch)
 
 ---
 

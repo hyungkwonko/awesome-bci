@@ -1,0 +1,28 @@
+{
+  "title": "Ultraconformable cuff implants for long-term bidirectional interfacing of peripheral nerves at sub-nerve resolutions",
+  "authors": [
+    "Carnicer-Lombarte, A.",
+    "Boys, A. J.",
+    "Güemes, A.",
+    "Gurke, J.",
+    "Velasco-Bosom, S.",
+    "Hilton, S.",
+    "Barone, D. G.",
+    "Malliaras, G. G."
+  ],
+  "year": 2024,
+  "description": "Dataset and code from a study demonstrating high-resolution, chronic peripheral nerve recording and stimulation using ultraconformable cuff implants in awake rats.",
+  "full_description": "This dataset originates from a study on ultraconformable nerve cuff implants designed for long-term, bidirectional interfacing with peripheral nerves in freely-moving rats. The implants were evaluated over 21 days, enabling chronic recording of fascicle-specific nerve activity and modulation of paw movement. The study also included a partial nerve ligation model to characterize C fibre activity changes linked to neuropathic pain. Data includes electrophysiological recordings, kinematic measurements, and histological analyses. The cuffs demonstrated improved biocompatibility and reduced fibrotic response compared to PDMS silicone cuffs.",
+  "data_format": "Not explicitly stated; likely includes signal, image, and tabular data",
+  "size": "Not specified",
+  "number_of_subjects": "Rats (exact number not specified)",
+  "number_of_channels": "Not specified; fascicle-level resolution",
+  "sampling_rate": "Not specified",
+  "url": "https://www.nature.com/articles/s41467-024-51988-1",
+  "download": "https://doi.org/10.6084/m9.figshare.21892986",
+  "paper": "https://www.nature.com/articles/s41467-024-51988-1",
+  "code": "https://doi.org/10.5281/zenodo.7544535",
+  "citation": "Carnicer-Lombarte A., Boys A. J., Güemes A., et al. (2024). Ultraconformable cuff implants for long-term bidirectional interfacing of peripheral nerves at sub-nerve resolutions. Nature Communications, 15, Article 7523.",
+  "license": "Open Access (data and code via Figshare and Zenodo)",
+  "added_date": "2024-12-01"
+}

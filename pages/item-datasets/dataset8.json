@@ -1,0 +1,30 @@
+{
+  "title": "Multi-Gesture Drag-and-Drop iBCI Dataset",
+  "authors": [
+    "Gusman, J. T.",
+    "Hosman, T.",
+    "Crawford, R.",
+    "Singer-Clark, T.",
+    "Kapitonava, A.",
+    "Kelemen, J. N.",
+    "Hahn, N.",
+    "Henderson, J. M.",
+    "Hochberg, L. R.",
+    "Simeral, J. D."
+  ],
+  "year": 2025,
+  "description": "Neural dataset from two participants with tetraplegia performing sustained gesture tasks using an intracortical BCI, including drag-and-drop and classification paradigms.",
+  "full_description": "This dataset includes neural recordings from the left precentral gyrus of two participants (T5 and T11) in the BrainGate2 clinical trial. Participants performed sustained hand gestures for durations of 1, 2, and 4 seconds during Gesture Hero and Multi-Gesture Drag-and-Drop tasks. Neural features include threshold crossings (TX), spike-band power (SP), and local field potentials (LFPs). The data were used to evaluate a novel latch decoder that combines multi-class and binary classification for iBCI control, aimed at enabling naturalistic 'click-and-hold' or 'drag-and-drop' computer interactions.",
+  "data_format": "MAT, CSV (presumed standard neural data formats)",
+  "size": "Not specified",
+  "number_of_subjects": 2,
+  "number_of_channels": "Not specified (intracortical array in left precentral gyrus)",
+  "sampling_rate": "Not specified",
+  "url": "https://doi.org/10.1088/1741-2552/adb180",
+  "download": "https://doi.org/10.5061/dryad.98sf7m0v1",
+  "paper": "https://doi.org/10.1088/1741-2552/adb180",
+  "code": "https://github.com/jgusman/drag-and-drop",
+  "citation": "Gusman J. T., Hosman T., Crawford R., et al. (2025). Multi-gesture drag-and-drop decoding in a 2D iBCI control task. Journal of Neural Engineering, 22(2), 026054.",
+  "license": "Open Access (Dryad, Zenodo repositories)",
+  "added_date": "2025-04-10"
+}

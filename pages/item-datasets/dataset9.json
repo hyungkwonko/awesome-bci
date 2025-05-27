@@ -1,0 +1,29 @@
+{
+  "title": "Finger Decoding and Quadcopter Control iBCI Dataset",
+  "authors": [
+    "Willsey, M. S.",
+    "Shah, N. P.",
+    "Avansino, D. T.",
+    "Hahn, N. V.",
+    "Jamiolkowski, R. M.",
+    "Kamdar, F. B.",
+    "Hochberg, L. R.",
+    "Willett, F. R.",
+    "Henderson, J. M."
+  ],
+  "year": 2025,
+  "description": "Dataset from a study demonstrating continuous intracortical BCI control of three finger groups and virtual quadcopter navigation in an individual with tetraplegia.",
+  "full_description": "This dataset supports a high-performance intracortical BCI study in a participant with tetraplegia, enabling real-time control of three independent finger groups, including 2D thumb movements, for a total of four degrees of freedom. The participant completed target-reaching tasks at a high throughput and used decoded finger positions to control a virtual quadcopter through obstacle courses. The work emphasizes both technical advancement and user-centered goals such as recreation and social participation. Data includes finger kinematics, target tracking, neural features, and performance metrics.",
+  "data_format": "Likely MATLAB or CSV (not explicitly specified)",
+  "size": "Not specified",
+  "number_of_subjects": 1,
+  "number_of_channels": "Not specified; intracortical array",
+  "sampling_rate": "Not specified",
+  "url": "https://www.nature.com/articles/s41591-024-03341-8",
+  "download": "https://doi.org/10.5061/dryad.1jwstqk4f",
+  "paper": "https://www.nature.com/articles/s41591-024-03341-8",
+  "code": "https://github.com/WillseyBCILab/BCI_Finger_Decoding_Quadcopter",
+  "citation": "Willsey M. S., Shah N. P., Avansino D. T., et al. (2025). A high-performance brain–computer interface for finger decoding and quadcopter game control in an individual with paralysis. Nature Medicine, 31, 96–104.",
+  "license": "Open Access (Dryad, GitHub)",
+  "added_date": "2025-01-15"
+}

@@ -609,6 +609,8 @@ function filterAndSortPapers(papers, searchTerm, sortOption) {
 async function loadDatasets() {
     try {
         const datasets = await fetchJSON('./item-datasets');
+        datasets.sort((a, b) => b.year - a.year); // sort
+
         const container = document.getElementById('datasets-list');
         const loading = document.getElementById('loading-datasets');
         const noResults = document.getElementById('no-datasets-results');
@@ -702,11 +704,11 @@ function renderDatasetsTable(datasets, container) {
             </td>
             <td>${dataset.authors.join(', ')}</td>
             <td>${dataset.year}</td>
-            <td>${dataset.description.substring(0, 100)}${dataset.description.length > 100 ? '...' : ''}</td>
+            <td>${dataset.description.substring(0, 200)}${dataset.description.length > 200 ? '...' : ''}</td>
             <td class="links">
-                ${dataset.url ? `<a href="${dataset.url}" target="_blank" class="link-btn" title="Website"><i class="fas fa-external-link-alt"></i></a>` : ''}
                 ${dataset.download ? `<a href="${dataset.download}" target="_blank" class="link-btn" title="Download"><i class="fas fa-download"></i></a>` : ''}
-                ${dataset.paper ? `<a href="${dataset.paper}" target="_blank" class="link-btn" title="Paper"><i class="fas fa-file-alt"></i></a>` : ''}
+                ${dataset.code ? `<a href="${dataset.code}" target="_blank" class="link-btn" title="Code"><i class="fab fa-github"></i></a>` : ''}
+                ${dataset.url ? `<a href="${dataset.url}" target="_blank" class="link-btn" title="Website"><i class="fas fa-external-link-alt"></i></a>` : ''}
             </td>
         `;
         
