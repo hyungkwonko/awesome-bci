@@ -1,5 +1,12 @@
 # 🧠 Top BCI Research Institutions
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/278b007c-73f0-4c04-a605-cdce8f5447bc" />
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/0c989b0b-54ef-4518-be50-360d06ae488a" />
+
+Reference: [The state of clinical trials of implantable brain–computer interfaces](https://www.nature.com/articles/s44222-024-00239-5#Sec29)
+
+
 A curated list of leading academic and industry labs advancing brain-computer interface (BCI) technologies. Each entry includes the lab's website and links to notable publications.
 
 ---
