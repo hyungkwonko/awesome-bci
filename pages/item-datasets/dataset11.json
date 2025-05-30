@@ -1,0 +1,31 @@
+{
+  "title": "EEG Foundation Challenge: From Cross-Task to Cross-Subject EEG Decoding",
+  "authors": [
+    "Bruno Aristimunha",
+    "Dung Truong",
+    "Pierre Guetschel",
+    "Seyed Yahya Shirazi",
+    "Isabelle Guyon",
+    "Alexandre R. Franco",
+    "Michael P. Milham∥",
+    "Aviv Dotan",
+    "Scott Makeig",
+    "Alexandre Gramfort",
+    "Jean-Remi King",
+    "Marie-Constance Corsi",
+    "Pedro A. Valdés-Sosa",
+    "Amit Majumdar",
+    "Alan Evans",
+    "Terrence J Sejnowski",
+    "Oren Shriki",
+    "Sylvain Chevallier",
+    "Arnaud Delorme"
+  ],
+  "year": 2025,
+  "description": "The 2025 EEG Decoding Challenge: From Cross-Task to Learning Subject Invariance Representation for EEG Decoding is a biosignal challenge accepted to the NeurIPS 2025 Competition Track. This competition aims to advance the field of EEG decoding by addressing two critical challenges: 1) Cross-Task Transfer Learning: Developing models that can effectively transfer knowledge from passive EEG tasks to active tasks. 2) Subject Invariance Representation: Creating robust representations that generalize across different subjects while predicting clinical factors",
+  "url": "https://eeg2025.github.io/",
+  "download": "https://www.biorxiv.org/node/4130120.external-links.html",
+  "paper": "https://eeg2025.github.io/assets/files/proposal.pdf",
+  "code": "https://www.biorxiv.org/node/4130120.external-links.html",
+  "citation": "Seyed Yahya Shirazi, Alexandre Franco, Mauricio Scopel Hoffmann, Nathalia Esper, Dung Truong, Arnaud Delorme, Michael Milham, and Scott Makeig. HBN-EEG: The FAIR implementation of the healthy brain network (HBN) electroencephalography dataset. bioRxiv, page 2024.10.03.615261, 3 October 2024. doi: 10.1101/2024.10.03.615261."
+}
