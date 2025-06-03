@@ -1,0 +1,31 @@
+{
+  "title": "Pseudo-linear summation explains neural geometry of multi-finger movements in human premotor cortex",
+  "authors": [
+    "Nishal P. Shah",
+    "Donald Avansino",
+    "Foram Kamdar",
+    "Claire Nicolas",
+    "Anastasia Kapitonava",
+    "Carlos Vargas-Irwin",
+    "Leigh R. Hochberg",
+    "Chethan Pandarinath",
+    "Krishna V. Shenoy",
+    "Francis R. Willett",
+    "Jaimie M. Henderson"
+  ],
+  "year": 2025,
+  "publication": "Nature Communications",
+  "abstract": "How does the motor cortex combine simple movements (such as single finger flexion/extension) into complex movements (such as hand gestures, or playing the piano)? To address this question, motor cortical activity was recorded using intracortical multi-electrode arrays in two male people with tetraplegia as they attempted single, pairwise and higher-order finger movements. Neural activity for simultaneous movements was largely aligned with linear summation of corresponding single finger movement activities, with two violations. First, the neural activity exhibited normalization, preventing a large magnitude with an increasing number of moving fingers. Second, the neural tuning direction of weakly represented fingers changed significantly as a result of the movement of more strongly represented fingers. These deviations from linearity resulted in non-linear methods outperforming linear methods for neural decoding. Simultaneous finger movements are thus represented by the combination of individual finger movements by pseudo-linear summation.",
+  "keywords": [
+    "Intracortical BCI",
+    "Neural encoding",
+    "Pre-motor cortex",
+    "Brain-computer interface"
+  ],
+  "doi": "10.1038/s41467-025-59039-z",
+  "pdf": "https://www.nature.com/articles/s41467-025-59039-z",
+  "code": "https://figshare.com/articles/dataset/Data_and_Code_for_Pseudo-linear_Summation_explains_Neural_Geometry_of_Multi-finger_Movements_in_Human_Premotor_Cortex_Nishal_P_Shah_Donald_Avansino_Foram_Kamdar_Claire_Nicolas_Anastasia_Kapitonava_Carlos_Vargas-Irwin_Leigh_R_Hochberg_Chetha/28396166",
+  "citations": 0,
+  "added_date": "",
+  "url": "https://www.nature.com/articles/s41467-025-59039-z"
+}
