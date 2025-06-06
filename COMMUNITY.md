@@ -56,10 +56,19 @@ A curated list of leading academic and industry labs advancing brain-computer in
 ---
 
 ## 6. Georgia Tech - Systems Neural Engineering Lab
-- **Website:** [snel.ai/](https://snel.ai/)
-- **Publications:** [snel.ai/publications/](https://snel.ai/publications/)
+- **Website:** [snel.ai](https://snel.ai/)
+- **Publications:** [snel.ai/publications](https://snel.ai/publications/)
 - **Notable Publications:**
   - [lfads-torch: A modular and extensible implementation of latent factor analysis via dynamical systems](https://github.com/arsedler9/lfads-torch)
+
+---
+
+## 7. UC Davis - Neuroprosthetics Lab
+- **Website:** [neuroprosthetics.science](https://neuroprosthetics.science/)
+- **Publications:** [neuroprosthetics.science/?publications](https://neuroprosthetics.science/?publications)
+- **Notable Publications:**
+  - [Speech motor cortex enables BCI cursor control and click](https://iopscience.iop.org/article/10.1088/1741-2552/add0e5)
+  - [An accurate and rapidly calibrating speech neuroprosthesis](https://www.nejm.org/doi/10.1056/NEJMoa2314132)
 
 ---
 
