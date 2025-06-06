@@ -1,0 +1,35 @@
+{
+  "title": "An Accurate and Rapidly Calibrating Speech Neuroprosthesis",
+  "authors": [
+    "Nicholas S. Card, Ph.D.",
+    "Maitreyee Wairagkar, Ph.D.",
+    "Carrina Iacobacci, B.S.",
+    "Xianda Hou, M.S.",
+    "Tyler Singer-Clark, B.S.",
+    "Francis R. Willett, Ph.D.",
+    "Erin M. Kunz, M.S.",
+    "David M. Brandman, M.D., Ph.D.",
+    "et al."
+  ],
+  "year": 2024,
+  "publication": "The New England Journal of Medicine",
+  "volume": "391",
+  "pages": "609-618",
+  "abstract": "This study demonstrates a high-accuracy, low-latency speech neuroprosthesis for a person with ALS and severe dysarthria. Using four intracortical microelectrode arrays implanted in the ventral precentral gyrus, researchers decoded attempted speech to enable real-time text and voice communication. The system achieved 99.6% accuracy on a 50-word vocabulary on the first day, and 97.5% accuracy on a 125,000-word vocabulary over 8.4 months, allowing self-paced conversation at approximately 32 words per minute.",
+  "keywords": [
+    "brain-computer interface",
+    "speech neuroprosthesis",
+    "intracortical electrodes",
+    "ALS",
+    "communication restoration",
+    "cortical decoding",
+    "text-to-speech"
+  ],
+  "doi": "10.1056/NEJMoa2314132",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{card2024,\n  title={An Accurate and Rapidly Calibrating Speech Neuroprosthesis},\n  author={Card, Nicholas S. and Wairagkar, Maitreyee and Iacobacci, Carrina and Hou, Xianda and Singer-Clark, Tyler and Willett, Francis R. and Kunz, Erin M. and Brandman, David M. and et al.},\n  journal={The New England Journal of Medicine},\n  volume={391},\n  pages={609--618},\n  year={2024},\n  doi={10.1056/NEJMoa2314132},\n  publisher={Massachusetts Medical Society}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "url": "https://www.nejm.org/doi/10.1056/NEJMoa2314132"
+}

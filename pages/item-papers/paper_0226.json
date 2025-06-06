@@ -1,0 +1,32 @@
+{
+  "title": "A high performing brain-machine interface driven by low-frequency local field potentials alone and together with spikes",
+  "authors": [
+    "Sergey D. Stavisky",
+    "Jonathan C. Kao",
+    "Paul Nuyujukian",
+    "Stephen I. Ryu",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2015,
+  "publication": "Journal of Neural Engineering",
+  "volume": "12",
+  "issue": "3",
+  "pages": "036009",
+  "abstract": "Brain-machine interfaces (BMIs) seek to enable people with movement disabilities to directly control prosthetic systems with their neural activity. Current high performance BMIs are driven by action potentials (spikes), but access to this signal often diminishes as sensors degrade over time. Decoding local field potentials (LFPs) as an alternative or complementary BMI control signal may improve performance when there is a paucity of spike signals. To date only a small handful of LFP decoding methods have been tested online; there remains a need to test different LFP decoding approaches and improve LFP-driven performance. There has also not been a reported demonstration of a hybrid BMI that decodes kinematics from both LFP and spikes. Here we first evaluate a BMI driven by the local motor potential (LMP), a low-pass filtered time-domain LFP amplitude feature. We then combine decoding of both LMP and spikes to implement a hybrid BMI.",
+  "keywords": [
+    "brain-machine interface",
+    "local field potentials",
+    "spikes",
+    "hybrid decoding",
+    "motor cortex",
+    "cursor control",
+    "BMI performance"
+  ],
+  "doi": "10.1088/1741-2560/12/3/036009",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2560/12/3/036009/pdf",
+  "code": "",
+  "bibtex": "@article{stavisky2015,\n  title={A high performing brain-machine interface driven by low-frequency local field potentials alone and together with spikes},\n  author={Stavisky, Sergey D and Kao, Jonathan C and Nuyujukian, Paul and Ryu, Stephen I and Shenoy, Krishna V},\n  journal={Journal of Neural Engineering},\n  volume={12},\n  number={3},\n  pages={036009},\n  year={2015},\n  publisher={IOP Publishing},\n  doi={10.1088/1741-2560/12/3/036009}\n}",
+  "citations": 137,
+  "added_date": "2025-06-06",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2560/12/3/036009"
+}

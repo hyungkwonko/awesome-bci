@@ -1,0 +1,37 @@
+{
+  "title": "Master classes of the tenth international brain-computer interface meeting: showcasing the research of BCI trainees",
+  "authors": [
+    "Stephanie Cernera",
+    "Tan Gemicioglu",
+    "Julia Berezutskaya",
+    "Richard Csaky",
+    "Maxime Verwoert",
+    "Daniel Polyakov",
+    "Sotirios Papadopoulos",
+    "Valeria Spagnolo",
+    "Juliana Gonzalez Astudillo",
+    "Satyam Kumar",
+    "et al."
+  ],
+  "year": 2025,
+  "publication": "Journal of Neural Engineering",
+  "volume": "22",
+  "pages": "022001",
+  "abstract": "The Tenth International brain-computer interface (BCI) meeting was held June 6-9, 2023, in the Sonian Forest in Brussels, Belgium. At that meeting, 21 master classes, organized by the BCI Society's Postdoc & Student Committee, supported the Society's goal of fostering learning opportunities and meaningful interactions for trainees in BCI-related fields. Master classes provide an informal environment where senior researchers can give constructive feedback to the trainee on their chosen and specific pursuit. The topics of the master classes span the whole gamut of BCI research and techniques. These include data acquisition, neural decoding and analysis, invasive and noninvasive stimulation, and ethical and transitional considerations. Additionally, master classes spotlight innovations in BCI research. Herein, we discuss what was presented within the master classes by highlighting each trainee and expert researcher, providing relevant background information and results from each presentation, and summarizing discussion and references for further study.",
+  "keywords": [
+    "brain-computer interface",
+    "BCI meeting",
+    "neural decoding",
+    "neuroethics",
+    "data acquisition",
+    "noninvasive stimulation",
+    "trainee research"
+  ],
+  "doi": "10.1088/1741-2552/adb335",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2552/adb335/pdf",
+  "code": "",
+  "bibtex": "@article{cernera2025,\n  title={Master classes of the tenth international brain-computer interface meeting: showcasing the research of BCI trainees},\n  author={Cernera, Stephanie and Gemicioglu, Tan and Berezutskaya, Julia and Csaky, Richard and Verwoert, Maxime and Polyakov, Daniel and Papadopoulos, Sotirios and Spagnolo, Valeria and Gonzalez Astudillo, Juliana and Kumar, Satyam},\n  journal={Journal of Neural Engineering},\n  volume={22},\n  pages={022001},\n  year={2025},\n  doi={10.1088/1741-2552/adb335},\n  publisher={IOP Publishing}\n}",
+  "citations": 33,
+  "added_date": "2025-06-06",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2552/adb335"
+}

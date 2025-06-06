@@ -1,0 +1,43 @@
+{
+  "title": "BRAND: a platform for closed-loop experiments with deep network models",
+  "authors": [
+    "Yahia H Ali",
+    "Kevin Bodkin",
+    "Mattia Rigotti-Thompson",
+    "Kushant Patel",
+    "Nicholas S Card",
+    "Bareesh Bhaduri",
+    "Samuel R Nason-Tomaszewski",
+    "Domenick M Mifsud",
+    "Xianda Hou",
+    "Claire Nicolas",
+    "Shane Allcroft",
+    "Leigh R Hochberg",
+    "Nicholas Au Yong",
+    "Sergey D Stavisky",
+    "Lee E Miller",
+    "David M Brandman and Chethan Pandarinath"
+  ],
+  "year": 2024,
+  "publication": "Journal of Neural Engineering",
+  "volume": "21",
+  "issue": "2",
+  "pages": "026046",
+  "abstract": "Artificial neural networks (ANNs) are state-of-the-art tools for modeling and decoding neural activity, but deploying them in closed-loop experiments with tight timing constraints is challenging due to their limited support in existing real-time frameworks. To address these needs, we introduce the Backend for Realtime Asynchronous Neural Decoding (BRAND), a Linux-based, modular, and language-agnostic platform. BRAND uses Redis for fast inter-process communication, enabling parallel execution across asynchronous streams. In tests, BRAND demonstrated sub-millisecond latencies and supported real-time brain-computer interface operation in a clinical setting. The framework lowers integration barriers for modern machine learning tools in neuroscience experiments.",
+  "keywords": [
+    "brain-computer interface",
+    "real-time systems",
+    "deep learning",
+    "neural decoding",
+    "closed-loop experiments",
+    "Redis",
+    "asynchronous processing"
+  ],
+  "doi": "10.1088/1741-2552/ad3b3a",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2552/ad3b3a/pdf",
+  "code": "",
+  "bibtex": "@article{ali2024,\n  title={BRAND: a platform for closed-loop experiments with deep network models},\n  author={Ali, Yahia H. and Bodkin, Kevin and Rigotti-Thompson, Mattia and Patel, Kushant and Card, Nicholas S. and Bhaduri, Bareesh and Nason-Tomaszewski, Samuel R. and Mifsud, Domenick M. and Hou, Xianda and Nicolas, Claire},\n  journal={Journal of Neural Engineering},\n  volume={21},\n  number={2},\n  pages={026046},\n  year={2024},\n  publisher={IOP Publishing},\n  doi={10.1088/1741-2552/ad3b3a}\n}",
+  "citations": 1313,
+  "added_date": "2025-06-06",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ad3b3a"
+}

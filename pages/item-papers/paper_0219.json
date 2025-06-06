@@ -1,0 +1,35 @@
+{
+  "title": "Speech motor cortex enables BCI cursor control and click",
+  "authors": [
+    "Tyler Singer-Clark",
+    "Xianda Hou",
+    "Nicholas S. Card",
+    "Maitreyee Wairagkar",
+    "Carrina Iacobacci",
+    "Hamza Peracha",
+    "Leigh R. Hochberg",
+    "Sergey D. Stavisky",
+    "David M. Brandman"
+  ],
+  "year": 2025,
+  "publication": "Journal of Neural Engineering",
+  "abstract": "Decoding neural activity from ventral (speech) motor cortex is known to enable high-performance speech brain-computer interface (BCI) control. It was previously unknown whether this brain area could also enable computer control via neural cursor and click, as is typically associated with dorsal (arm and hand) motor cortex. We recruited a clinical trial participant with amyotrophic lateral sclerosis and implanted intracortical microelectrode arrays in ventral precentral gyrus (vPCG), which the participant used to operate a speech BCI in a prior study. We developed a cursor BCI driven by the participant's vPCG neural activity, and evaluated performance on a series of target selection tasks. The reported vPCG cursor BCI enabled rapidly-calibrating (40 s), accurate (2.90 bits per second) cursor control and click. The participant also used the BCI to control his own personal computer independently. These results suggest that placing electrodes in vPCG to optimize for speech decoding may also be a viable strategy for building a multi-modal BCI which enables both speech-based communication and computer control via cursor and click.",
+  "keywords": [
+    "brain-computer interface",
+    "speech motor cortex",
+    "cursor control",
+    "BCI click",
+    "ventral precentral gyrus",
+    "intracortical electrodes",
+    "amyotrophic lateral sclerosis"
+  ],
+  "doi": "10.1088/1741-2552/add0e5",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2552/add0e5/pdf",
+  "code": "",
+  "bibtex": "@article{singerclark2025,\n  title={Speech motor cortex enables BCI cursor control and click},\n  author={Singer-Clark, Tyler and Hou, Xianda and Card, Nicholas S. and Wairagkar, Maitreyee and Iacobacci, Carrina and Peracha, Hamza and Hochberg, Leigh R. and Stavisky, Sergey D. and Brandman, David M.},\n  journal={Journal of Neural Engineering},\n  volume={22},\n  number={3},\n  pages={036015},\n  year={2025},\n  publisher={IOP Publishing},\n  doi={10.1088/1741-2552/add0e5}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "volume": "22",
+  "pages": "036015",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2552/add0e5"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Listening in to perceived speech with contrastive learning",
+  "authors": [
+    "Sergey D. Stavisky",
+    "Maitreyee Wairagkar"
+  ],
+  "year": 2023,
+  "publication": "Nature Machine Intelligence",
+  "abstract": "New algorithms allow researchers to decode words the brain is hearing with a non-invasive method, outside the scalp. This commentary discusses recent advances in decoding perceived speech using contrastive learning, with an emphasis on non-invasive brain-computer interfaces and their implications for clinical and research applications.",
+  "keywords": [
+    "brain-computer interface",
+    "speech decoding",
+    "non-invasive BCI",
+    "contrastive learning",
+    "neurotechnology",
+    "auditory cortex"
+  ],
+  "doi": "10.1038/s42256-023-00742-1",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{stavisky2023,\n  title={Listening in to perceived speech with contrastive learning},\n  author={Stavisky, Sergey D. and Wairagkar, Maitreyee},\n  journal={Nature Machine Intelligence},\n  volume={5},\n  pages={1179--1180},\n  year={2023},\n  doi={10.1038/s42256-023-00742-1},\n  publisher={Springer Nature}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "volume": "5",
+  "pages": "1179-1180",
+  "url": "https://www.nature.com/articles/s42256-023-00742-1"
+}

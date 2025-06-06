@@ -1,0 +1,40 @@
+{
+  "title": "Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex",
+  "authors": [
+    "Angelique C. Paulk",
+    "Yoav Kfir",
+    "Arjun R. Khanna",
+    "Martina L. Mustroph",
+    "Eric M. Trautmann",
+    "Dan J. Soper",
+    "Sergey D. Stavisky",
+    "Marleen Welkenhuysen",
+    "Barundeb Dutta",
+    "Krishna V. Shenoy",
+    "Leigh R. Hochberg",
+    "R. Mark Richardson",
+    "Ziv M. Williams",
+    "Sydney S. Cash"
+  ],
+  "year": 2022,
+  "publication": "Nature Neuroscience",
+  "volume": "25",
+  "pages": "252-263",
+  "abstract": "Recent advances in multi-electrode array technology have made it possible to monitor large neuronal ensembles at cellular resolution in animal models. In humans, however, current approaches restrict recordings to a few neurons per penetrating electrode or combine the signals of thousands of neurons in local field potential (LFP) recordings. Here we describe a new probe variant and set of techniques that enable simultaneous recording from over 200 well-isolated cortical single units in human participants during intraoperative neurosurgical procedures using silicon Neuropixels probes. We characterized a diversity of extracellular waveforms with eight separable single-unit classes, with differing firing rates, locations along the length of the electrode array, waveform spatial spread and modulation by LFP events such as inter-ictal discharges and burst suppression. Although some challenges remain in creating a turnkey recording system, high-density silicon arrays provide a path for studying human-specific cognitive processes and their dysfunction at unprecedented spatiotemporal resolution.",
+  "keywords": [
+    "Neuropixels",
+    "single-unit recording",
+    "human cortex",
+    "neuroprosthetics",
+    "multi-electrode arrays",
+    "cortical signals",
+    "brain-computer interface"
+  ],
+  "doi": "10.1038/s41593-021-00997-0",
+  "pdf": "https://www.nature.com/articles/s41593-021-00997-0.pdf",
+  "code": "",
+  "bibtex": "@article{paulk2022,\n  title={Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex},\n  author={Paulk, Angelique C. and Kfir, Yoav and Khanna, Arjun R. and Mustroph, Martina L. and Trautmann, Eric M. and Soper, Dan J. and Stavisky, Sergey D. and Welkenhuysen, Marleen and Dutta, Barundeb and Shenoy, Krishna V. and Hochberg, Leigh R. and Richardson, R. Mark and Williams, Ziv M. and Cash, Sydney S.},\n  journal={Nature Neuroscience},\n  volume={25},\n  pages={252--263},\n  year={2022},\n  doi={10.1038/s41593-021-00997-0},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "url": "https://www.nature.com/articles/s41593-021-00997-0"
+}

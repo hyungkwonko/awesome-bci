@@ -1,0 +1,33 @@
+{
+  "title": "Decoding speech from spike-based neural population recordings in secondary auditory cortex of non-human primates",
+  "authors": [
+    "Christopher Heelan",
+    "Jihun Lee",
+    "Ronan O'Shea",
+    "Laurie Lynch",
+    "David M. Brandman",
+    "Wilson Truccolo",
+    "Arto V. Nurmikko"
+  ],
+  "year": 2019,
+  "publication": "Communications Biology",
+  "volume": "2",
+  "pages": "466",
+  "abstract": "Direct electronic communication with sensory areas of the neocortex is a challenging ambition for brain-computer interfaces. Here, we report the first successful neural decoding of English words with high intelligibility from intracortical spike-based neural population activity recorded from the secondary auditory cortex of macaques. We acquired 96-channel full-broadband population recordings using intracortical microelectrode arrays in the rostral and caudal parabelt regions of the superior temporal gyrus (STG). We leveraged a new neural processing toolkit to investigate the choice of decoding algorithm, neural preprocessing, audio representation, channel count, and array location on neural decoding performance. The presented spike-based machine learning neural decoding approach may further be useful in informing future encoding strategies to deliver direct auditory percepts to the brain as specific patterns of microstimulation.",
+  "keywords": [
+    "brain-computer interface",
+    "speech decoding",
+    "spike-based recording",
+    "secondary auditory cortex",
+    "macaques",
+    "neural decoding",
+    "superior temporal gyrus"
+  ],
+  "doi": "10.1038/s42003-019-0707-9",
+  "pdf": "https://www.nature.com/articles/s42003-019-0707-9.pdf",
+  "code": "",
+  "bibtex": "@article{heelan2019,\n  title={Decoding speech from spike-based neural population recordings in secondary auditory cortex of non-human primates},\n  author={Heelan, Christopher and Lee, Jihun and O'Shea, Ronan and Lynch, Laurie and Brandman, David M. and Truccolo, Wilson and Nurmikko, Arto V.},\n  journal={Communications Biology},\n  volume={2},\n  pages={466},\n  year={2019},\n  publisher={Nature Publishing Group},\n  doi={10.1038/s42003-019-0707-9}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "url": "https://www.nature.com/articles/s42003-019-0707-9"
+}

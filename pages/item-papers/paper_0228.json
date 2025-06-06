@@ -1,0 +1,26 @@
+{
+  "title": "Restoring Speech Using Brain-Computer Interfaces",
+  "authors": [
+    "Sergey D. Stavisky"
+  ],
+  "year": 2025,
+  "publication": "Annual Review of Biomedical Engineering",
+  "volume": "27",
+  "pages": "29-54",
+  "abstract": "People who have lost the ability to speak due to neurological injuries would greatly benefit from assistive technology that provides a fast, intuitive, and naturalistic means of communication. This need can be met with brain-computer interfaces (BCIs): medical devices that bypass injured parts of the nervous system and directly transform neural activity into outputs such as text or sound. BCIs for restoring movement and typing have progressed rapidly in recent clinical trials; speech BCIs are the next frontier. This review covers the clinical need for speech BCIs, surveys foundational studies that point to where and how speech can be decoded in the brain, describes recent progress in both discrete and continuous speech decoding and closed-loop speech BCIs, provides metrics for assessing these systems' performance, and highlights key remaining challenges on the road toward clinically useful speech neuroprostheses.",
+  "keywords": [
+    "speech",
+    "brain-machine interface",
+    "paralysis",
+    "communication",
+    "motor",
+    "assistive technology"
+  ],
+  "doi": "10.1146/annurev-bioeng-110122-012818",
+  "pdf": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-bioeng-110122-012818",
+  "code": "",
+  "bibtex": "@article{stavisky2025,\n  title={Restoring Speech Using Brain-Computer Interfaces},\n  author={Stavisky, Sergey D.},\n  journal={Annual Review of Biomedical Engineering},\n  volume={27},\n  pages={29--54},\n  year={2025},\n  doi={10.1146/annurev-bioeng-110122-012818},\n  publisher={Annual Reviews}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-bioeng-110122-012818"
+}

@@ -1,0 +1,32 @@
+{
+  "title": "Speech-related dorsal motor cortex activity does not interfere with iBCI cursor control",
+  "authors": [
+    "Sergey D. Stavisky",
+    "Francis R. Willett",
+    "Donald T. Avansino",
+    "Leigh R. Hochberg",
+    "Krishna V. Shenoy",
+    "Jaimie M. Henderson"
+  ],
+  "year": 2020,
+  "publication": "Journal of Neural Engineering",
+  "volume": "17",
+  "issue": "1",
+  "pages": "016049",
+  "abstract": "Speech-related neural modulation was recently reported in the 'arm/hand' area of human dorsal motor cortex used for intracortical brain-computer interfaces (iBCIs). This study assessed whether such modulation interferes with iBCI control. A BrainGate2 clinical trial participant used an iBCI to control a cursor and spoke short words during and outside of task performance. Neural activity modulated during speech alone, but this was attenuated when speaking during iBCI use. Decoder-relevant components of speech-related activity were minimal, resulting in unchanged cursor performance. Thus, speaking does not interfere with iBCI use based on attempted arm movement.",
+  "keywords": [
+    "intracortical BCI",
+    "dorsal motor cortex",
+    "speech-related neural modulation",
+    "cursor control",
+    "motor intentions",
+    "neuroprosthetics"
+  ],
+  "doi": "10.1088/1741-2552/ab5b72",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2552/ab5b72/pdf",
+  "code": "",
+  "bibtex": "@article{stavisky2020,\n  title={Speech-related dorsal motor cortex activity does not interfere with iBCI cursor control},\n  author={Stavisky, Sergey D. and Willett, Francis R. and Avansino, Donald T. and Hochberg, Leigh R. and Shenoy, Krishna V. and Henderson, Jaimie M.},\n  journal={Journal of Neural Engineering},\n  volume={17},\n  number={1},\n  pages={016049},\n  year={2020},\n  publisher={IOP Publishing},\n  doi={10.1088/1741-2552/ab5b72}\n}",
+  "citations": 2727,
+  "added_date": "2025-06-06",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2552/ab5b72"
+}

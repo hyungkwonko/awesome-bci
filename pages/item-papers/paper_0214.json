@@ -1,0 +1,39 @@
+{
+  "title": "Encoding of speech modes and loudness in ventral precentral gyrus",
+  "authors": [
+    "Aparna Srinivasan",
+    "Maitreyee Wairagkar",
+    "Carrina Iacobacci",
+    "Xianda Hou",
+    "Nicholas S. Card",
+    "Brandon G. Jacques",
+    "Anna L. Pritchard",
+    "Payton H. Bechefsky",
+    "Leigh R. Hochberg",
+    "Nicholas AuYong",
+    "Chethan Pandarinath",
+    "David M. Brandman",
+    "Sergey D. Stavisky"
+  ],
+  "year": 2025,
+  "publication": "bioRxiv (preprint)",
+  "abstract": "The ability to vary the mode and loudness of speech is an important part of the expressive range of human vocal communication. However, the encoding of these behaviors in the ventral precentral gyrus (vPCG) has not been studied at the resolution of neuronal firing rates. We investigated this in two participants who had intracortical microelectrode arrays implanted in their vPCG as part of a speech neuroprosthesis clinical trial. Neuronal firing rates modulated strongly in vPCG as a function of attempted mimed, whispered, normal or loud speech. At the neural ensemble level, mode/loudness and phonemic content were encoded in distinct neural subspaces. Attempted mode/loudness could be decoded from vPCG with an accuracy of 94% and 89% for two participants respectively, and corresponding neural preparatory activity could be detected hundreds of milliseconds before speech onset. We then developed a closed-loop loudness decoder that achieved 94% online accuracy in modulating a brain-to-text speech neuroprosthesis output based on attempted loudness. These findings demonstrate the feasibility of decoding mode and loudness from vPCG, paving the way for speech neuroprostheses capable of synthesizing more expressive speech.",
+  "keywords": [
+    "speech neuroprosthesis",
+    "brain-computer interface",
+    "ventral precentral gyrus",
+    "neural decoding",
+    "speech loudness",
+    "neuronal encoding",
+    "intracortical array"
+  ],
+  "doi": "10.1101/2025.05.30.657105",
+  "pdf": "https://www.biorxiv.org/content/10.1101/2025.05.30.657105v1.full.pdf",
+  "code": "",
+  "bibtex": "@article{srinivasan2025,\n  title={Encoding of speech modes and loudness in ventral precentral gyrus},\n  author={Srinivasan, Aparna and Wairagkar, Maitreyee and Iacobacci, Carrina and Hou, Xianda and Card, Nicholas S. and Jacques, Brandon G. and Pritchard, Anna L. and Bechefsky, Payton H. and Hochberg, Leigh R. and AuYong, Nicholas and Pandarinath, Chethan and Brandman, David M. and Stavisky, Sergey D.},\n  journal={bioRxiv},\n  year={2025},\n  doi={10.1101/2025.05.30.657105},\n  publisher={Cold Spring Harbor Laboratory}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "volume": "",
+  "pages": "",
+  "url": "https://www.biorxiv.org/content/10.1101/2025.05.30.657105v1"
+}

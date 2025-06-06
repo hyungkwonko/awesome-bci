@@ -1,0 +1,34 @@
+{
+  "title": "An instantaneous voice synthesis neuroprosthesis",
+  "authors": [
+    "Maitreyee Wairagkar",
+    "Nicholas S. Card",
+    "Tyler Singer-Clark",
+    "Xianda Hou",
+    "Carrina Iacobacci",
+    "Leigh R. Hochberg",
+    "David M. Brandman",
+    "Sergey D. Stavisky"
+  ],
+  "year": 2024,
+  "publication": "bioRxiv (preprint)",
+  "abstract": "Brain computer interfaces (BCIs) have the potential to restore communication to people who have lost the ability to speak due to neurological disease or injury. BCIs have been used to translate the neural correlates of attempted speech into text. However, text communication fails to capture the nuances of human speech such as prosody, intonation and immediately hearing one’s own voice. Here, we demonstrate a “brain-to-voice” neuroprosthesis that instantaneously synthesizes voice with closed-loop audio feedback by decoding neural activity from 256 microelectrodes implanted into the ventral precentral gyrus of a man with amyotrophic lateral sclerosis and severe dysarthria. We overcame the challenge of lacking ground-truth speech for training the neural decoder and were able to accurately synthesize his voice. Along with phonemic content, we were also able to decode paralinguistic features from intracortical activity, enabling the participant to modulate his BCI-synthesized voice in real-time to change intonation, emphasize words, and sing short melodies. These results demonstrate the feasibility of enabling people with paralysis to speak intelligibly and expressively through a BCI.",
+  "keywords": [
+    "brain-computer interface",
+    "speech synthesis",
+    "neuroprosthetics",
+    "amyotrophic lateral sclerosis",
+    "intracortical decoding",
+    "voice feedback",
+    "paralinguistic features"
+  ],
+  "doi": "10.1101/2024.08.14.607690",
+  "pdf": "https://www.biorxiv.org/content/10.1101/2024.08.14.607690v2.full.pdf",
+  "code": "",
+  "bibtex": "@article{wairagkar2024,\n  title={An instantaneous voice synthesis neuroprosthesis},\n  author={Wairagkar, Maitreyee and Card, Nicholas S. and Singer-Clark, Tyler and Hou, Xianda and Iacobacci, Carrina and Hochberg, Leigh R. and Brandman, David M. and Stavisky, Sergey D.},\n  journal={bioRxiv},\n  doi={10.1101/2024.08.14.607690},\n  year={2024},\n  publisher={Cold Spring Harbor Laboratory}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "volume": "",
+  "pages": "",
+  "url": "https://www.biorxiv.org/content/10.1101/2024.08.14.607690v2"
+}

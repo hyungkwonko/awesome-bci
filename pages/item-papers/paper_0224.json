@@ -1,0 +1,40 @@
+{
+  "title": "Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis",
+  "authors": [
+    "Sergey D Stavisky",
+    "Francis R Willett",
+    "Guy H Wilson",
+    "Brian A Murphy",
+    "Paymon Rezaii",
+    "Donald T Avansino",
+    "William D Memberg",
+    "Jonathan P Miller",
+    "Robert F Kirsch",
+    "Leigh R Hochberg",
+    "A Bolu Ajiboye",
+    "Shaul Druckmann",
+    "Krishna V Shenoy",
+    "Jaimie M Henderson"
+  ],
+  "year": 2020,
+  "publication": "eLife",
+  "volume": "",
+  "pages": "",
+  "abstract": "Speaking is a sensorimotor behavior whose neural basis is difficult to study with single neuron resolution due to the scarcity of human intracortical measurements. We used electrode arrays to record from the motor cortex ‘hand knob’ in two people with tetraplegia, an area not previously implicated in speech. Neurons modulated during speaking and during non-speaking movements of the tongue, lips, and jaw. This challenges whether the conventional model of a ‘motor homunculus’ division by major body regions extends to the single-neuron scale. Spoken words and syllables could be decoded from single trials, demonstrating the potential of intracortical recordings for brain-computer interfaces to restore speech. Two neural population dynamics features previously reported for arm movements were also present during speaking: a component that was mostly invariant across initiating different words, followed by rotatory dynamics during speaking. This suggests that common neural dynamical motifs may underlie movement of arm and speech articulators.",
+  "keywords": [
+    "brain-computer interface",
+    "speech decoding",
+    "motor cortex",
+    "neural dynamics",
+    "tetraplegia",
+    "sensorimotor behavior",
+    "intracortical recordings"
+  ],
+  "doi": "10.7554/eLife.46015",
+  "pdf": "https://elifesciences.org/articles/46015.pdf",
+  "code": "",
+  "bibtex": "@article{stavisky2020,\n  title={Neural ensemble dynamics in dorsal motor cortex during speech in people with paralysis},\n  author={Stavisky, Sergey D. and Willett, Francis R. and Wilson, Guy H. and Murphy, Brian A. and Rezaii, Paymon and Avansino, Donald T. and Memberg, William D. and Miller, Jonathan P. and Kirsch, Robert F. and Henderson, Jaimie M.},\n  journal={eLife},\n  year={2020},\n  doi={10.7554/eLife.46015},\n  publisher={eLife Sciences Publications}\n}",
+  "citations": 87,
+  "added_date": "2025-06-06",
+  "url": "https://elifesciences.org/articles/46015"
+}

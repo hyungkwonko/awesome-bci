@@ -1,0 +1,33 @@
+{
+  "title": "Performance sustaining intracortical neural prostheses",
+  "authors": [
+    "Paul Nuyujukian",
+    "Jonathan C. Kao",
+    "Joline M. Fan",
+    "Sergey D. Stavisky",
+    "Stephen I. Ryu",
+    "Krishna V. Shenoy"
+  ],
+  "year": 2014,
+  "publication": "Journal of Neural Engineering",
+  "volume": "11",
+  "issue": "6",
+  "pages": "066003",
+  "abstract": "Neural prostheses, or brain-machine interfaces, aim to restore efficient communication and movement ability to those suffering from paralysis. A major challenge these systems face is robust performance, particularly with aging signal sources. This study develops a neural prosthesis capable of sustaining high performance despite signal instability while minimizing retraining time. Two rhesus macaques with implanted intracortical arrays controlled cursors neurally. In the monkey with better signal quality, a fixed decoder maintained 4 bps over a month and declined only slightly over 22 months. In the other, performance was sustained using prior data without extra retraining. The findings highlight decoder stability strategies and demonstrate the highest-performing communication neural prosthesis in monkeys to date.",
+  "keywords": [
+    "neural prosthesis",
+    "brain-machine interface",
+    "decoder stability",
+    "intracortical electrodes",
+    "cursor control",
+    "signal robustness",
+    "paralysis"
+  ],
+  "doi": "10.1088/1741-2560/11/6/066003",
+  "pdf": "https://iopscience.iop.org/article/10.1088/1741-2560/11/6/066003/pdf",
+  "code": "",
+  "bibtex": "@article{nuyujukian2014,\n  title={Performance sustaining intracortical neural prostheses},\n  author={Nuyujukian, Paul and Kao, Jonathan C. and Fan, Joline M. and Stavisky, Sergey D. and Ryu, Stephen I. and Shenoy, Krishna V.},\n  journal={Journal of Neural Engineering},\n  volume={11},\n  number={6},\n  pages={066003},\n  year={2014},\n  doi={10.1088/1741-2560/11/6/066003},\n  publisher={IOP Publishing}\n}",
+  "citations": 6161,
+  "added_date": "2025-06-06",
+  "url": "https://iopscience.iop.org/article/10.1088/1741-2560/11/6/066003"
+}

@@ -1,0 +1,41 @@
+{
+  "title": "An intuitive, bimanual, high-throughput QWERTY touch typing neuroprosthesis for people with tetraplegia",
+  "authors": [
+    "Justin J. Jude",
+    "Hadar Levi-Aharoni",
+    "Alexander J. Acosta",
+    "Shane B. Allcroft",
+    "Claire Nicolas",
+    "Bayardo E. Lacayo",
+    "Nicholas S. Card",
+    "Maitreyee Wairagkar",
+    "David M. Brandman",
+    "Sergey D. Stavisky",
+    "Francis R. Willett",
+    "Ziv M. Williams",
+    "John D. Simeral",
+    "Leigh R. Hochberg",
+    "Daniel B. Rubin"
+  ],
+  "year": 2025,
+  "publication": "medRxiv (preprint)",
+  "abstract": "Recognizing keyboard typing as a familiar, high information rate communication paradigm, we developed an intracortical brain computer interface (iBCI) typing neuroprosthesis providing bimanual QWERTY keyboard functionality for people with paralysis. Typing with this iBCI involves only attempted finger movements, which are decoded accurately with as few as 30 calibration sentences. Sentence decoding is improved using a 5-gram language model. This typing neuroprosthesis performed well for two iBCI clinical trial participants with tetraplegia - one with ALS and one with spinal cord injury. Typing speed is user-regulated, reaching 110 characters per minute, resulting in 22 words per minute with a word error rate of 1.6%. This resembles able-bodied typing accuracy and provides higher throughput than current state-of-the-art hand motor iBCI decoding. In summary, a typing neuroprosthesis decoding finger movements, provides an intuitive, familiar, and easy-to-learn paradigm for individuals with impaired communication due to paralysis.",
+  "keywords": [
+    "brain-computer interface",
+    "intracortical BCI",
+    "typing neuroprosthesis",
+    "tetraplegia",
+    "finger movement decoding",
+    "QWERTY keyboard",
+    "communication restoration"
+  ],
+  "doi": "10.1101/2025.04.01.25324990",
+  "pdf": "https://www.medrxiv.org/content/10.1101/2025.04.01.25324990v1.full.pdf",
+  "code": "",
+  "bibtex": "@article{jude2025,\n  title={An intuitive, bimanual, high-throughput QWERTY touch typing neuroprosthesis for people with tetraplegia},\n  author={Jude, Justin J. and Levi-Aharoni, Hadar and Acosta, Alexander J. and Allcroft, Shane B. and Nicolas, Claire and Lacayo, Bayardo E. and Card, Nicholas S. and Wairagkar, Maitreyee and Brandman, David M. and Stavisky, Sergey D. and Willett, Francis R. and Williams, Ziv M. and Simeral, John D. and Hochberg, Leigh R. and Rubin, Daniel B.},\n  journal={medRxiv},\n  year={2025},\n  doi={10.1101/2025.04.01.25324990},\n  note={Preprint}\n}",
+  "citations": 0,
+  "added_date": "2025-06-06",
+  "volume": "",
+  "pages": "",
+  "url": "https://www.medrxiv.org/content/10.1101/2025.04.01.25324990v1"
+}
