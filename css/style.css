@@ -490,7 +490,7 @@ p {
 }
 
 /* Loading and No Results */
-.loading, .no-results {
+.loading:not(.btn-count), .no-results {
     text-align: center;
     padding: 3rem 0;
 }
