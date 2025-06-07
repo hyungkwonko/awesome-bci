@@ -317,27 +317,52 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
 // Update stats on homepage
 async function updateStats() {
     try {
+        // Function to get the correct base path for GitHub Pages
+        function getBasePath() {
+            const hostname = window.location.hostname;
+            const pathname = window.location.pathname;
+            
+            if (hostname.includes('github.io')) {
+                const pathParts = pathname.split('/').filter(part => part);
+                if (pathParts.length > 0) {
+                    return `/${pathParts[0]}`;
+                }
+            }
+            return '';
+        }
+
+        const basePath = getBasePath();
+        
         const papersCount = document.getElementById('papers-count');
         const datasetsCount = document.getElementById('datasets-count');
         const resourcesCount = document.getElementById('resources-count');
         
         if (papersCount) {
-            const papers = await fetchJSON('../pages/item-papers');
+            const papers = await fetchJSON(`${basePath}/pages/item-papers`);
             animateCounter(papersCount, papers.length);
         }
         
         if (datasetsCount) {
-            const datasets = await fetchJSON('../pages/item-datasets');
+            const datasets = await fetchJSON(`${basePath}/pages/item-datasets`);
             animateCounter(datasetsCount, datasets.length);
         }
         
         if (resourcesCount) {
-            const tools = await fetchJSON('../pages/item-resources', 'tools');
-            const media = await fetchJSON('../pages/item-resources', 'media');
+            const tools = await fetchJSON(`${basePath}/pages/item-resources`, 'tools');
+            const media = await fetchJSON(`${basePath}/pages/item-resources`, 'media');
             animateCounter(resourcesCount, tools.length + media.length);
         }
     } catch (error) {
         console.error('Error updating stats:', error);
+        
+        // Fallback: set counts to 0 if there's an error
+        const papersCount = document.getElementById('papers-count');
+        const datasetsCount = document.getElementById('datasets-count');
+        const resourcesCount = document.getElementById('resources-count');
+        
+        if (papersCount) papersCount.textContent = '0';
+        if (datasetsCount) datasetsCount.textContent = '0';
+        if (resourcesCount) resourcesCount.textContent = '0';
     }
 }
 
