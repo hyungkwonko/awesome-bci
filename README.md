@@ -1,5 +1,7 @@
 # 🧠 Awesome Brain-Computer Interface Resources
 
+![fig](./teaser.png)
+
 A community-driven hub for high-quality resources on brain–computer interfaces (BCIs), including curated research papers, datasets, tools, top research institutions, and more.
 
 🌐 **Website**: [hyungkwonko.info/awesome-bci/](https://hyungkwonko.info/awesome-bci/)
