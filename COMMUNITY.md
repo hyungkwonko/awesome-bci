@@ -72,7 +72,15 @@ A curated list of leading academic and industry labs advancing brain-computer in
 
 ---
 
-## 7. Synchron – Endovascular BCI
+## 8. Stanford University – Brain Interfacing Laboratory
+- **Website:** [bil.stanford.edu](https://bil.stanford.edu/)
+- **Publications:** [bil.stanford.edu/pubs](https://bil.stanford.edu/pubs)
+- **Notable Publications:**
+  - [Neural population dynamics during reaching](https://www.nature.com/articles/nature11129) – *Nature*, 2012
+
+---
+
+## 9. Synchron – Endovascular BCI
 - **Website:** [synchron.com](https://synchron.com)
 - **Publications:** [synchron.com/research](https://synchron.com/research)
 - **Notable Publications:**
@@ -81,7 +89,7 @@ A curated list of leading academic and industry labs advancing brain-computer in
 
 ---
 
-## 8. Neuralink
+## 10. Neuralink
 - **Website:** [neuralink.com](https://neuralink.com)
 - **Publications:** [neuralink.com/blog](https://neuralink.com/blog/)
 - **Notable Publications:**
@@ -90,7 +98,7 @@ A curated list of leading academic and industry labs advancing brain-computer in
 
 ---
 
-## 9. Blackrock Neurotech
+## 11. Blackrock Neurotech
 - **Website:** [blackrockneurotech.com](https://blackrockneurotech.com)
 - **Publications:** [blackrockneurotech.com/for-researchers/](https://blackrockneurotech.com/for-researchers/)
 - **Notable Publications:**
@@ -99,7 +107,7 @@ A curated list of leading academic and industry labs advancing brain-computer in
 
 ---
 
-## 10. Meta – Reality Labs & FAIR (Fundamental AI Research)
+## 12. Meta – Reality Labs & FAIR (Fundamental AI Research)
 - **Website:** [realitylabs.meta.com](https://realitylabs.meta.com)
 - **Publications:** [ai.meta.com/research](https://ai.meta.com/research)
 - **Notable Publications:**
