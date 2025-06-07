@@ -348,9 +348,8 @@ async function updateStats() {
         }
         
         if (resourcesCount) {
-            const tools = await fetchJSON(`${basePath}/pages/item-resources`, 'tools');
-            const media = await fetchJSON(`${basePath}/pages/item-resources`, 'media');
-            animateCounter(resourcesCount, tools.length + media.length);
+            const tools = await fetchJSON(`${basePath}/pages/item-resources`);
+            animateCounter(resourcesCount, tools.length);
         }
     } catch (error) {
         console.error('Error updating stats:', error);
