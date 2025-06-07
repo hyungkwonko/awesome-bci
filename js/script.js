@@ -146,7 +146,6 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
         
-        loadRecentItems();
         updateStats();
     } else if (currentPath.includes('papers.html')) {
         loadPapers();
@@ -315,93 +314,6 @@ function renderPagination(container, currentPage, totalPages, onPageChange) {
     container.appendChild(nextBtn);
 }
 
-// Load the most recent items for the homepage
-async function loadRecentItems() {
-    try {
-        // Load recent papers
-        const papers = await fetchJSON('../pages/item-papers');
-        if (papers && papers.length) {
-            const recentPapers = papers
-                .sort((a, b) => b.year - a.year)
-                .slice(0, 5);
-            
-            displayRecentPapers(recentPapers);
-        }
-        
-        // Load recent datasets
-        const datasets = await fetchJSON('../pages/item-datasets');
-        if (datasets && datasets.length) {
-            const recentDatasets = datasets
-                .sort((a, b) => b.year - a.year)
-                .slice(0, 5);
-            
-            displayRecentDatasets(recentDatasets);
-        }
-    } catch (error) {
-        console.error('Error loading recent items:', error);
-    }
-}
-
-// Display recent papers on homepage
-function displayRecentPapers(papers) {
-    const container = document.getElementById('recent-papers');
-    if (!container) return;
-    
-    container.innerHTML = '';
-    
-    papers.forEach(paper => {
-        const paperItem = document.createElement('div');
-        paperItem.className = 'resource-item';
-        
-        const html = `
-            <h3>${paper.title}</h3>
-            <div class="meta">
-                <span>${paper.authors.join(', ')}</span> · 
-                <span>${paper.year}</span> · 
-                <span>${paper.publication}</span>
-            </div>
-            <div class="links">
-                ${paper.url ? `<a href="${paper.url}" target="_blank"><i class="fas fa-external-link-alt"></i> URL</a>` : ''}
-                ${paper.pdf ? `<a href="${paper.pdf}" target="_blank"><i class="fas fa-file-pdf"></i> PDF</a>` : ''}
-                ${paper.code ? `<a href="${paper.code}" target="_blank"><i class="fas fa-code"></i> Code</a>` : ''}
-            </div>
-        `;
-        
-        paperItem.innerHTML = html;
-        container.appendChild(paperItem);
-    });
-}
-
-// Display recent datasets on homepage
-function displayRecentDatasets(datasets) {
-    const container = document.getElementById('recent-datasets');
-    if (!container) return;
-    
-    container.innerHTML = '';
-    
-    datasets.forEach(dataset => {
-        const datasetItem = document.createElement('div');
-        datasetItem.className = 'resource-item';
-        
-        const html = `
-            <h3>${dataset.title}</h3>
-            <div class="meta">
-                <span>${dataset.authors.join(', ')}</span> · 
-                <span>${dataset.year}</span>
-            </div>
-            <p>${dataset.description.substring(0, 150)}${dataset.description.length > 150 ? '...' : ''}</p>
-            <div class="links">
-                ${dataset.url ? `<a href="${dataset.url}" target="_blank"><i class="fas fa-external-link-alt"></i> Website</a>` : ''}
-                ${dataset.download ? `<a href="${dataset.download}" target="_blank"><i class="fas fa-download"></i> Download</a>` : ''}
-                ${dataset.paper ? `<a href="${dataset.paper}" target="_blank"><i class="fas fa-file-alt"></i> Paper</a>` : ''}
-            </div>
-        `;
-        
-        datasetItem.innerHTML = html;
-        container.appendChild(datasetItem);
-    });
-}
-
 // Update stats on homepage
 async function updateStats() {
     try {
@@ -411,22 +323,48 @@ async function updateStats() {
         
         if (papersCount) {
             const papers = await fetchJSON('../pages/item-papers');
-            papersCount.textContent = papers.length;
+            animateCounter(papersCount, papers.length);
         }
         
         if (datasetsCount) {
             const datasets = await fetchJSON('../pages/item-datasets');
-            datasetsCount.textContent = datasets.length;
+            animateCounter(datasetsCount, datasets.length);
         }
         
         if (resourcesCount) {
             const tools = await fetchJSON('../pages/item-resources', 'tools');
             const media = await fetchJSON('../pages/item-resources', 'media');
-            resourcesCount.textContent = tools.length + media.length;
+            animateCounter(resourcesCount, tools.length + media.length);
         }
     } catch (error) {
         console.error('Error updating stats:', error);
     }
+}
+
+// Add this helper function
+function animateCounter(element, targetValue) {
+    const duration = 1500; // 1.5 seconds
+    const startValue = 0;
+    const startTime = performance.now();
+    
+    function updateCounter(currentTime) {
+        const elapsed = currentTime - startTime;
+        const progress = Math.min(elapsed / duration, 1);
+        
+        // Easing function for smooth animation
+        const easeOutQuart = 1 - Math.pow(1 - progress, 4);
+        const currentValue = Math.floor(startValue + (targetValue - startValue) * easeOutQuart);
+        
+        element.textContent = currentValue;
+        
+        if (progress < 1) {
+            requestAnimationFrame(updateCounter);
+        } else {
+            element.textContent = targetValue; // Ensure final value is exact
+        }
+    }
+    
+    requestAnimationFrame(updateCounter);
 }
 
 // Load papers for papers.html
@@ -609,8 +547,6 @@ function filterAndSortPapers(papers, searchTerm, sortOption) {
 async function loadDatasets() {
     try {
         const datasets = await fetchJSON('./item-datasets');
-        datasets.sort((a, b) => b.year - a.year); // sort
-
         const container = document.getElementById('datasets-list');
         const loading = document.getElementById('loading-datasets');
         const noResults = document.getElementById('no-datasets-results');
@@ -624,53 +560,69 @@ async function loadDatasets() {
             return;
         }
         
-        // Set up pagination
+        // Set up pagination variables
         const itemsPerPage = 10;
         let currentPage = 1;
-        const totalPages = Math.ceil(datasets.length / itemsPerPage);
+        let filteredDatasets = [...datasets].sort((a, b) => b.year - a.year); // Sort by newest first initially
+        
+        // Function to update pagination and display
+        function updateDatasetsDisplay() {
+            const totalPages = Math.ceil(filteredDatasets.length / itemsPerPage);
+            
+            // Ensure current page is valid
+            if (currentPage > totalPages && totalPages > 0) {
+                currentPage = totalPages;
+            } else if (currentPage < 1) {
+                currentPage = 1;
+            }
+            
+            renderDatasetsPage(filteredDatasets, container, currentPage, itemsPerPage);
+            
+            if (paginationContainer && totalPages > 1) {
+                renderPagination(paginationContainer, currentPage, totalPages, (page) => {
+                    console.log(`Navigating to datasets page ${page}`); // Debug log
+                    currentPage = page;
+                    updateDatasetsDisplay();
+                });
+            } else if (paginationContainer) {
+                paginationContainer.innerHTML = ''; // Clear pagination if only one page
+            }
+            
+            // Show/hide no results message
+            if (filteredDatasets.length === 0) {
+                noResults.classList.remove('hidden');
+                container.style.display = 'none';
+            } else {
+                noResults.classList.add('hidden');
+                container.style.display = '';
+            }
+        }
         
         // Initial render
-        renderDatasetsPage(datasets, container, currentPage, itemsPerPage);
-        renderPagination(paginationContainer, currentPage, totalPages, (page) => {
-            currentPage = page;
-            renderDatasetsPage(datasets, container, currentPage, itemsPerPage);
-        });
-        
+        updateDatasetsDisplay();
         loading.classList.add('hidden');
         
-        // Set up search and sorting
+        // Set up search functionality
         const searchInput = document.getElementById('search-datasets');
         const sortSelect = document.getElementById('sort-datasets');
         
         if (searchInput) {
             searchInput.addEventListener('input', () => {
-                const filtered = filterAndSortDatasets(datasets, searchInput.value, sortSelect.value);
-                const newTotalPages = Math.ceil(filtered.length / itemsPerPage);
+                const searchTerm = searchInput.value;
+                const sortOption = sortSelect ? sortSelect.value : 'year-desc';
+                filteredDatasets = filterAndSortDatasets(datasets, searchTerm, sortOption);
                 currentPage = 1; // Reset to first page when searching
-                renderDatasetsPage(filtered, container, currentPage, itemsPerPage);
-                renderPagination(paginationContainer, currentPage, newTotalPages, (page) => {
-                    currentPage = page;
-                    renderDatasetsPage(filtered, container, currentPage, itemsPerPage);
-                });
-                
-                if (filtered.length === 0) {
-                    noResults.classList.remove('hidden');
-                } else {
-                    noResults.classList.add('hidden');
-                }
+                updateDatasetsDisplay();
             });
         }
         
         if (sortSelect) {
             sortSelect.addEventListener('change', () => {
-                const filtered = filterAndSortDatasets(datasets, searchInput.value, sortSelect.value);
-                const newTotalPages = Math.ceil(filtered.length / itemsPerPage);
+                const searchTerm = searchInput ? searchInput.value : '';
+                const sortOption = sortSelect.value;
+                filteredDatasets = filterAndSortDatasets(datasets, searchTerm, sortOption);
                 currentPage = 1; // Reset to first page when sorting
-                renderDatasetsPage(filtered, container, currentPage, itemsPerPage);
-                renderPagination(paginationContainer, currentPage, newTotalPages, (page) => {
-                    currentPage = page;
-                    renderDatasetsPage(filtered, container, currentPage, itemsPerPage);
-                });
+                updateDatasetsDisplay();
             });
         }
     } catch (error) {
@@ -682,12 +634,19 @@ async function loadDatasets() {
 
 // Render datasets for a specific page
 function renderDatasetsPage(datasets, container, currentPage, itemsPerPage) {
-    container.innerHTML = '';
-    
+    if (!container) {
+        console.error('Container not found for rendering datasets');
+        return;
+    }
+
+    console.log(`Rendering datasets ${currentPage} with ${datasets.length} total datasets`); // Debug log
+
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = Math.min(startIndex + itemsPerPage, datasets.length);
     const paginatedDatasets = datasets.slice(startIndex, endIndex);
-    
+
+    console.log(`Showing datasets ${startIndex + 1} to ${endIndex} of ${datasets.length}`); // Debug log    
+
     renderDatasetsTable(paginatedDatasets, container);
 }
 
@@ -697,23 +656,32 @@ function renderDatasetsTable(datasets, container) {
     
     datasets.forEach(dataset => {
         const row = document.createElement('tr');
+        row.className = 'dataset-row'; // Add class for styling
+        
+        // Safe handling of description field
+        const description = dataset.description || '';
+        const truncatedDescription = description.length > 200 
+            ? `${description.substring(0, 200)}...` 
+            : description;
         
         row.innerHTML = `
             <td>
-                <span class="dataset-title">${dataset.title}</span>
+                <span class="dataset-title">${escapeHtml(dataset.title || 'Untitled')}</span>
             </td>
-            <td>${dataset.authors.join(', ')}</td>
-            <td>${dataset.year}</td>
-            <td>${dataset.description.substring(0, 200)}${dataset.description.length > 200 ? '...' : ''}</td>
-            <td class="links">
-                ${dataset.download ? `<a href="${dataset.download}" target="_blank" class="link-btn" title="Download"><i class="fas fa-download"></i></a>` : ''}
-                ${dataset.code ? `<a href="${dataset.code}" target="_blank" class="link-btn" title="Code"><i class="fab fa-github"></i></a>` : ''}
-                ${dataset.url ? `<a href="${dataset.url}" target="_blank" class="link-btn" title="Website"><i class="fas fa-external-link-alt"></i></a>` : ''}
+            <td class="authors-cell">${escapeHtml((dataset.authors || []).join(', '))}</td>
+            <td class="year-cell">${dataset.year || 'N/A'}</td>
+            <td class="description-cell">${escapeHtml(truncatedDescription)}</td>
+            <td class="links-cell">
+                ${dataset.download ? `<a href="${escapeHtml(dataset.download)}" target="_blank" class="link-btn" title="Download" rel="noopener noreferrer"><i class="fas fa-download"></i></a>` : ''}
+                ${dataset.code ? `<a href="${escapeHtml(dataset.code)}" target="_blank" class="link-btn" title="Code" rel="noopener noreferrer"><i class="fab fa-github"></i></a>` : ''}
+                ${dataset.url ? `<a href="${escapeHtml(dataset.url)}" target="_blank" class="link-btn" title="Website" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>` : ''}
             </td>
         `;
         
         container.appendChild(row);
     });
+    
+    console.log(`Rendered ${datasets.length} datasets in table`); // Debug log
 }
 
 // Filter and sort datasets
@@ -721,10 +689,10 @@ function filterAndSortDatasets(datasets, searchTerm, sortOption) {
     // Filter datasets based on search term
     const filteredDatasets = datasets.filter(dataset => {
         const term = searchTerm.toLowerCase();
-        return dataset.title.toLowerCase().includes(term) || 
-               dataset.authors.some(author => author.toLowerCase().includes(term)) ||
-               dataset.description.toLowerCase().includes(term) ||
-               dataset.year.toString().includes(term);
+        return (dataset.title || '').toLowerCase().includes(term) || 
+               (dataset.authors || []).some(author => author.toLowerCase().includes(term)) ||
+               (dataset.description || '').toLowerCase().includes(term) ||
+               (dataset.year || '').toString().includes(term);
     });
     
     // Sort datasets based on sort option
