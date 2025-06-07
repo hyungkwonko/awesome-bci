@@ -16,8 +16,8 @@ Before you begin, make sure you have:
 1. Fork this repository by clicking the "Fork" button on GitHub
 2. Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/awesome-brain-computer-interface.git
-   cd awesome-brain-computer-interface
+   git clone https://github.com/YOUR_USERNAME/awesome-bci.git
+   cd awesome-bci
    ```
 
 ### 2. Navigate to the Papers Directory
