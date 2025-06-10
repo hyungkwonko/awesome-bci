@@ -1,0 +1,32 @@
+{
+  "title": "Rapid adaptation of brain-computer interfaces to new neuronal ensembles or participants via generative modelling",
+  "authors": [
+    "Shixian Wen",
+    "Allen Yin",
+    "Tommaso Furlanello",
+    "M. G. Perich",
+    "L. E. Miller",
+    "Laurent Itti"
+  ],
+  "year": 2023,
+  "publication": "Nature Biomedical Engineering",
+  "volume": "7",
+  "pages": "546-558",
+  "abstract": "For brain-computer interfaces (BCIs), obtaining sufficient training data for algorithms that map neural signals onto actions can be difficult, expensive or even impossible. Here we report the development and use of a generative model—a model that synthesizes a virtually unlimited number of new data distributions from a learned data distribution—that learns mappings between hand kinematics and the associated neural spike trains. The generative spike-train synthesizer is trained on data from one recording session with a monkey performing a reaching task and can be rapidly adapted to new sessions or monkeys by using limited additional neural data. We show that the model can be adapted to synthesize new spike trains, accelerating the training and improving the generalization of BCI decoders. The approach is fully data-driven, and hence, applicable to applications of BCIs beyond motor control.",
+  "keywords": [
+    "brain-computer interface",
+    "generative model",
+    "neural decoding",
+    "spike train synthesis",
+    "motor control",
+    "neural adaptation",
+    "BCI generalization"
+  ],
+  "doi": "10.1038/s41551-021-00811-z",
+  "pdf": "",
+  "code": "",
+  "bibtex": "@article{wen2023,\n  title={Rapid adaptation of brain--computer interfaces to new neuronal ensembles or participants via generative modelling},\n  author={Wen, Shixian and Yin, Allen and Furlanello, Tommaso and Perich, M. G. and Miller, L. E. and Itti, Laurent},\n  journal={Nature Biomedical Engineering},\n  volume={7},\n  pages={546--558},\n  year={2023},\n  doi={10.1038/s41551-021-00811-z},\n  publisher={Nature Publishing Group}\n}",
+  "citations": 29,
+  "added_date": "2025-06-06",
+  "url": "https://www.nature.com/articles/s41551-021-00811-z"
+}

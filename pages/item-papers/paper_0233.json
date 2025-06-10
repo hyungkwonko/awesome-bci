@@ -1,0 +1,30 @@
+{
+  "title": "Brain-to-Text Benchmark '24: Lessons Learned",
+  "authors": [
+    "Francis R. Willett",
+    "Jingyuan Li",
+    "Trung Le",
+    "Chaofei Fan",
+    "Mingfei Chen",
+    "Eli Shlizerman",
+    "Yue Chen",
+    "Xin Zheng",
+    "Tatsuo S. Okubo",
+    "Tyler Benster",
+    "Hyun Dong Lee",
+    "Maxwell Kounga",
+    "E. Kelly Buchanan",
+    "David Zoltowski",
+    "Scott W. Linderman",
+    "Jaimie M. Henderson"
+  ],
+  "year": 2024,
+  "publication": "Arxiv",
+  "abstract": "Speech brain-computer interfaces aim to decipher what a person is trying to say from neural activity alone, restoring communication to people with paralysis who have lost the ability to speak intelligibly. The Brain-to-Text Benchmark '24 and associated competition was created to foster the advancement of decoding algorithms that convert neural activity to text. Here, we summarize the lessons learned from the competition ending on June 1, 2024 (the top 4 entrants also presented their experiences in a recorded webinar). The largest improvements in accuracy were achieved using an ensembling approach, where the output of multiple independent decoders was merged using a fine-tuned large language model (an approach used by all 3 top entrants). Performance gains were also found by improving how the baseline recurrent neural network (RNN) model was trained, including by optimizing learning rate scheduling and by using a diphone training objective. Improving upon the model architecture itself proved more difficult, however, with attempts to use deep state space models or transformers not yet appearing to offer a benefit over the RNN baseline. The benchmark will remain open indefinitely to support further work towards increasing the accuracy of brain-to-text algorithms.",
+  "keywords": [
+    "brain-computer interface"
+  ],
+  "doi": "10.48550/arXiv.2412.17227",
+  "pdf": "https://arxiv.org/pdf/2412.17227",
+  "url": "https://arxiv.org/abs/2412.17227"
+}
