@@ -26,12 +26,8 @@
   "number_of_subjects": 1,
   "number_of_channels": "Varies by modality (e.g., high-density ECoG grid, Utah array)",
   "sampling_rate": "Not specified; modality-dependent",
-  "url": "https://www.nature.com/articles/s41593-025-01905-6#data-availability",
-  "download": {
-    "ECoG": "https://doi.org/10.7910/DVN/8TQKC8",
-    "EMG": "https://doi.org/10.5281/ZENODO.4064409",
-    "MEA": "https://doi.org/10.5061/dryad.x69p8czpq"
-  },
+  "url": "https://www.nature.com/articles/s41593-025-01905-6",
+  "download": "https://www.nature.com/articles/s41593-025-01905-6#data-availability",
   "paper": "https://www.nature.com/articles/s41593-025-01905-6",
   "code": "https://github.com/cheoljun95/streaming.braindecoder",
   "citation": "Littlejohn K. T., Cho C. J., Liu J. R., et al. (2025). A streaming brain-to-voice neuroprosthesis to restore naturalistic communication. Nature Neuroscience, 28, 902–912.",
