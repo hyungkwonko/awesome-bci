@@ -1,0 +1,25 @@
+{
+  "title": "A multi-modal dataset of electroencephalography and functional near-infrared spectroscopy recordings for motor imagery of multi-types of joints from unilateral upper limb",
+  "authors": [
+    "Weibo Yi",
+    "Jiaming Chen",
+    "Dan Wang",
+    "Xinkang Hu",
+    "Meng Xu",
+    "Fangda Li",
+    "Shuhan Wu",
+    "Jin Qian"
+  ],
+  "year": 2025,
+  "publication": "Scientific Data",
+  "abstract": "As one of the important brain-computer interface (BCI) paradigms, motor imagery (MI) enables the control of external devices via identification of motor intention by decoding the features of Electroencephalography (EEG). Movement imagination of multi-types of joints from the same limb allows the development of more accurate and intuitive BCI systems. In this work, we reported an open dataset including EEG and functional near-infrared spectroscopy (fNIRS) recordings from 18 subjects performing eight MI tasks from four types of joints including hand open/close, wrist flexion/extension, wrist abduction/adduction, elbow pronation/supination, elbow flexion/extension, shoulder pronation/supination, shoulder abduction/adduction, and shoulder flexion/extension, resulting in a total of 5760 trials. The validity of multi-modal data was verified both from the EEG/fNIRS activation patterns and the classification performance. It is expected that this dataset will facilitate the development and innovation of decoding algorithms for MI of multi-types of joints based on multi-modal EEG-fNIRS data.",
+  "keywords": [
+    "motor imagery",
+    "brain-computer interface",
+    "EEG",
+    "fNIRS",
+    "multi-modal dataset"
+  ],
+  "pdf": "https://www.nature.com/articles/s41597-025-05286-0.pdf",
+  "url": "https://www.nature.com/articles/s41597-025-05286-0"
+}
