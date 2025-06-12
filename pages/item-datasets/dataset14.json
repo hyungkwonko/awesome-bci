@@ -1,0 +1,29 @@
+{
+  "title": "An instantaneous voice-synthesis neuroprosthesis",
+  "authors": [
+    "Maitreyee Wairagkar",
+    "Nicholas S. Card",
+    "Tyler Singer-Clark",
+    "Xianda Hou",
+    "Carrina Iacobacci",
+    "Leigh R. Hochberg",
+    "David M. Brandman",
+    "Sergey D. Stavisky"
+  ],
+  "year": 2025,
+  "publication": "Nature",
+  "abstract": "Brain computer interfaces (BCIs) have the potential to restore communication to people who have lost the ability to speak due to neurological disease or injury. BCIs have been used to translate the neural correlates of attempted speech into text. However, text communication fails to capture the nuances of human speech such as prosody, intonation and immediately hearing one's own voice. Here, we demonstrate a “brain-to-voice” neuroprosthesis that instantaneously synthesizes voice with closed-loop audio feedback by decoding neural activity from 256 microelectrodes implanted into the ventral precentral gyrus of a man with amyotrophic lateral sclerosis and severe dysarthria. We overcame the challenge of lacking ground-truth speech for training the neural decoder and were able to accurately synthesize his voice. Along with phonemic content, we were also able to decode paralinguistic features from intracortical activity, enabling the participant to modulate his BCI-synthesized voice in real-time to change intonation, emphasize words, and sing short melodies. These results demonstrate the feasibility of enabling people with paralysis to speak intelligibly and expressively through a BCI.",
+  "keywords": [
+    "brain-computer interface",
+    "speech synthesis",
+    "neuroprosthetics",
+    "amyotrophic lateral sclerosis",
+    "intracortical decoding",
+    "voice feedback",
+    "paralinguistic features"
+  ],
+  "url": "https://www.nature.com/articles/s41586-025-09127-3",
+  "download": "https://datadryad.org/dataset/doi:10.5061/dryad.2280gb64f",
+  "paper": "https://www.nature.com/articles/s41586-025-09127-3",
+  "code": "https://github.com/Neuroprosthetics-Lab/brain-to-voice-2025"
+}
