@@ -1,0 +1,33 @@
+{
+  "title": "Changes in cortical beta power predict motor control flexibility, not vigor",
+  "authors": [
+    "Emeline Pierrieau",
+    "Claire Dussard",
+    "Axel Plantey--Veux",
+    "Cloé Guerrini",
+    "Brian Lau",
+    "Léa Pillette",
+    "Nathalie George",
+    "Camille Jeunet-Kelway"
+  ],
+  "year": 2025,
+  "publication": "Communications Biology",
+  "volume": 8,
+  "article_number": 1041,
+  "date_published": "2025-07-11",
+  "abstract": "The amplitude of beta-band activity (β power; 13-30 Hz) over motor cortical regions is used to assess and decode movement in clinical settings and brain-computer interfaces, as β power is often assumed to predict the strength of the brain's motor output, or “vigor”. However, recent conflicting evidence challenges this assumption and underscores the need to clarify the relationship between β power and movement. In this study, sixty participants were trained to self-regulate β power using electroencephalography-based neurofeedback before performing different motor tasks. Results show that β power modulations can impact different motor variables, or the same variables in opposite directions, depending on task constraints. Importantly, downregulation of β power is associated with better task performance regardless of whether performance implied increasing or decreasing motor vigor. These findings demonstrate that β power should be interpreted as a measure of motor flexibility, which underlies adaptation to environmental constraints, rather than vigor.",
+  "keywords": [
+    "cortical beta power",
+    "motor control",
+    "neurofeedback",
+    "EEG",
+    "brain-computer interface",
+    "motor flexibility"
+  ],
+  "metrics": {
+    "accesses": 1295,
+    "altmetric": 1
+  },
+  "url": "https://www.nature.com/articles/s42003-025-08465-2",
+  "pdf": "https://www.nature.com/articles/s42003-025-08465-2.pdf"
+}

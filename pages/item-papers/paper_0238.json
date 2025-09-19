@@ -1,0 +1,24 @@
+{
+  "title": "Motion artifact-controlled micro-brain sensors between hair follicles for persistent augmented reality brain-computer interfaces",
+  "authors": [
+    "Hodam Kim",
+    "Ju Hyeon Kim",
+    "Yoon Jae Lee",
+    "Woon-Hong Yeo",
+    "+15 others"
+  ],
+  "year": 2025,
+  "publication": "Proceedings of the National Academy of Sciences (PNAS)",
+  "abstract": "Modern brain-computer interfaces (BCI), utilizing electroencephalograms for bidirectional human-machine communication, face significant limitations from movement-vulnerable rigid sensors, inconsistent skin-electrode impedance, and bulky electronics, diminishing the system's continuous use and portability. Here, we introduce motion artifact-controlled micro-brain sensors between hair strands, enabling ultralow impedance density on skin contact for long-term usable, persistent BCI with augmented reality (AR). An array of low-profile microstructured electrodes with a highly conductive polymer is seamlessly inserted into the space between hair follicles, offering high-fidelity neural signal capture for up to 12 h while maintaining the lowest contact impedance density (0.03 kΩ·cm-2) among reported articles. Implemented wireless BCI, detecting steady-state visually evoked potentials, offers 96.4% accuracy in signal classification with a train-free algorithm even during the subject's excessive motions, including standing, walking, and running. A demonstration captures this system's capability, showing AR-based video calling with hands-free controls using brain signals, transforming digital communication. Collectively, this research highlights the pivotal role of integrated sensors and flexible electronics technology in advancing BCI's applications for interactive digital environments.",
+  "keywords": [
+    "brain-computer interface",
+    "augmented reality",
+    "wearable sensors",
+    "EEG",
+    "motion artifact reduction",
+    "flexible electronics"
+  ],
+  "doi": "10.1073/pnas.2419304122",
+  "pdf": "https://www.pnas.org/doi/pdf/10.1073/pnas.2419304122",
+  "url": "https://www.pnas.org/doi/10.1073/pnas.2419304122"
+}

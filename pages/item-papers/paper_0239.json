@@ -1,0 +1,28 @@
+{
+  "title": "Brain-computer interface control with artificial intelligence copilots",
+  "authors": [
+    "Johannes Y. Lee",
+    "Sangjoon Lee",
+    "Abhishek Mishra",
+    "Xu Yan",
+    "Brandon McMahan",
+    "Brent Gaisford",
+    "Charles Kobashigawa",
+    "Mike Qu",
+    "Chang Xie",
+    "Jonathan C. Kao"
+  ],
+  "year": 2025,
+  "publication": "Nature Machine Intelligence",
+  "abstract": "Motor brain-computer interfaces (BCIs) decode neural signals to help people with paralysis move and communicate. Even with important advances in the past two decades, BCIs face a key obstacle to clinical viability: BCI performance should strongly outweigh costs and risks. To significantly increase the BCI performance, we use shared autonomy, where artificial intelligence (AI) copilots collaborate with BCI users to achieve task goals. We demonstrate this AI-BCI in a non-invasive BCI system decoding electroencephalography signals. We first contribute a hybrid adaptive decoding approach using a convolutional neural network and ReFIT-like Kalman filter, enabling healthy users and a participant with paralysis to control computer cursors and robotic arms via decoded electroencephalography signals. We then design two AI copilots to aid BCI users in a cursor control task and a robotic arm pick-and-place task. We demonstrate AI-BCIs that enable a participant with paralysis to achieve 3.9-times-higher performance in target hit rate during cursor control and control a robotic arm to sequentially move random blocks to random locations, a task they could not do without an AI copilot. As AI copilots improve, BCIs designed with shared autonomy may achieve higher performance.",
+  "keywords": [
+    "brain-computer interface",
+    "AI copilots",
+    "shared autonomy",
+    "electroencephalography",
+    "neural decoding"
+  ],
+  "doi": "10.1038/s42256-025-01090-y",
+  "pdf": "https://www.nature.com/articles/s42256-025-01090-y.pdf",
+  "url": "https://www.nature.com/articles/s42256-025-01090-y"
+}

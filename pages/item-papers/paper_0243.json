@@ -1,0 +1,23 @@
+{
+  "title": "EEG-based brain-computer interface enables real-time robotic hand control at individual finger level",
+  "authors": [
+    "Yidan Ding",
+    "Chalisa Udompanyawit",
+    "Yisha Zhang",
+    "Bin He"
+  ],
+  "year": 2025,
+  "publication": "Nature Communications",
+  "abstract": "Brain-computer interfaces (BCIs) connect human thoughts to external devices, offering the potential to enhance life quality for individuals with motor impairments and general population. Noninvasive BCIs are accessible to a wide audience but currently face challenges, including unintuitive mappings and imprecise control. In this study, we present a real-time noninvasive robotic control system using movement execution (ME) and motor imagery (MI) of individual finger movements to drive robotic finger motions. The proposed system advances state-of-the-art electroencephalography (EEG)-BCI technology by decoding brain signals for intended finger movements into corresponding robotic motions. In a study involving 21 able-bodied experienced BCI users, we achieved real-time decoding accuracies of 80.56% for two-finger MI tasks and 60.61% for three-finger tasks. Brain signal decoding was facilitated using a deep neural network, with fine-tuning enhancing BCI performance. Our findings demonstrate the feasibility of naturalistic noninvasive robotic hand control at the individuated finger level.",
+  "keywords": [
+    "brain-computer interface",
+    "EEG",
+    "robotic hand control",
+    "motor imagery",
+    "movement execution",
+    "deep neural network"
+  ],
+  "doi": "10.1038/s41467-025-61064-x",
+  "pdf": "https://www.nature.com/articles/s41467-025-61064-x.pdf",
+  "url": "https://www.nature.com/articles/s41467-025-61064-x"
+}

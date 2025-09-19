@@ -1,0 +1,26 @@
+{
+  "title": "From adaptive deep brain stimulation to adaptive circuit targeting",
+  "authors": [
+    "Andreas Horn",
+    "Wolf-Julian Neumann"
+  ],
+  "year": 2025,
+  "publication": "Nature Reviews Neurology",
+  "type": "Perspective",
+  "date": "2025-09-03",
+  "abstract": "Deep brain stimulation (DBS) substantially improves motor symptoms and quality of life in people with movement disorders such as Parkinson disease and dystonia, and it is also being explored as a treatment option for other brain disorders, including treatment-resistant obsessive-compulsive disorder, Alzheimer disease and depression. Two major developments are currently driving progress in DBS research: first, the framework of adaptive DBS, which senses brain activity to infer the momentary state of the symptoms of a patient and reacts by adapting stimulation settings, and second, the concept of connectomic DBS, which identifies brain circuits that should optimally be stimulated to reduce specific symptoms. In this Perspective, we propose a unified framework that combines these two concepts. Our approach, termed adaptive circuit targeting, decodes symptom severity from brain signals and adaptively activates the most relevant symptom-response circuits. We discuss the state of the art in the adaptive and connectomic DBS fields and the research gaps that need to be addressed to unify these concepts.",
+  "metrics": {
+    "accesses": 973,
+    "altmetric": 24
+  },
+  "url": "https://www.nature.com/articles/s41582-025-01131-5",
+  "pdf": "https://www.nature.com/articles/s41582-025-01131-5.pdf",
+  "keywords": [
+    "deep brain stimulation",
+    "adaptive DBS",
+    "connectomic DBS",
+    "adaptive circuit targeting",
+    "movement disorders",
+    "neuromodulation"
+  ]
+}

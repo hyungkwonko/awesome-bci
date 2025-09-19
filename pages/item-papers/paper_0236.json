@@ -1,0 +1,40 @@
+{
+  "title": "Directional hand movement can be classified from insular cortex SEEG signals using recurrent neural networks and high-gamma band features",
+  "authors": [
+    "Xiecheng Shao",
+    "Ryan S. Chung",
+    "Jonathon M. Cavaleri",
+    "Roberto Martin Del Campo-Vera",
+    "Miguel Parra",
+    "Shivani Sundaram",
+    "Selena Zhang",
+    "Ashwitha Surabhi",
+    "Ryan J. McGinn",
+    "Charles Y. Liu",
+    "Spencer S. Kellis",
+    "Brian Lee"
+  ],
+  "year": 2025,
+  "publication": "Scientific Reports",
+  "volume": 15,
+  "article_number": 29993,
+  "publisher": "Nature",
+  "open_access": true,
+  "date_published": "2025-08-16",
+  "abstract": "Motor BCIs, with the help of Artificial Intelligence (AI) and machine learning, have shown promise in decoding neural signals for restoring motor function. Structures beyond motor cortex have provided additional sources for movement signals. New evidence points to the role of the insula in motor control, specifically directional hand-movements. In this study, we applied AI and machine learning techniques to decode directional hand-movements from high-gamma band (70-200 Hz) activity in the insular cortex. Seven participants with medication-resistant epilepsy underwent stereo electroencephalographic (SEEG) implantation of depth electrodes for seizure monitoring in the insula. SEEG data were sampled throughout a cued motor task involving three conditions: left-hand movement, right-hand movement, or no movement. Neural signal processing focused on high-gamma band activity. Demixed Principal Component Analysis (dPCA) was used for dimension reduction (d = 10) and feature extraction from the time-frequency analysis. For movement classification, we implemented a bidirectional Long Short-Term Memory (LSTM) architecture with a single layer, utilizing the capacity to process temporal sequences in forward and back directions for optimal decoding of movement direction. Our findings revealed robust directional-specific high-gamma modulation within the insular cortex during motor execution. Temporal decomposition through dPCA demonstrated distinct spatiotemporal patterns of high-gamma activity across movement conditions. Subsequently, LSTM networks successfully decoded these condition-specific neural signatures, achieving a classification accuracy of 72.6% ± 13.0% (mean ± SD), which significantly exceeded chance-level performance of 33.3% (p < 0.0001, n = 16 sessions). Furthermore, we identified a strong negative correlation between temporal distance of training-testing sessions and decoding performance (r = -0.868, p < 0.0001), indicating temporal difference of the neural representations. Our study highlights the potential role of deep brain structures, such as the insula, in conditional movement discrimination. We demonstrate that LSTM networks and high-gamma band analysis can advance the understanding of neural mechanisms underlying movement. These insights may pave the way for improvements in SEEG-based BCI.",
+  "keywords": [
+    "brain-computer interface",
+    "motor control",
+    "SEEG",
+    "insular cortex",
+    "LSTM",
+    "high-gamma band",
+    "neural decoding"
+  ],
+  "doi": "10.1038/s41598-025-29993-y",
+  "pdf": "https://www.nature.com/articles/s41598-025-14805-3.pdf",
+  "url": "https://www.nature.com/articles/s41598-025-14805-3",
+  "metrics": {
+    "accesses": 1431
+  }
+}

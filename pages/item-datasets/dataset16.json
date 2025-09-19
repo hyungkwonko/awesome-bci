@@ -1,0 +1,36 @@
+{
+  "title": "Gesture encoding in human left precentral gyrus neuronal ensembles",
+  "authors": [
+    "Carlos E. Vargas-Irwin",
+    "Tommy Hosman",
+    "Jacob T. Gusman",
+    "Tsam Kiu Pun",
+    "John D. Simeral",
+    "Tyler Singer-Clark",
+    "Anastasia Kapitonava",
+    "Claire Nicolas",
+    "Nishal P. Shah",
+    "Donald T. Avansino",
+    "Foram Kamdar",
+    "Ziv M. Williams",
+    "Jaimie M. Henderson",
+    "Leigh R. Hochberg"
+  ],
+  "year": 2025,
+  "publication": "Communications Biology",
+  "abstract": "Understanding the cortical activity patterns driving dexterous upper limb motion has the potential to benefit a broad clinical population living with limited mobility through the development of novel brain-computer interface (BCI) technology. The present study examines the activity of ensembles of motor cortical neurons recorded using microelectrode arrays in the dominant hemisphere of two BrainGate clinical trial participants with cervical spinal cord injury as they attempted to perform a set of 48 different hand gestures. Although each participant displayed a unique organization of their respective neural latent spaces, it was possible to achieve classification accuracies of ~70% for all 48 gestures (and ~90% for sets of 10). Our results show that single-unit ensemble activity recorded in a single hemisphere of human precentral gyrus has the potential to generate a wide range of gesture-related signals across both hands, providing an intuitive and diverse set of potential command signals for intracortical BCI use.",
+  "keywords": [
+    "brain-computer interface",
+    "gesture decoding",
+    "intracortical recordings",
+    "precentral gyrus",
+    "motor cortex",
+    "neural ensemble dynamics",
+    "BrainGate"
+  ],
+  "url": "https://www.nature.com/articles/s42003-025-08557-z",
+  "pdf": "https://www.nature.com/articles/s42003-025-08557-z.pdf",
+  "download": "https://doi.org/10.5061/dryad.cvdncjtcq",
+  "paper": "https://www.nature.com/articles/s42003-025-08557-z",
+  "code": "https://github.com/cvargasi/GestureEncoding"
+}
